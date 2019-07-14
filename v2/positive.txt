@@ -1,0 +1,3140 @@
+./positive/blue_1_frame1321.png 0
+./positive/blue_1_frame1322.png 0
+./positive/blue_1_frame1323.png 0
+./positive/blue_1_frame1324.png 0
+./positive/blue_1_frame1325.png 0
+./positive/blue_1_frame1326.png 0
+./positive/blue_1_frame1327.png 0
+./positive/blue_1_frame1328.png 0
+./positive/blue_1_frame1329.png 0
+./positive/blue_1_frame133.png 1 427 305 97 78
+./positive/blue_1_frame1330.png 0
+./positive/blue_1_frame1331.png 0
+./positive/blue_1_frame1332.png 0
+./positive/blue_1_frame1333.png 0
+./positive/blue_1_frame1334.png 0
+./positive/blue_1_frame1335.png 0
+./positive/blue_1_frame1336.png 0
+./positive/blue_1_frame1337.png 0
+./positive/blue_1_frame1338.png 0
+./positive/blue_1_frame1339.png 0
+./positive/blue_1_frame1358.png 0
+./positive/blue_1_frame1359.png 0
+./positive/blue_1_frame136.png 1 413 313 104 79
+./positive/blue_1_frame1360.png 0
+./positive/blue_1_frame1361.png 0
+./positive/blue_1_frame1362.png 0
+./positive/blue_1_frame1363.png 0
+./positive/blue_1_frame1364.png 0
+./positive/blue_1_frame1365.png 0
+./positive/blue_1_frame1366.png 0
+./positive/blue_1_frame1367.png 0
+./positive/blue_1_frame1368.png 0
+./positive/blue_1_frame1369.png 0
+./positive/blue_1_frame137.png 1 413 313 97 79
+./positive/blue_1_frame1370.png 0
+./positive/blue_1_frame1371.png 0
+./positive/blue_1_frame1372.png 0
+./positive/blue_1_frame1373.png 0
+./positive/blue_1_frame1374.png 0
+./positive/blue_1_frame1375.png 0
+./positive/blue_1_frame1105.png 1 339 298 49 42
+./positive/blue_1_frame1106.png 1 337 299 52 39
+./positive/blue_1_frame1107.png 1 340 300 52 39
+./positive/blue_1_frame1108.png 1 341 300 52 39
+./positive/blue_1_frame1109.png 1 341 300 52 39
+./positive/blue_1_frame111.png 1 460 202 101 91
+./positive/blue_1_frame1110.png 1 339 299 53 41
+./positive/blue_1_frame1111.png 1 339 299 53 41
+./positive/blue_1_frame1112.png 1 342 298 53 41
+./positive/blue_1_frame1113.png 1 339 299 53 41
+./positive/blue_1_frame1114.png 1 339 299 53 41
+./positive/blue_1_frame1115.png 1 341 299 53 41
+./positive/blue_1_frame1116.png 1 339 294 53 46
+./positive/blue_1_frame1117.png 1 339 294 53 46
+./positive/blue_1_frame1118.png 1 339 294 53 46
+./positive/blue_1_frame1119.png 1 339 294 53 46
+./positive/blue_1_frame112.png 1 460 203 100 93
+./positive/blue_1_frame1120.png 1 335 295 55 46
+./positive/blue_1_frame1121.png 1 335 291 55 49
+./positive/blue_1_frame1122.png 1 335 291 55 49
+./positive/blue_1_frame134.png 1 420 307 102 76
+./positive/blue_1_frame1340.png 0
+./positive/blue_1_frame1341.png 0
+./positive/blue_1_frame1342.png 0
+./positive/blue_1_frame1343.png 0
+./positive/blue_1_frame1344.png 0
+./positive/blue_1_frame1345.png 0
+./positive/blue_1_frame1346.png 0
+./positive/blue_1_frame1347.png 0
+./positive/blue_1_frame1348.png 0
+./positive/blue_1_frame1349.png 0
+./positive/blue_1_frame135.png 1 415 307 105 80
+./positive/blue_1_frame1350.png 0
+./positive/blue_1_frame1351.png 0
+./positive/blue_1_frame1352.png 0
+./positive/blue_1_frame1353.png 0
+./positive/blue_1_frame1354.png 0
+./positive/blue_1_frame1355.png 0
+./positive/blue_1_frame1356.png 0
+./positive/blue_1_frame1357.png 0
+./positive/blue_1_frame1196.png 1 279 300 64 48
+./positive/blue_1_frame1197.png 1 275 300 65 46
+./positive/blue_1_frame1198.png 1 277 299 67 49
+./positive/blue_1_frame1199.png 1 277 301 64 48
+./positive/blue_1_frame12.png 1 553 281 71 55
+./positive/blue_1_frame120.png 1 481 265 97 81
+./positive/blue_1_frame1200.png 1 274 295 69 53
+./positive/blue_1_frame1201.png 1 275 290 70 59
+./positive/blue_1_frame1202.png 1 276 295 67 53
+./positive/blue_1_frame1203.png 1 278 297 65 51
+./positive/blue_1_frame1204.png 1 276 297 65 51
+./positive/blue_1_frame1205.png 1 276 295 67 51
+./positive/blue_1_frame1206.png 1 277 296 67 49
+./positive/blue_1_frame1207.png 1 277 296 65 49
+./positive/blue_1_frame1208.png 1 279 297 64 48
+./positive/blue_1_frame1209.png 1 275 293 67 48
+./positive/blue_1_frame121.png 1 478 273 106 82
+./positive/blue_1_frame1210.png 1 277 296 64 49
+./positive/blue_1_frame1211.png 1 273 294 69 53
+./positive/blue_1_frame1212.png 1 276 296 67 49
+./positive/blue_1_frame1574.png 1 392 340 38 32
+./positive/blue_1_frame1575.png 1 388 341 39 30
+./positive/blue_1_frame1576.png 1 383 343 37 31
+./positive/blue_1_frame1577.png 1 377 343 38 32
+./positive/blue_1_frame1578.png 1 367 346 37 32
+./positive/blue_1_frame1579.png 0
+./positive/blue_1_frame158.png 0
+./positive/blue_1_frame1580.png 0
+./positive/blue_1_frame1581.png 0
+./positive/blue_1_frame1582.png 0
+./positive/blue_1_frame1583.png 0
+./positive/blue_1_frame1584.png 0
+./positive/blue_1_frame1585.png 0
+./positive/blue_1_frame1586.png 0
+./positive/blue_1_frame1141.png 1 301 289 68 52
+./positive/blue_1_frame1142.png 1 301 289 68 52
+./positive/blue_1_frame1587.png 0
+./positive/blue_1_frame1143.png 1 300 290 69 51
+./positive/blue_1_frame1144.png 1 300 289 69 52
+./positive/blue_1_frame1588.png 0
+./positive/blue_1_frame1145.png 1 300 289 69 52
+./positive/blue_1_frame1146.png 1 300 289 69 52
+./positive/blue_1_frame1589.png 0
+./positive/blue_1_frame1147.png 1 299 293 70 48
+./positive/blue_1_frame1148.png 1 298 287 71 56
+./positive/blue_1_frame159.png 0
+./positive/blue_1_frame1149.png 1 300 289 69 52
+./positive/blue_1_frame1590.png 0
+./positive/blue_1_frame115.png 1 471 240 110 69
+./positive/blue_1_frame1591.png 0
+./positive/blue_1_frame1150.png 1 300 289 70 52
+./positive/blue_1_frame1151.png 1 300 289 70 52
+./positive/blue_1_frame1152.png 1 300 289 72 53
+./positive/blue_1_frame1153.png 1 303 294 71 49
+./positive/blue_1_frame1154.png 1 304 294 70 49
+./positive/blue_1_frame1155.png 1 304 296 73 52
+./positive/blue_1_frame1156.png 1 306 295 72 54
+./positive/blue_1_frame1157.png 1 306 295 72 53
+./positive/blue_1_frame1158.png 1 306 292 71 55
+./positive/blue_1_frame1159.png 1 307 293 71 54
+./positive/blue_1_frame1123.png 1 329 294 61 42
+./positive/blue_1_frame1124.png 1 328 293 63 46
+./positive/blue_1_frame1125.png 1 327 293 61 44
+./positive/blue_1_frame1126.png 1 324 289 62 50
+./positive/blue_1_frame1127.png 1 323 291 62 51
+./positive/blue_1_frame1128.png 1 320 291 67 46
+./positive/blue_1_frame1129.png 1 315 287 65 55
+./positive/blue_1_frame113.png 1 461 210 108 90
+./positive/blue_1_frame1130.png 1 313 289 67 52
+./positive/blue_1_frame1131.png 1 310 288 66 54
+./positive/blue_1_frame1132.png 1 307 287 70 55
+./positive/blue_1_frame1133.png 1 307 289 69 54
+./positive/blue_1_frame1134.png 1 307 287 68 58
+./positive/blue_1_frame1135.png 1 305 285 69 59
+./positive/blue_1_frame1136.png 1 303 285 70 59
+./positive/blue_1_frame1137.png 1 302 286 71 59
+./positive/blue_1_frame1138.png 1 302 286 69 59
+./positive/blue_1_frame1139.png 1 301 285 73 62
+./positive/blue_1_frame114.png 1 462 223 121 87
+./positive/blue_1_frame1140.png 1 300 285 74 59
+./positive/blue_1_frame1268.png 1 177 314 63 45
+./positive/blue_1_frame1269.png 1 172 312 57 45
+./positive/blue_1_frame127.png 1 465 285 106 87
+./positive/blue_1_frame1270.png 1 161 308 65 47
+./positive/blue_1_frame1271.png 1 158 313 58 44
+./positive/blue_1_frame1272.png 1 149 309 63 48
+./positive/blue_1_frame1273.png 1 143 313 59 47
+./positive/blue_1_frame1274.png 1 127 313 63 48
+./positive/blue_1_frame1275.png 1 117 312 66 48
+./positive/blue_1_frame1276.png 1 113 313 62 48
+./positive/blue_1_frame1277.png 1 96 312 69 46
+./positive/blue_1_frame1278.png 1 88 312 71 46
+./positive/blue_1_frame1279.png 1 84 314 65 45
+./positive/blue_1_frame128.png 1 455 287 108 77
+./positive/blue_1_frame1280.png 1 76 315 66 44
+./positive/blue_1_frame1281.png 1 64 316 67 46
+./positive/blue_1_frame1282.png 1 58 314 65 49
+./positive/blue_1_frame1283.png 1 51 315 67 44
+./positive/blue_1_frame1284.png 1 47 317 61 41
+./positive/blue_1_frame1285.png 1 38 320 64 41
+./positive/blue_1_frame1286.png 1 36 311 55 47
+./positive/blue_1_frame1287.png 1 24 315 62 44
+./positive/blue_1_frame1288.png 1 18 314 62 48
+./positive/blue_1_frame1289.png 1 21 319 52 41
+./positive/blue_1_frame129.png 1 446 291 100 77
+./positive/blue_1_frame1290.png 1 16 317 53 46
+./positive/blue_1_frame1291.png 1 14 319 49 45
+./positive/blue_1_frame1292.png 1 9 320 48 43
+./positive/blue_1_frame1293.png 1 7 318 46 45
+./positive/blue_1_frame1294.png 1 4 320 40 43
+./positive/blue_1_frame1295.png 1 2 320 38 42
+./positive/blue_1_frame1296.png 1 1 320 36 44
+./positive/blue_1_frame1297.png 1 2 321 34 40
+./positive/blue_1_frame1298.png 1 2 321 30 44
+./positive/blue_1_frame1299.png 1 0 321 24 42
+./positive/blue_1_frame13.png 1 551 281 65 59
+./positive/blue_1_frame130.png 1 442 292 96 81
+./positive/blue_1_frame1300.png 0
+./positive/blue_1_frame1301.png 0
+./positive/blue_1_frame1302.png 0
+./positive/blue_1_frame1646.png 1 314 338 29 24
+./positive/blue_1_frame1647.png 1 314 338 29 24
+./positive/blue_1_frame1648.png 1 314 338 29 24
+./positive/blue_1_frame1649.png 1 319 338 29 24
+./positive/blue_1_frame165.png 1 378 272 90 76
+./positive/blue_1_frame1650.png 1 319 337 29 24
+./positive/blue_1_frame1651.png 1 319 337 29 24
+./positive/blue_1_frame1652.png 1 319 337 29 24
+./positive/blue_1_frame1653.png 1 316 339 29 24
+./positive/blue_1_frame1654.png 1 316 339 29 24
+./positive/blue_1_frame1655.png 1 316 339 29 24
+./positive/blue_1_frame1656.png 1 316 339 29 24
+./positive/blue_1_frame1657.png 1 316 339 29 24
+./positive/blue_1_frame1658.png 1 316 339 29 24
+./positive/blue_1_frame1659.png 1 318 342 31 24
+./positive/blue_1_frame166.png 1 374 270 98 78
+./positive/blue_1_frame1660.png 1 318 342 31 24
+./positive/blue_1_frame1661.png 1 320 342 31 24
+./positive/blue_1_frame1662.png 1 320 342 31 24
+./positive/blue_1_frame1663.png 1 320 342 31 24
+./positive/blue_1_frame1808.png 2 348 332 32 31 409 334 32 26
+./positive/blue_1_frame1809.png 0
+./positive/blue_1_frame181.png 0
+./positive/blue_1_frame1810.png 0
+./positive/blue_1_frame1811.png 0
+./positive/blue_1_frame1812.png 0
+./positive/blue_1_frame1813.png 0
+./positive/blue_1_frame1814.png 0
+./positive/blue_1_frame1815.png 0
+./positive/blue_1_frame1816.png 0
+./positive/blue_1_frame1817.png 0
+./positive/blue_1_frame1818.png 0
+./positive/blue_1_frame1819.png 0
+./positive/blue_1_frame182.png 0
+./positive/blue_1_frame1820.png 0
+./positive/blue_1_frame1821.png 0
+./positive/blue_1_frame1822.png 0
+./positive/blue_1_frame1823.png 0
+./positive/blue_1_frame1824.png 0
+./positive/blue_1_frame1825.png 0
+./positive/blue_1_frame1754.png 2 323 345 32 30 379 344 32 34
+./positive/blue_1_frame1755.png 1 327 341 32 35
+./positive/blue_1_frame1756.png 2 334 344 30 27 385 341 32 31
+./positive/blue_1_frame1757.png 2 333 338 35 33 388 337 30 29
+./positive/blue_1_frame1758.png 0
+./positive/blue_1_frame1759.png 0
+./positive/blue_1_frame176.png 0
+./positive/blue_1_frame1760.png 0
+./positive/blue_1_frame1761.png 0
+./positive/blue_1_frame1762.png 0
+./positive/blue_1_frame1763.png 0
+./positive/blue_1_frame1764.png 0
+./positive/blue_1_frame1765.png 0
+./positive/blue_1_frame1766.png 0
+./positive/blue_1_frame1767.png 0
+./positive/blue_1_frame1768.png 0
+./positive/blue_1_frame1769.png 0
+./positive/blue_1_frame177.png 0
+./positive/blue_1_frame1770.png 0
+./positive/blue_1_frame1771.png 0
+./positive/blue_1_frame1484.png 1 434 346 37 29
+./positive/blue_1_frame1485.png 1 436 346 37 28
+./positive/blue_1_frame1486.png 1 437 346 37 28
+./positive/blue_1_frame1487.png 1 435 346 37 28
+./positive/blue_1_frame1488.png 1 433 346 37 28
+./positive/blue_1_frame1489.png 1 432 346 37 28
+./positive/blue_1_frame149.png 1 396 337 88 72
+./positive/blue_1_frame1490.png 1 432 346 37 28
+./positive/blue_1_frame1491.png 1 432 346 37 28
+./positive/blue_1_frame1492.png 1 430 346 37 28
+./positive/blue_1_frame1493.png 1 424 346 37 28
+./positive/blue_1_frame1494.png 1 423 346 37 28
+./positive/blue_1_frame1495.png 1 421 346 37 28
+./positive/blue_1_frame1496.png 1 419 346 37 28
+./positive/blue_1_frame1497.png 1 414 346 37 28
+./positive/blue_1_frame1498.png 1 411 346 37 28
+./positive/blue_1_frame1499.png 1 406 344 37 28
+./positive/blue_1_frame15.png 1 544 284 65 50
+./positive/blue_1_frame150.png 1 396 332 91 72
+./positive/blue_1_frame1500.png 1 403 344 37 28
+./positive/blue_1_frame143.png 1 403 332 99 82
+./positive/blue_1_frame1430.png 1 161 358 46 30
+./positive/blue_1_frame1431.png 1 165 351 47 37
+./positive/blue_1_frame1432.png 1 176 349 47 37
+./positive/blue_1_frame1433.png 1 182 348 47 37
+./positive/blue_1_frame1434.png 1 189 347 47 37
+./positive/blue_1_frame1435.png 1 202 339 47 37
+./positive/blue_1_frame1436.png 1 205 339 47 37
+./positive/blue_1_frame1437.png 1 213 338 47 37
+./positive/blue_1_frame1438.png 1 217 338 47 37
+./positive/blue_1_frame1439.png 1 227 339 47 37
+./positive/blue_1_frame144.png 1 404 336 98 77
+./positive/blue_1_frame1440.png 1 231 336 47 37
+./positive/blue_1_frame1441.png 1 240 337 47 37
+./positive/blue_1_frame1442.png 1 246 337 47 37
+./positive/blue_1_frame1443.png 1 260 341 47 37
+./positive/blue_1_frame1444.png 1 266 339 47 37
+./positive/blue_1_frame1445.png 1 275 339 47 37
+./positive/blue_1_frame1446.png 1 278 343 47 37
+./positive/blue_1_frame1447.png 1 291 339 47 37
+./positive/blue_1_frame1303.png 0
+./positive/blue_1_frame1304.png 0
+./positive/blue_1_frame1305.png 0
+./positive/blue_1_frame1306.png 0
+./positive/blue_1_frame1307.png 0
+./positive/blue_1_frame1308.png 0
+./positive/blue_1_frame1309.png 0
+./positive/blue_1_frame131.png 1 439 299 96 79
+./positive/blue_1_frame1310.png 0
+./positive/blue_1_frame1311.png 0
+./positive/blue_1_frame1312.png 0
+./positive/blue_1_frame1313.png 0
+./positive/blue_1_frame1314.png 0
+./positive/blue_1_frame1315.png 0
+./positive/blue_1_frame1316.png 0
+./positive/blue_1_frame1317.png 0
+./positive/blue_1_frame1318.png 0
+./positive/blue_1_frame1319.png 0
+./positive/blue_1_frame132.png 1 429 305 104 86
+./positive/blue_1_frame1320.png 0
+./positive/blue_1_frame1970.png 1 222 313 42 37
+./positive/blue_1_frame1971.png 1 222 313 42 37
+./positive/blue_1_frame1972.png 1 222 313 42 37
+./positive/blue_1_frame1973.png 1 222 313 42 37
+./positive/blue_1_frame1974.png 1 222 313 42 37
+./positive/blue_1_frame1975.png 1 222 313 42 37
+./positive/blue_1_frame1976.png 1 222 313 42 37
+./positive/blue_1_frame1977.png 1 222 313 42 37
+./positive/blue_1_frame1978.png 1 222 313 42 37
+./positive/blue_1_frame1979.png 1 222 313 42 37
+./positive/blue_1_frame198.png 1 363 281 87 77
+./positive/blue_1_frame1980.png 1 222 313 42 37
+./positive/blue_1_frame1981.png 1 222 313 42 37
+./positive/blue_1_frame1982.png 1 226 315 42 37
+./positive/blue_1_frame1983.png 1 227 314 42 37
+./positive/blue_1_frame1984.png 1 229 314 42 37
+./positive/blue_1_frame1985.png 1 229 314 42 37
+./positive/blue_1_frame1986.png 1 233 316 42 37
+./positive/blue_1_frame1987.png 1 234 315 42 37
+./positive/blue_1_frame1988.png 1 240 314 42 37
+./positive/blue_1_frame1592.png 1 308 346 33 27
+./positive/blue_1_frame1593.png 1 311 350 25 18
+./positive/blue_1_frame1594.png 1 312 350 25 18
+./positive/blue_1_frame1595.png 1 305 344 34 23
+./positive/blue_1_frame1596.png 1 313 345 26 25
+./positive/blue_1_frame1597.png 1 315 345 25 23
+./positive/blue_1_frame1598.png 1 317 347 30 20
+./positive/blue_1_frame1599.png 1 328 347 27 21
+./positive/blue_1_frame16.png 1 543 284 60 51
+./positive/blue_1_frame160.png 1 384 278 83 66
+./positive/blue_1_frame1600.png 1 336 351 24 17
+./positive/blue_1_frame1601.png 1 341 349 26 20
+./positive/blue_1_frame1602.png 1 347 351 22 13
+./positive/blue_1_frame1603.png 1 350 349 21 20
+./positive/blue_1_frame1604.png 2 353 348 21 19 298 346 13 19
+./positive/blue_1_frame1605.png 2 359 351 19 16 296 344 24 20
+./positive/blue_1_frame1606.png 2 363 351 22 18 300 344 27 20
+./positive/blue_1_frame1607.png 2 371 347 16 21 303 343 29 20
+./positive/blue_1_frame1608.png 2 376 345 17 20 309 341 29 23
+./positive/blue_1_frame1609.png 2 379 345 12 20 310 338 26 25
+./positive/blue_1_frame152.png 1 388 316 111 77
+./positive/blue_1_frame1520.png 1 416 348 56 31
+./positive/blue_1_frame1521.png 1 427 348 51 31
+./positive/blue_1_frame1522.png 1 434 348 50 31
+./positive/blue_1_frame1523.png 1 436 344 49 36
+./positive/blue_1_frame1524.png 1 436 343 50 37
+./positive/blue_1_frame1525.png 1 440 340 50 37
+./positive/blue_1_frame1526.png 1 445 338 50 37
+./positive/blue_1_frame1527.png 1 451 334 50 37
+./positive/blue_1_frame1528.png 1 454 335 50 37
+./positive/blue_1_frame1529.png 1 457 334 50 37
+./positive/blue_1_frame153.png 1 390 310 102 85
+./positive/blue_1_frame1530.png 1 461 333 46 38
+./positive/blue_1_frame1531.png 1 462 330 50 39
+./positive/blue_1_frame1532.png 1 461 332 54 35
+./positive/blue_1_frame1533.png 1 460 331 54 35
+./positive/blue_1_frame1534.png 1 461 332 54 35
+./positive/blue_1_frame1535.png 1 456 332 54 35
+./positive/blue_1_frame1536.png 1 455 332 54 35
+./positive/blue_1_frame1537.png 1 453 332 54 35
+./positive/blue_1_frame1448.png 1 301 341 47 38
+./positive/blue_1_frame1449.png 1 301 341 56 40
+./positive/blue_1_frame145.png 1 403 342 94 77
+./positive/blue_1_frame1450.png 1 318 345 45 34
+./positive/blue_1_frame1451.png 1 326 345 45 34
+./positive/blue_1_frame1452.png 1 339 345 48 34
+./positive/blue_1_frame1453.png 1 347 346 47 33
+./positive/blue_1_frame1454.png 1 358 346 49 33
+./positive/blue_1_frame1455.png 1 367 346 45 29
+./positive/blue_1_frame1456.png 1 374 346 44 32
+./positive/blue_1_frame1457.png 1 381 346 43 32
+./positive/blue_1_frame1458.png 1 385 346 44 32
+./positive/blue_1_frame1459.png 1 396 346 42 32
+./positive/blue_1_frame146.png 1 396 345 102 79
+./positive/blue_1_frame1460.png 1 399 348 41 30
+./positive/blue_1_frame1461.png 1 396 345 47 37
+./positive/blue_1_frame1462.png 1 402 345 49 34
+./positive/blue_1_frame1463.png 1 411 350 46 32
+./positive/blue_1_frame1464.png 1 414 348 46 32
+./positive/blue_1_frame1465.png 1 415 346 46 32
+./positive/blue_1_frame1880.png 1 328 320 46 41
+./positive/blue_1_frame1881.png 1 335 320 46 41
+./positive/blue_1_frame1882.png 1 337 319 49 41
+./positive/blue_1_frame1883.png 1 337 319 54 41
+./positive/blue_1_frame1884.png 1 341 320 49 41
+./positive/blue_1_frame1885.png 1 347 318 49 41
+./positive/blue_1_frame1886.png 1 350 317 49 41
+./positive/blue_1_frame1887.png 1 353 315 49 41
+./positive/blue_1_frame1888.png 1 357 317 49 41
+./positive/blue_1_frame1889.png 1 360 316 49 41
+./positive/blue_1_frame189.png 1 358 279 92 77
+./positive/blue_1_frame1890.png 1 363 318 47 41
+./positive/blue_1_frame1891.png 1 370 318 44 41
+./positive/blue_1_frame1892.png 1 373 318 41 41
+./positive/blue_1_frame1893.png 1 274 329 46 44
+./positive/blue_1_frame1894.png 1 278 329 46 44
+./positive/blue_1_frame1895.png 1 281 329 49 44
+./positive/blue_1_frame1896.png 1 284 329 53 44
+./positive/blue_1_frame1897.png 1 288 327 54 44
+./positive/blue_1_frame1898.png 1 293 327 53 44
+./positive/blue_1_frame1411.png 1 110 395 43 31
+./positive/blue_1_frame1412.png 1 121 397 44 33
+./positive/blue_1_frame1413.png 1 127 399 41 32
+./positive/blue_1_frame1414.png 1 129 398 43 35
+./positive/blue_1_frame1415.png 1 132 393 41 30
+./positive/blue_1_frame1416.png 1 132 391 45 32
+./positive/blue_1_frame1417.png 1 143 394 45 32
+./positive/blue_1_frame1418.png 1 148 392 46 35
+./positive/blue_1_frame1419.png 1 151 389 46 32
+./positive/blue_1_frame142.png 1 407 338 91 76
+./positive/blue_1_frame1420.png 1 154 384 44 34
+./positive/blue_1_frame1421.png 1 159 380 48 31
+./positive/blue_1_frame1422.png 1 165 378 47 34
+./positive/blue_1_frame1423.png 1 167 376 47 35
+./positive/blue_1_frame1424.png 1 167 372 47 35
+./positive/blue_1_frame1425.png 1 166 364 46 38
+./positive/blue_1_frame1426.png 1 162 364 49 36
+./positive/blue_1_frame1427.png 1 158 360 51 38
+./positive/blue_1_frame1428.png 1 151 354 51 38
+./positive/blue_1_frame1429.png 1 152 355 54 35
+./positive/blue_1_frame125.png 1 472 278 98 72
+./positive/blue_1_frame1250.png 1 263 303 57 44
+./positive/blue_1_frame1251.png 1 264 304 55 41
+./positive/blue_1_frame1252.png 1 260 306 58 41
+./positive/blue_1_frame1253.png 1 257 306 59 41
+./positive/blue_1_frame1254.png 1 255 308 57 39
+./positive/blue_1_frame1255.png 1 251 305 59 44
+./positive/blue_1_frame1256.png 1 248 307 57 44
+./positive/blue_1_frame1257.png 1 245 307 59 41
+./positive/blue_1_frame1258.png 1 241 304 62 49
+./positive/blue_1_frame1259.png 1 235 306 65 47
+./positive/blue_1_frame126.png 1 465 283 105 70
+./positive/blue_1_frame1260.png 1 237 306 56 43
+./positive/blue_1_frame1261.png 1 228 306 59 43
+./positive/blue_1_frame1262.png 1 225 307 58 43
+./positive/blue_1_frame1263.png 1 220 307 58 45
+./positive/blue_1_frame1264.png 1 208 307 59 43
+./positive/blue_1_frame1265.png 1 204 309 58 42
+./positive/blue_1_frame1266.png 1 196 308 61 43
+./positive/blue_1_frame1267.png 1 191 308 59 45
+./positive/blue_1_frame1952.png 1 257 326 41 35
+./positive/blue_1_frame1953.png 2 168 319 39 33 265 329 37 29
+./positive/blue_1_frame1954.png 1 175 319 41 31
+./positive/blue_1_frame1955.png 1 179 318 41 33
+./positive/blue_1_frame1956.png 1 183 315 46 35
+./positive/blue_1_frame1957.png 1 187 316 46 35
+./positive/blue_1_frame1958.png 1 191 315 46 35
+./positive/blue_1_frame1959.png 1 196 315 46 35
+./positive/blue_1_frame196.png 1 358 278 93 76
+./positive/blue_1_frame1960.png 1 199 315 46 35
+./positive/blue_1_frame1961.png 1 206 315 46 35
+./positive/blue_1_frame1962.png 1 210 315 46 35
+./positive/blue_1_frame1963.png 1 213 315 46 35
+./positive/blue_1_frame1964.png 1 216 315 46 35
+./positive/blue_1_frame1965.png 1 217 315 46 35
+./positive/blue_1_frame1966.png 1 218 315 46 35
+./positive/blue_1_frame1967.png 1 222 314 46 35
+./positive/blue_1_frame1968.png 1 221 314 46 35
+./positive/blue_1_frame1969.png 1 221 314 46 35
+./positive/blue_1_frame197.png 1 361 284 90 67
+./positive/blue_1_frame1934.png 1 178 326 49 45
+./positive/blue_1_frame1935.png 1 173 328 51 43
+./positive/blue_1_frame1936.png 1 171 325 54 48
+./positive/blue_1_frame1937.png 1 171 323 53 51
+./positive/blue_1_frame1938.png 1 171 323 53 51
+./positive/blue_1_frame1939.png 1 171 323 53 51
+./positive/blue_1_frame194.png 1 358 282 95 79
+./positive/blue_1_frame1940.png 1 178 324 53 50
+./positive/blue_1_frame1941.png 1 178 328 53 47
+./positive/blue_1_frame1942.png 1 182 323 53 51
+./positive/blue_1_frame1943.png 1 186 323 53 51
+./positive/blue_1_frame1944.png 1 195 323 53 51
+./positive/blue_1_frame1945.png 1 201 322 53 51
+./positive/blue_1_frame1946.png 1 208 324 53 51
+./positive/blue_1_frame1947.png 1 213 323 53 51
+./positive/blue_1_frame1948.png 1 220 325 53 51
+./positive/blue_1_frame1949.png 1 223 324 53 51
+./positive/blue_1_frame195.png 1 364 282 92 75
+./positive/blue_1_frame1950.png 1 237 324 53 51
+./positive/blue_1_frame1951.png 1 245 323 53 51
+./positive/blue_1_frame116.png 1 475 247 117 85
+./positive/blue_1_frame1160.png 1 295 287 87 65
+./positive/blue_1_frame1161.png 1 299 287 79 61
+./positive/blue_1_frame1162.png 1 293 288 84 57
+./positive/blue_1_frame1163.png 1 299 287 79 61
+./positive/blue_1_frame1164.png 1 292 289 79 57
+./positive/blue_1_frame1165.png 1 295 293 76 49
+./positive/blue_1_frame1166.png 1 291 288 77 61
+./positive/blue_1_frame1167.png 1 285 288 75 61
+./positive/blue_1_frame1168.png 1 285 293 75 53
+./positive/blue_1_frame1169.png 1 280 293 80 57
+./positive/blue_1_frame117.png 1 473 253 116 83
+./positive/blue_1_frame1170.png 1 280 291 72 53
+./positive/blue_1_frame1171.png 1 276 295 75 56
+./positive/blue_1_frame1172.png 1 276 295 71 56
+./positive/blue_1_frame1173.png 1 277 296 69 52
+./positive/blue_1_frame1174.png 1 275 291 71 61
+./positive/blue_1_frame1175.png 1 271 299 73 51
+./positive/blue_1_frame1176.png 1 275 293 73 56
+./positive/blue_1_frame1177.png 1 269 292 76 57
+./positive/blue_1_frame1826.png 2 324 330 36 29 396 332 37 34
+./positive/blue_1_frame1827.png 3 322 329 36 31 396 332 35 31 322 329 36 31
+./positive/blue_1_frame1828.png 2 319 329 36 31 392 328 36 31
+./positive/blue_1_frame1829.png 2 318 329 36 32 387 327 40 35
+./positive/blue_1_frame183.png 2 241 297 30 62 357 280 98 85
+./positive/blue_1_frame1830.png 2 318 326 35 32 387 329 41 35
+./positive/blue_1_frame1831.png 2 313 328 38 31 384 325 41 36
+./positive/blue_1_frame1832.png 2 312 327 34 32 382 329 40 32
+./positive/blue_1_frame1833.png 2 310 329 38 33 387 327 38 34
+./positive/blue_1_frame1834.png 2 309 329 35 31 381 326 43 32
+./positive/blue_1_frame1835.png 2 311 328 35 28 386 327 38 32
+./positive/blue_1_frame1836.png 2 311 320 38 35 385 324 43 34
+./positive/blue_1_frame1837.png 2 310 323 38 33 388 323 41 37
+./positive/blue_1_frame1838.png 2 316 321 37 32 391 322 42 36
+./positive/blue_1_frame1839.png 2 322 320 38 31 398 316 41 36
+./positive/blue_1_frame184.png 2 236 294 33 72 355 277 100 85
+./positive/blue_1_frame1840.png 2 324 313 39 35 398 312 51 38
+./positive/blue_1_frame1841.png 2 330 316 39 36 408 315 48 38
+./positive/blue_1_frame1842.png 2 332 314 42 32 410 314 47 39
+./positive/blue_1_frame1843.png 2 337 313 40 37 415 314 48 37
+./positive/blue_1_frame170.png 1 371 264 89 75
+./positive/blue_1_frame1700.png 2 343 342 33 33 299 346 25 26
+./positive/blue_1_frame1701.png 2 300 346 25 25 349 345 28 27
+./positive/blue_1_frame1702.png 2 350 348 28 22 304 343 25 25
+./positive/blue_1_frame1703.png 2 305 344 25 27 354 344 25 27
+./positive/blue_1_frame1704.png 2 352 345 28 25 304 346 28 26
+./positive/blue_1_frame1705.png 2 355 346 27 25 306 343 28 26
+./positive/blue_1_frame1706.png 2 359 346 27 23 311 346 25 22
+./positive/blue_1_frame1707.png 2 313 344 25 24 362 340 27 30
+./positive/blue_1_frame1708.png 2 312 341 26 26 358 343 30 26
+./positive/blue_1_frame1709.png 2 317 342 23 25 365 343 25 24
+./positive/blue_1_frame171.png 1 369 270 91 71
+./positive/blue_1_frame1710.png 2 368 342 25 25 317 341 24 25
+./positive/blue_1_frame1711.png 2 319 342 24 23 370 342 25 25
+./positive/blue_1_frame1712.png 2 321 341 24 25 372 341 25 27
+./positive/blue_1_frame1713.png 2 323 339 25 27 372 339 26 27
+./positive/blue_1_frame1714.png 2 328 342 23 23 375 339 27 28
+./positive/blue_1_frame1715.png 2 380 341 24 25 330 339 25 27
+./positive/blue_1_frame1716.png 2 331 341 23 25 378 342 26 23
+./positive/blue_1_frame1717.png 2 331 343 24 23 379 340 26 26
+./positive/blue_1_frame1664.png 2 279 342 17 21 322 342 27 23
+./positive/blue_1_frame1665.png 2 282 344 21 25 321 340 32 29
+./positive/blue_1_frame1666.png 2 284 340 18 27 325 343 31 24
+./positive/blue_1_frame1667.png 2 284 344 22 21 328 345 29 23
+./positive/blue_1_frame1668.png 2 286 345 20 21 328 344 27 23
+./positive/blue_1_frame1669.png 2 283 343 22 25 326 344 30 27
+./positive/blue_1_frame167.png 2 247 289 32 60 370 276 100 69
+./positive/blue_1_frame1670.png 2 284 343 22 25 326 343 32 27
+./positive/blue_1_frame1671.png 2 285 345 22 23 330 349 30 22
+./positive/blue_1_frame1672.png 2 284 343 25 26 326 345 32 26
+./positive/blue_1_frame1673.png 2 286 344 21 24 329 345 27 24
+./positive/blue_1_frame1674.png 2 282 339 22 34 327 344 29 27
+./positive/blue_1_frame1675.png 2 283 342 24 29 327 346 30 22
+./positive/blue_1_frame1676.png 2 286 344 22 25 326 345 34 25
+./positive/blue_1_frame1677.png 2 287 345 20 23 329 349 33 23
+./positive/blue_1_frame1678.png 2 283 342 26 29 331 349 33 21
+./positive/blue_1_frame1679.png 2 284 343 25 31 331 345 30 27
+./positive/blue_1_frame168.png 2 240 287 42 60 370 270 98 70
+./positive/blue_1_frame1680.png 2 287 347 24 24 332 349 30 23
+./positive/blue_1_frame1681.png 2 288 343 20 29 331 347 27 24
+./positive/blue_1_frame1718.png 2 333 345 24 18 382 345 26 17
+./positive/blue_1_frame1719.png 2 335 344 25 16 382 345 26 17
+./positive/blue_1_frame172.png 1 369 272 90 67
+./positive/blue_1_frame1720.png 2 386 343 30 17 334 344 24 15
+./positive/blue_1_frame1721.png 2 388 344 26 17 337 343 26 17
+./positive/blue_1_frame1722.png 2 384 343 26 17 334 342 26 17
+./positive/blue_1_frame1723.png 2 380 340 26 17 329 340 26 17
+./positive/blue_1_frame1724.png 2 376 340 26 17 323 338 26 17
+./positive/blue_1_frame1725.png 2 369 338 28 20 322 340 22 18
+./positive/blue_1_frame1726.png 2 366 345 26 17 314 343 26 17
+./positive/blue_1_frame1727.png 2 308 348 26 17 360 348 28 18
+./positive/blue_1_frame1728.png 2 293 352 26 18 345 354 26 17
+./positive/blue_1_frame1729.png 2 287 352 26 17 339 355 27 17
+./positive/blue_1_frame173.png 1 366 275 90 68
+./positive/blue_1_frame1730.png 2 284 351 26 17 336 353 26 17
+./positive/blue_1_frame1731.png 2 281 350 26 17 334 355 26 17
+./positive/blue_1_frame1732.png 2 281 353 26 17 333 354 26 17
+./positive/blue_1_frame1733.png 2 283 353 26 17 334 356 26 18
+./positive/blue_1_frame1734.png 2 335 358 26 17 282 357 26 17
+./positive/blue_1_frame1735.png 2 281 357 26 17 332 357 28 18
+./positive/blue_1_frame2401.png 2 377 279 53 50 527 287 55 56
+./positive/blue_1_frame2402.png 2 386 279 55 45 541 291 52 54
+./positive/blue_1_frame2403.png 2 394 283 52 41 544 292 61 49
+./positive/blue_1_frame2404.png 2 396 278 62 48 555 288 60 55
+./positive/blue_1_frame2405.png 2 400 274 64 53 568 285 53 60
+./positive/blue_1_frame2406.png 2 401 279 72 42 570 282 61 60
+./positive/blue_1_frame2407.png 2 413 280 66 43 589 282 43 59
+./positive/blue_1_frame2408.png 1 426 276 74 45
+./positive/blue_1_frame2409.png 1 434 274 76 48
+./positive/blue_1_frame241.png 2 358 290 80 69 228 298 27 65
+./positive/blue_1_frame2410.png 1 456 273 65 52
+./positive/blue_1_frame2411.png 1 474 273 67 50
+./positive/blue_1_frame2412.png 1 478 267 72 64
+./positive/blue_1_frame2413.png 1 485 270 78 56
+./positive/blue_1_frame2414.png 1 495 270 81 52
+./positive/blue_1_frame2415.png 1 507 269 85 55
+./positive/blue_1_frame2416.png 1 521 267 77 56
+./positive/blue_1_frame2417.png 1 532 268 79 61
+./positive/blue_1_frame2418.png 1 535 268 83 61
+./positive/blue_1_frame2419.png 1 533 263 97 68
+./positive/blue_1_frame233.png 1 356 291 92 82
+./positive/blue_1_frame2330.png 1 377 279 58 52
+./positive/blue_1_frame2331.png 1 381 278 58 53
+./positive/blue_1_frame2332.png 1 381 278 58 53
+./positive/blue_1_frame2333.png 1 385 273 63 57
+./positive/blue_1_frame2334.png 1 394 275 65 59
+./positive/blue_1_frame2335.png 1 399 277 63 56
+./positive/blue_1_frame2336.png 1 402 276 62 56
+./positive/blue_1_frame2337.png 1 410 274 63 57
+./positive/blue_1_frame2338.png 1 417 274 63 57
+./positive/blue_1_frame2339.png 1 422 274 63 57
+./positive/blue_1_frame234.png 1 359 291 85 89
+./positive/blue_1_frame2340.png 2 436 276 63 57 353 279 43 55
+./positive/blue_1_frame2341.png 2 437 272 63 57 350 276 49 57
+./positive/blue_1_frame2342.png 2 443 274 63 57 353 276 53 56
+./positive/blue_1_frame2343.png 2 450 273 63 57 358 277 48 57
+./positive/blue_1_frame2344.png 2 356 283 54 48 458 278 51 50
+./positive/blue_1_frame2345.png 2 359 275 63 57 466 280 45 47
+./positive/blue_1_frame2346.png 2 363 277 57 54 468 282 51 44
+./positive/blue_1_frame2347.png 1 370 278 63 57
+./positive/blue_1_frame1466.png 2 423 345 41 30 356 339 22 28
+./positive/blue_1_frame1467.png 2 422 345 41 30 360 340 17 29
+./positive/blue_1_frame1468.png 2 422 347 43 26 360 342 20 27
+./positive/blue_1_frame1469.png 2 426 347 41 26 362 338 21 29
+./positive/blue_1_frame147.png 2 397 347 92 73 272 366 19 57
+./positive/blue_1_frame1470.png 2 429 343 41 31 364 337 21 27
+./positive/blue_1_frame1471.png 2 431 345 40 30 366 337 20 27
+./positive/blue_1_frame1472.png 2 429 345 44 28 368 339 20 24
+./positive/blue_1_frame1473.png 2 432 345 41 32 369 338 17 31
+./positive/blue_1_frame1474.png 2 430 345 44 29 369 339 19 29
+./positive/blue_1_frame1475.png 2 433 347 38 28 370 337 18 32
+./positive/blue_1_frame1476.png 2 432 347 42 29 367 338 22 32
+./positive/blue_1_frame1477.png 2 430 345 42 31 366 338 24 29
+./positive/blue_1_frame1478.png 2 429 351 38 25 363 339 23 28
+./positive/blue_1_frame1479.png 2 430 347 40 30 364 341 22 24
+./positive/blue_1_frame148.png 2 395 338 95 79 264 351 31 71
+./positive/blue_1_frame1480.png 2 431 344 39 36 362 336 25 31
+./positive/blue_1_frame1481.png 2 429 347 41 32 366 337 20 35
+./positive/blue_1_frame1482.png 2 426 346 45 29 363 339 23 25
+./positive/blue_1_frame1483.png 2 429 345 41 32 365 339 24 27
+./positive/blue_1_frame2168.png 2 410 289 28 21 473 289 28 26
+./positive/blue_1_frame2169.png 2 409 286 27 26 472 285 31 31
+./positive/blue_1_frame217.png 2 367 294 71 68 227 308 29 56
+./positive/blue_1_frame2170.png 2 412 284 21 25 470 283 32 32
+./positive/blue_1_frame2171.png 2 411 284 23 24 470 284 33 29
+./positive/blue_1_frame2172.png 2 408 286 26 23 470 281 31 26
+./positive/blue_1_frame2173.png 2 409 284 27 29 471 285 32 27
+./positive/blue_1_frame2174.png 2 408 288 21 21 470 287 31 30
+./positive/blue_1_frame2175.png 2 402 287 28 30 463 288 28 32
+./positive/blue_1_frame2176.png 2 402 288 28 27 464 291 29 31
+./positive/blue_1_frame2177.png 2 403 285 28 31 461 287 35 29
+./positive/blue_1_frame2178.png 2 402 288 25 24 461 291 33 24
+./positive/blue_1_frame2179.png 2 399 289 24 25 453 289 37 29
+./positive/blue_1_frame218.png 2 361 293 76 73 218 306 39 61
+./positive/blue_1_frame2180.png 2 392 289 31 25 458 287 27 26
+./positive/blue_1_frame2181.png 2 397 289 20 23 452 289 32 21
+./positive/blue_1_frame2182.png 2 392 282 26 32 445 282 41 39
+./positive/blue_1_frame2183.png 2 391 287 25 25 450 286 32 31
+./positive/blue_1_frame2184.png 2 393 285 23 31 448 288 29 25
+./positive/blue_1_frame2185.png 2 395 286 22 26 448 290 27 26
+./positive/blue_1_frame2186.png 2 387 281 33 35 443 278 39 39
+./positive/blue_1_frame2187.png 2 386 283 36 34 445 279 36 38
+./positive/blue_1_frame2188.png 2 392 282 31 31 442 281 41 36
+./positive/blue_1_frame2189.png 2 393 283 30 30 441 276 43 42
+./positive/blue_1_frame219.png 1 352 283 95 88
+./positive/blue_1_frame2190.png 2 395 285 30 29 447 283 37 32
+./positive/blue_1_frame2191.png 2 395 285 30 29 447 283 37 32
+./positive/blue_1_frame2192.png 2 395 285 30 29 447 283 37 32
+./positive/blue_1_frame2193.png 2 395 285 30 29 452 284 37 32
+./positive/blue_1_frame2194.png 2 399 285 30 29 453 283 37 32
+./positive/blue_1_frame2195.png 2 399 285 30 29 457 283 37 32
+./positive/blue_1_frame2196.png 2 402 288 30 29 456 286 37 32
+./positive/blue_1_frame2197.png 2 402 288 30 29 456 286 37 32
+./positive/blue_1_frame2198.png 2 402 290 30 29 457 287 37 32
+./positive/blue_1_frame2199.png 2 403 288 30 29 457 286 37 32
+./positive/blue_1_frame22.png 1 518 272 71 73
+./positive/blue_1_frame220.png 1 353 284 91 84
+./positive/blue_1_frame2200.png 2 403 288 30 29 458 285 37 32
+./positive/blue_1_frame2201.png 2 402 287 30 29 460 284 37 32
+./positive/blue_1_frame2202.png 2 403 286 30 29 459 285 37 32
+./positive/blue_1_frame2258.png 2 377 283 39 35 463 281 40 38
+./positive/blue_1_frame2259.png 2 375 284 36 37 460 279 43 44
+./positive/blue_1_frame226.png 1 356 295 86 76
+./positive/blue_1_frame2260.png 2 370 284 44 39 461 280 38 39
+./positive/blue_1_frame2261.png 2 373 283 36 39 459 281 41 42
+./positive/blue_1_frame2262.png 1 367 283 39 39
+./positive/blue_1_frame2263.png 1 363 285 41 40
+./positive/blue_1_frame2264.png 1 362 283 37 37
+./positive/blue_1_frame2265.png 1 353 286 42 36
+./positive/blue_1_frame2266.png 1 353 283 36 40
+./positive/blue_1_frame2267.png 1 349 280 38 43
+./positive/blue_1_frame2268.png 1 345 283 40 41
+./positive/blue_1_frame2269.png 1 343 286 40 39
+./positive/blue_1_frame227.png 1 358 295 89 76
+./positive/blue_1_frame2270.png 1 338 282 40 41
+./positive/blue_1_frame2271.png 1 331 283 39 40
+./positive/blue_1_frame2272.png 1 329 284 36 39
+./positive/blue_1_frame2273.png 1 315 286 43 37
+./positive/blue_1_frame2274.png 1 311 285 39 40
+./positive/blue_1_frame2275.png 1 308 283 36 39
+./positive/blue_1_frame2456.png 1 551 270 65 64
+./positive/blue_1_frame2457.png 1 551 270 65 64
+./positive/blue_1_frame2458.png 1 551 270 65 64
+./positive/blue_1_frame2459.png 1 551 270 65 64
+./positive/blue_1_frame246.png 1 356 290 88 80
+./positive/blue_1_frame2460.png 1 548 271 65 64
+./positive/blue_1_frame2461.png 1 546 274 65 64
+./positive/blue_1_frame2462.png 1 542 274 65 64
+./positive/blue_1_frame2463.png 1 538 277 65 64
+./positive/blue_1_frame2464.png 1 538 275 65 64
+./positive/blue_1_frame2465.png 1 537 274 65 64
+./positive/blue_1_frame2466.png 1 532 272 65 64
+./positive/blue_1_frame2467.png 1 530 273 65 64
+./positive/blue_1_frame2468.png 1 522 271 65 64
+./positive/blue_1_frame2469.png 1 516 273 65 64
+./positive/blue_1_frame247.png 1 358 295 84 70
+./positive/blue_1_frame2470.png 1 507 273 65 64
+./positive/blue_1_frame2471.png 1 499 271 65 64
+./positive/blue_1_frame2472.png 1 500 275 65 64
+./positive/blue_1_frame2473.png 1 491 275 65 64
+./positive/blue_1_frame2546.png 1 432 309 50 37
+./positive/blue_1_frame2547.png 1 432 309 50 37
+./positive/blue_1_frame2548.png 1 432 309 50 37
+./positive/blue_1_frame2549.png 1 432 309 50 37
+./positive/blue_1_frame255.png 0
+./positive/blue_1_frame2550.png 1 432 309 50 37
+./positive/blue_1_frame2551.png 1 432 309 50 37
+./positive/blue_1_frame2552.png 1 432 309 50 37
+./positive/blue_1_frame2553.png 1 432 309 50 37
+./positive/blue_1_frame2554.png 1 432 309 50 37
+./positive/blue_1_frame2555.png 1 432 309 50 37
+./positive/blue_1_frame2556.png 1 432 309 50 37
+./positive/blue_1_frame2557.png 1 432 309 50 37
+./positive/blue_1_frame2558.png 1 432 309 50 37
+./positive/blue_1_frame2559.png 1 432 309 50 37
+./positive/blue_1_frame256.png 1 351 287 88 78
+./positive/blue_1_frame2560.png 1 432 309 50 37
+./positive/blue_1_frame2561.png 1 432 309 50 37
+./positive/blue_1_frame2562.png 1 432 309 50 37
+./positive/blue_1_frame2563.png 1 437 306 50 37
+./positive/blue_1_frame224.png 1 352 288 92 76
+./positive/blue_1_frame2240.png 2 404 289 34 36 479 288 35 36
+./positive/blue_1_frame2241.png 2 404 289 34 36 479 288 35 36
+./positive/blue_1_frame2242.png 2 479 288 38 36 404 289 34 36
+./positive/blue_1_frame2243.png 2 404 289 34 36 479 288 38 36
+./positive/blue_1_frame2244.png 2 479 288 40 37 404 288 34 37
+./positive/blue_1_frame2245.png 2 403 287 36 37 479 286 40 36
+./positive/blue_1_frame2246.png 2 481 283 40 37 403 284 36 37
+./positive/blue_1_frame2247.png 2 403 282 36 37 481 283 40 37
+./positive/blue_1_frame2248.png 2 482 281 38 37 400 282 36 37
+./positive/blue_1_frame2249.png 3 400 282 36 37 482 281 38 37 400 282 36 37
+./positive/blue_1_frame225.png 1 355 290 89 78
+./positive/blue_1_frame2250.png 2 478 281 38 37 395 283 36 37
+./positive/blue_1_frame2251.png 2 478 281 38 37 395 283 36 37
+./positive/blue_1_frame2252.png 2 476 281 38 37 391 281 36 37
+./positive/blue_1_frame2253.png 2 472 281 41 37 388 281 39 37
+./positive/blue_1_frame2254.png 2 385 282 38 37 468 278 44 41
+./positive/blue_1_frame2255.png 2 383 282 41 37 468 278 42 41
+./positive/blue_1_frame2256.png 2 381 282 40 37 468 278 42 41
+./positive/blue_1_frame2257.png 2 379 282 39 37 468 278 40 41
+./positive/blue_1_frame2294.png 2 264 290 46 39 355 288 40 41
+./positive/blue_1_frame2295.png 2 276 284 48 41 369 281 38 46
+./positive/blue_1_frame2296.png 1 282 284 50 39
+./positive/blue_1_frame2297.png 1 289 283 47 37
+./positive/blue_1_frame2298.png 1 292 279 45 42
+./positive/blue_1_frame2299.png 1 295 278 47 42
+./positive/blue_1_frame23.png 1 514 278 70 57
+./positive/blue_1_frame230.png 1 355 295 94 69
+./positive/blue_1_frame2300.png 1 300 281 43 39
+./positive/blue_1_frame2301.png 1 304 277 44 41
+./positive/blue_1_frame2302.png 1 308 277 48 39
+./positive/blue_1_frame2303.png 1 315 275 49 40
+./positive/blue_1_frame2304.png 1 322 272 47 41
+./positive/blue_1_frame2305.png 1 326 269 46 41
+./positive/blue_1_frame2306.png 1 333 270 47 39
+./positive/blue_1_frame2307.png 1 339 271 46 38
+./positive/blue_1_frame2308.png 1 346 269 48 40
+./positive/blue_1_frame2309.png 1 350 268 48 40
+./positive/blue_1_frame231.png 1 358 295 88 68
+./positive/blue_1_frame2310.png 1 350 267 54 42
+./positive/blue_1_frame2203.png 2 398 289 36 26 458 287 40 29
+./positive/blue_1_frame2204.png 2 401 288 36 26 453 283 47 33
+./positive/blue_1_frame2205.png 2 398 285 38 30 452 280 48 37
+./positive/blue_1_frame2206.png 2 401 285 34 30 455 280 43 36
+./positive/blue_1_frame2207.png 2 402 287 32 28 455 283 45 34
+./positive/blue_1_frame2208.png 2 404 290 29 25 457 288 41 27
+./positive/blue_1_frame2209.png 2 402 284 30 34 456 285 40 31
+./positive/blue_1_frame221.png 1 350 287 100 73
+./positive/blue_1_frame2210.png 2 402 286 30 30 456 284 42 32
+./positive/blue_1_frame2211.png 2 397 288 37 27 454 284 43 32
+./positive/blue_1_frame2212.png 2 397 289 35 30 453 285 45 31
+./positive/blue_1_frame2213.png 2 399 289 31 27 454 286 41 30
+./positive/blue_1_frame2214.png 2 398 286 31 29 454 287 40 28
+./positive/blue_1_frame2215.png 2 398 289 31 31 455 284 37 33
+./positive/blue_1_frame2216.png 2 395 287 34 30 454 284 41 34
+./positive/blue_1_frame2217.png 2 394 286 34 33 447 286 50 31
+./positive/blue_1_frame2218.png 2 396 290 31 26 451 285 42 32
+./positive/blue_1_frame2219.png 2 394 291 33 27 445 286 53 32
+./positive/blue_1_frame222.png 1 348 283 103 83
+./positive/blue_1_frame2220.png 2 396 291 31 29 453 292 40 28
+./positive/blue_1_frame2564.png 1 441 307 50 37
+./positive/blue_1_frame2565.png 1 443 307 50 37
+./positive/blue_1_frame2566.png 1 449 307 50 37
+./positive/blue_1_frame2567.png 1 449 307 50 37
+./positive/blue_1_frame2568.png 1 451 305 50 37
+./positive/blue_1_frame2569.png 1 454 305 50 39
+./positive/blue_1_frame257.png 1 354 289 84 75
+./positive/blue_1_frame2570.png 1 460 305 50 37
+./positive/blue_1_frame2571.png 1 466 304 50 37
+./positive/blue_1_frame2572.png 1 470 300 50 37
+./positive/blue_1_frame2573.png 1 475 302 50 37
+./positive/blue_1_frame2574.png 1 474 300 50 37
+./positive/blue_1_frame2575.png 1 477 301 50 37
+./positive/blue_1_frame2576.png 1 477 298 50 37
+./positive/blue_1_frame2577.png 1 478 298 50 37
+./positive/blue_1_frame2578.png 1 478 302 50 37
+./positive/blue_1_frame2579.png 1 476 301 50 37
+./positive/blue_1_frame258.png 1 350 287 97 86
+./positive/blue_1_frame2580.png 1 477 303 50 37
+./positive/blue_1_frame2581.png 1 476 305 47 37
+./positive/blue_1_frame2474.png 1 480 277 55 70
+./positive/blue_1_frame2475.png 1 477 276 55 68
+./positive/blue_1_frame2476.png 1 478 279 48 70
+./positive/blue_1_frame2477.png 1 476 284 50 64
+./positive/blue_1_frame2478.png 1 474 280 46 66
+./positive/blue_1_frame2479.png 1 472 279 48 65
+./positive/blue_1_frame248.png 2 355 289 93 87 222 302 38 60
+./positive/blue_1_frame2480.png 1 472 276 50 67
+./positive/blue_1_frame2481.png 1 477 277 47 64
+./positive/blue_1_frame2482.png 1 481 272 50 66
+./positive/blue_1_frame2483.png 1 486 274 48 54
+./positive/blue_1_frame2484.png 1 487 274 50 51
+./positive/blue_1_frame2485.png 1 496 273 43 54
+./positive/blue_1_frame2486.png 1 497 271 40 56
+./positive/blue_1_frame2487.png 1 494 276 41 51
+./positive/blue_1_frame2488.png 1 482 273 48 51
+./positive/blue_1_frame2489.png 1 480 274 42 49
+./positive/blue_1_frame249.png 2 354 294 86 76 224 297 35 66
+./positive/blue_1_frame2490.png 2 474 279 40 48 601 285 38 60
+./positive/blue_1_frame2491.png 2 462 282 41 47 587 290 53 63
+./positive/blue_1_frame1916.png 1 255 323 63 51
+./positive/blue_1_frame1917.png 1 257 322 52 46
+./positive/blue_1_frame1918.png 1 252 322 55 49
+./positive/blue_1_frame1919.png 1 249 325 53 42
+./positive/blue_1_frame192.png 1 365 277 85 74
+./positive/blue_1_frame1920.png 1 245 322 56 43
+./positive/blue_1_frame1921.png 1 239 324 53 43
+./positive/blue_1_frame1922.png 1 229 324 53 44
+./positive/blue_1_frame1923.png 1 225 323 53 44
+./positive/blue_1_frame1924.png 1 218 321 55 47
+./positive/blue_1_frame1925.png 1 212 322 53 44
+./positive/blue_1_frame1926.png 1 200 324 57 45
+./positive/blue_1_frame1927.png 1 197 325 56 43
+./positive/blue_1_frame1928.png 1 195 326 52 41
+./positive/blue_1_frame1929.png 1 187 325 52 42
+./positive/blue_1_frame193.png 1 361 278 89 80
+./positive/blue_1_frame1930.png 1 184 324 53 43
+./positive/blue_1_frame1931.png 1 183 327 53 40
+./positive/blue_1_frame1932.png 1 179 324 53 45
+./positive/blue_1_frame1933.png 1 176 327 56 41
+./positive/blue_1_frame2311.png 1 354 270 45 41
+./positive/blue_1_frame2312.png 1 355 271 45 41
+./positive/blue_1_frame2313.png 1 356 272 45 41
+./positive/blue_1_frame2314.png 1 362 271 45 41
+./positive/blue_1_frame2315.png 1 362 271 45 41
+./positive/blue_1_frame2316.png 1 361 273 45 41
+./positive/blue_1_frame2317.png 1 359 280 51 41
+./positive/blue_1_frame2318.png 1 360 281 51 41
+./positive/blue_1_frame2319.png 1 363 280 51 41
+./positive/blue_1_frame232.png 1 355 296 91 69
+./positive/blue_1_frame2320.png 1 366 280 51 41
+./positive/blue_1_frame2321.png 1 368 281 51 41
+./positive/blue_1_frame2322.png 1 370 281 51 41
+./positive/blue_1_frame2323.png 1 371 282 51 41
+./positive/blue_1_frame2324.png 1 371 282 53 41
+./positive/blue_1_frame2325.png 1 369 283 56 41
+./positive/blue_1_frame2326.png 1 367 282 55 41
+./positive/blue_1_frame2327.png 1 365 281 59 41
+./positive/blue_1_frame2328.png 1 367 281 59 41
+./positive/blue_1_frame2329.png 1 373 280 55 41
+./positive/blue_1_frame2618.png 1 363 304 55 37
+./positive/blue_1_frame2619.png 1 363 302 53 41
+./positive/blue_1_frame262.png 1 351 283 98 81
+./positive/blue_1_frame2620.png 1 363 305 48 40
+./positive/blue_1_frame2621.png 1 358 301 52 39
+./positive/blue_1_frame2622.png 1 360 304 50 31
+./positive/blue_1_frame2623.png 1 359 300 52 39
+./positive/blue_1_frame2624.png 1 362 300 52 39
+./positive/blue_1_frame2625.png 1 363 300 52 39
+./positive/blue_1_frame2626.png 1 365 300 52 39
+./positive/blue_1_frame2627.png 1 368 299 52 39
+./positive/blue_1_frame2628.png 1 373 298 52 39
+./positive/blue_1_frame2629.png 1 377 299 52 39
+./positive/blue_1_frame263.png 1 351 275 99 105
+./positive/blue_1_frame2630.png 1 380 299 52 39
+./positive/blue_1_frame2631.png 1 384 301 52 39
+./positive/blue_1_frame2632.png 1 387 301 52 39
+./positive/blue_1_frame2633.png 1 387 301 52 39
+./positive/blue_1_frame2634.png 1 389 301 52 39
+./positive/blue_1_frame2635.png 1 391 301 52 39
+./positive/blue_1_frame2041.png 1 472 293 57 51
+./positive/blue_1_frame2042.png 1 470 299 60 48
+./positive/blue_1_frame2043.png 2 472 300 60 47 364 297 48 52
+./positive/blue_1_frame2044.png 2 475 300 60 47 365 297 50 52
+./positive/blue_1_frame2045.png 2 476 299 60 47 369 297 48 52
+./positive/blue_1_frame2046.png 2 487 300 60 47 375 296 48 52
+./positive/blue_1_frame2047.png 2 487 299 60 47 376 297 48 52
+./positive/blue_1_frame2048.png 2 491 298 60 47 376 297 48 52
+./positive/blue_1_frame2049.png 2 496 300 60 47 382 298 48 52
+./positive/blue_1_frame205.png 1 360 286 90 83
+./positive/blue_1_frame2050.png 2 498 299 60 47 386 297 48 52
+./positive/blue_1_frame2051.png 2 503 300 60 47 389 296 48 52
+./positive/blue_1_frame2052.png 2 504 299 60 47 394 296 48 52
+./positive/blue_1_frame2053.png 2 515 298 57 47 402 297 51 52
+./positive/blue_1_frame2054.png 1 408 297 48 52
+./positive/blue_1_frame2055.png 1 412 294 49 51
+./positive/blue_1_frame2056.png 1 416 294 49 51
+./positive/blue_1_frame2057.png 1 416 296 51 47
+./positive/blue_1_frame2058.png 1 422 295 47 50
+./positive/blue_1_frame2059.png 1 424 293 49 51
+./positive/blue_1_frame2384.png 1 333 281 48 49
+./positive/blue_1_frame2385.png 1 335 283 47 43
+./positive/blue_1_frame2386.png 1 331 285 50 41
+./positive/blue_1_frame2387.png 1 343 281 40 42
+./positive/blue_1_frame2388.png 1 340 281 44 45
+./positive/blue_1_frame2389.png 1 344 282 40 42
+./positive/blue_1_frame239.png 1 353 290 91 74
+./positive/blue_1_frame2390.png 1 344 282 43 43
+./positive/blue_1_frame2391.png 1 347 281 39 43
+./positive/blue_1_frame2392.png 1 347 281 44 45
+./positive/blue_1_frame2393.png 1 353 281 40 44
+./positive/blue_1_frame2394.png 1 354 280 42 45
+./positive/blue_1_frame2395.png 1 357 280 42 46
+./positive/blue_1_frame2396.png 1 362 281 39 45
+./positive/blue_1_frame2397.png 1 361 279 44 48
+./positive/blue_1_frame2398.png 1 366 279 45 49
+./positive/blue_1_frame2399.png 1 376 281 43 46
+./positive/blue_1_frame24.png 1 513 280 70 57
+./positive/blue_1_frame240.png 1 356 292 84 74
+./positive/blue_1_frame2400.png 1 377 276 45 49
+./positive/blue_1_frame260.png 1 354 292 88 68
+./positive/blue_1_frame2600.png 1 459 308 44 30
+./positive/blue_1_frame2601.png 1 454 308 46 31
+./positive/blue_1_frame2602.png 1 453 308 45 35
+./positive/blue_1_frame2603.png 1 443 308 47 33
+./positive/blue_1_frame2604.png 1 440 309 45 31
+./positive/blue_1_frame2605.png 1 432 308 49 29
+./positive/blue_1_frame2606.png 1 429 309 46 30
+./positive/blue_1_frame2607.png 1 422 307 50 30
+./positive/blue_1_frame2608.png 1 418 306 48 32
+./positive/blue_1_frame2609.png 1 415 305 47 33
+./positive/blue_1_frame261.png 1 355 289 89 73
+./positive/blue_1_frame2610.png 1 413 304 46 33
+./positive/blue_1_frame2611.png 1 406 305 47 31
+./positive/blue_1_frame2612.png 1 401 304 47 32
+./positive/blue_1_frame2613.png 1 390 304 50 31
+./positive/blue_1_frame2614.png 1 389 304 47 32
+./positive/blue_1_frame2615.png 1 385 302 45 34
+./positive/blue_1_frame2616.png 1 376 305 49 30
+./positive/blue_1_frame2617.png 1 373 305 44 31
+./positive/blue_1_frame2636.png 2 394 307 50 37 327 302 43 37
+./positive/blue_1_frame2637.png 2 393 308 50 37 334 301 26 37
+./positive/blue_1_frame2638.png 2 391 312 50 37 328 305 29 34
+./positive/blue_1_frame2639.png 2 387 309 50 37 323 305 29 35
+./positive/blue_1_frame264.png 1 357 289 89 79
+./positive/blue_1_frame2640.png 2 381 311 50 37 318 308 36 34
+./positive/blue_1_frame2641.png 2 375 310 50 37 310 307 39 34
+./positive/blue_1_frame2642.png 2 371 309 50 37 308 304 33 39
+./positive/blue_1_frame2643.png 1 364 309 50 37
+./positive/blue_1_frame2644.png 1 355 308 50 37
+./positive/blue_1_frame2645.png 1 347 311 50 37
+./positive/blue_1_frame2646.png 1 342 310 50 37
+./positive/blue_1_frame2647.png 1 327 309 50 37
+./positive/blue_1_frame2648.png 1 322 308 50 37
+./positive/blue_1_frame2649.png 1 312 311 50 37
+./positive/blue_1_frame265.png 1 359 293 89 77
+./positive/blue_1_frame2650.png 1 306 310 50 37
+./positive/blue_1_frame2651.png 1 299 312 50 37
+./positive/blue_1_frame2652.png 1 292 314 50 37
+./positive/blue_1_frame2653.png 1 283 315 50 37
+./positive/blue_1_frame215.png 1 357 283 89 83
+./positive/blue_1_frame2150.png 1 394 287 37 30
+./positive/blue_1_frame2151.png 1 394 287 37 30
+./positive/blue_1_frame2152.png 1 394 287 37 30
+./positive/blue_1_frame2153.png 1 394 287 37 30
+./positive/blue_1_frame2154.png 1 394 287 37 30
+./positive/blue_1_frame2155.png 1 394 287 37 30
+./positive/blue_1_frame2156.png 1 394 287 37 30
+./positive/blue_1_frame2157.png 1 399 287 32 30
+./positive/blue_1_frame2158.png 1 403 287 32 30
+./positive/blue_1_frame2159.png 1 403 286 32 30
+./positive/blue_1_frame216.png 1 355 287 91 83
+./positive/blue_1_frame2160.png 1 404 285 29 30
+./positive/blue_1_frame2161.png 1 401 286 32 30
+./positive/blue_1_frame2162.png 1 403 287 34 30
+./positive/blue_1_frame2163.png 1 403 288 32 30
+./positive/blue_1_frame2164.png 1 405 286 33 30
+./positive/blue_1_frame2165.png 1 404 287 35 30
+./positive/blue_1_frame2166.png 1 407 288 31 30
+./positive/blue_1_frame2167.png 1 405 287 31 30
+./positive/blue_1_frame2654.png 1 282 313 44 39
+./positive/blue_1_frame2655.png 1 280 312 42 37
+./positive/blue_1_frame2656.png 1 276 313 46 37
+./positive/blue_1_frame2657.png 1 272 317 47 31
+./positive/blue_1_frame2658.png 1 267 314 43 37
+./positive/blue_1_frame2659.png 1 266 311 47 43
+./positive/blue_1_frame266.png 1 353 292 90 79
+./positive/blue_1_frame2660.png 1 268 318 46 35
+./positive/blue_1_frame2661.png 1 275 318 46 36
+./positive/blue_1_frame2662.png 1 270 312 54 47
+./positive/blue_1_frame2663.png 1 286 317 45 40
+./positive/blue_1_frame2664.png 1 291 319 43 34
+./positive/blue_1_frame2665.png 1 287 322 46 37
+./positive/blue_1_frame2666.png 1 296 323 46 40
+./positive/blue_1_frame2667.png 1 299 324 49 40
+./positive/blue_1_frame2668.png 1 302 327 47 37
+./positive/blue_1_frame2669.png 1 305 328 47 34
+./positive/blue_1_frame267.png 1 356 284 89 83
+./positive/blue_1_frame2670.png 1 310 329 46 36
+./positive/blue_1_frame2671.png 1 309 327 51 36
+./positive/blue_1_frame2726.png 1 303 305 29 32
+./positive/blue_1_frame2727.png 1 303 305 27 32
+./positive/blue_1_frame2728.png 1 299 305 30 31
+./positive/blue_1_frame2729.png 1 301 307 28 29
+./positive/blue_1_frame273.png 1 352 292 89 80
+./positive/blue_1_frame2730.png 1 299 309 31 28
+./positive/blue_1_frame2731.png 1 300 309 29 29
+./positive/blue_1_frame2732.png 1 300 309 29 27
+./positive/blue_1_frame2733.png 1 299 308 31 30
+./positive/blue_1_frame2734.png 1 300 309 33 28
+./positive/blue_1_frame2735.png 1 300 306 34 33
+./positive/blue_1_frame2736.png 1 301 307 37 33
+./positive/blue_1_frame2737.png 1 305 309 32 27
+./positive/blue_1_frame2738.png 1 308 306 38 32
+./positive/blue_1_frame2739.png 1 311 307 37 31
+./positive/blue_1_frame274.png 1 352 295 89 77
+./positive/blue_1_frame2740.png 1 315 308 36 34
+./positive/blue_1_frame2741.png 1 317 312 35 29
+./positive/blue_1_frame2742.png 1 319 310 37 32
+./positive/blue_1_frame2743.png 1 321 311 36 32
+./positive/blue_1_frame2834.png 1 357 287 50 37
+./positive/blue_1_frame2835.png 1 355 290 50 37
+./positive/blue_1_frame2836.png 1 357 286 50 37
+./positive/blue_1_frame2837.png 1 354 289 50 37
+./positive/blue_1_frame2838.png 1 356 289 50 37
+./positive/blue_1_frame2839.png 1 357 292 50 37
+./positive/blue_1_frame284.png 1 349 289 90 80
+./positive/blue_1_frame2840.png 1 356 291 50 37
+./positive/blue_1_frame2841.png 1 356 288 50 37
+./positive/blue_1_frame2842.png 1 359 295 39 30
+./positive/blue_1_frame2843.png 1 359 295 41 31
+./positive/blue_1_frame2844.png 1 359 295 41 32
+./positive/blue_1_frame2845.png 1 360 299 35 29
+./positive/blue_1_frame2846.png 1 352 294 50 37
+./positive/blue_1_frame2847.png 1 359 300 40 28
+./positive/blue_1_frame2848.png 1 358 300 38 27
+./positive/blue_1_frame2849.png 1 357 298 41 30
+./positive/blue_1_frame285.png 1 350 292 91 80
+./positive/blue_1_frame2850.png 1 355 295 50 37
+./positive/blue_1_frame2851.png 1 352 293 50 37
+./positive/blue_1_frame2708.png 2 266 305 33 29 346 311 31 27
+./positive/blue_1_frame2709.png 2 270 305 33 29 350 311 31 27
+./positive/blue_1_frame271.png 1 353 288 90 80
+./positive/blue_1_frame2710.png 2 273 305 29 27 352 312 33 28
+./positive/blue_1_frame2711.png 2 276 306 29 27 354 312 33 28
+./positive/blue_1_frame2712.png 2 278 305 29 27 355 312 33 28
+./positive/blue_1_frame2713.png 2 280 305 29 27 357 312 33 28
+./positive/blue_1_frame2714.png 2 284 307 29 27 359 312 33 28
+./positive/blue_1_frame2715.png 2 284 306 29 27 362 313 33 28
+./positive/blue_1_frame2716.png 2 287 307 29 27 361 312 33 28
+./positive/blue_1_frame2717.png 2 289 306 29 27 364 313 33 28
+./positive/blue_1_frame2718.png 2 294 305 29 27 369 311 33 28
+./positive/blue_1_frame2719.png 2 297 306 29 27 370 313 33 28
+./positive/blue_1_frame272.png 1 353 291 89 79
+./positive/blue_1_frame2720.png 2 297 305 30 27 373 312 31 28
+./positive/blue_1_frame2721.png 2 300 306 29 27 373 312 33 28
+./positive/blue_1_frame2722.png 2 300 306 29 27 377 313 29 28
+./positive/blue_1_frame2723.png 2 299 306 31 28 377 312 30 28
+./positive/blue_1_frame2724.png 2 300 306 29 27 377 314 29 26
+./positive/blue_1_frame2725.png 2 301 307 30 27 378 314 27 27
+./positive/blue_1_frame2672.png 1 322 333 49 33
+./positive/blue_1_frame2673.png 1 330 333 41 33
+./positive/blue_1_frame2674.png 1 331 333 40 33
+./positive/blue_1_frame2675.png 1 331 333 40 33
+./positive/blue_1_frame2676.png 1 335 329 40 33
+./positive/blue_1_frame2677.png 1 336 328 40 33
+./positive/blue_1_frame2678.png 1 339 328 40 33
+./positive/blue_1_frame2679.png 1 341 323 40 33
+./positive/blue_1_frame268.png 1 356 286 89 75
+./positive/blue_1_frame2680.png 1 342 321 40 33
+./positive/blue_1_frame2681.png 1 344 320 40 33
+./positive/blue_1_frame2682.png 1 347 319 40 33
+./positive/blue_1_frame2683.png 1 349 318 40 33
+./positive/blue_1_frame2684.png 1 355 318 36 33
+./positive/blue_1_frame2685.png 1 355 316 36 33
+./positive/blue_1_frame2686.png 1 356 317 35 33
+./positive/blue_1_frame2687.png 1 355 317 37 33
+./positive/blue_1_frame2688.png 1 361 318 36 33
+./positive/blue_1_frame2689.png 1 362 316 36 33
+./positive/blue_1_frame269.png 1 351 288 95 77
+./positive/blue_1_frame2762.png 1 290 316 31 27
+./positive/blue_1_frame2763.png 2 295 317 27 25 236 318 25 25
+./positive/blue_1_frame2764.png 2 299 318 27 25 240 318 25 25
+./positive/blue_1_frame2765.png 1 247 320 29 27
+./positive/blue_1_frame2766.png 1 249 321 31 27
+./positive/blue_1_frame2767.png 1 254 321 31 27
+./positive/blue_1_frame2768.png 1 263 321 34 27
+./positive/blue_1_frame2769.png 1 267 321 34 27
+./positive/blue_1_frame277.png 1 353 295 88 85
+./positive/blue_1_frame2770.png 1 270 320 35 27
+./positive/blue_1_frame2771.png 1 273 320 35 27
+./positive/blue_1_frame2772.png 1 283 319 35 27
+./positive/blue_1_frame2773.png 1 289 317 35 27
+./positive/blue_1_frame2774.png 1 295 317 35 27
+./positive/blue_1_frame2775.png 1 301 317 33 25
+./positive/blue_1_frame2776.png 1 306 315 31 25
+./positive/blue_1_frame2777.png 1 311 315 29 25
+./positive/blue_1_frame2778.png 1 317 315 28 25
+./positive/blue_1_frame2779.png 1 253 321 29 24
+./positive/blue_1_frame278.png 1 353 297 87 83
+./positive/blue_1_frame2906.png 1 371 295 37 30
+./positive/blue_1_frame2907.png 1 369 293 37 30
+./positive/blue_1_frame2908.png 1 370 294 37 30
+./positive/blue_1_frame2909.png 1 370 295 37 30
+./positive/blue_1_frame291.png 1 337 289 93 73
+./positive/blue_1_frame2910.png 1 371 296 37 30
+./positive/blue_1_frame2911.png 1 372 296 37 30
+./positive/blue_1_frame2912.png 1 376 294 37 30
+./positive/blue_1_frame2913.png 1 381 293 37 30
+./positive/blue_1_frame2914.png 1 386 287 37 30
+./positive/blue_1_frame2915.png 1 387 287 37 30
+./positive/blue_1_frame2916.png 1 389 286 37 30
+./positive/blue_1_frame2917.png 1 391 285 37 30
+./positive/blue_1_frame2918.png 1 394 282 37 30
+./positive/blue_1_frame2919.png 1 395 282 37 30
+./positive/blue_1_frame292.png 1 337 289 88 71
+./positive/blue_1_frame2920.png 1 400 284 37 30
+./positive/blue_1_frame2921.png 1 400 286 37 30
+./positive/blue_1_frame2922.png 1 402 284 37 30
+./positive/blue_1_frame2923.png 1 401 286 37 30
+./positive/blue_1_frame2997.png 1 419 295 33 27
+./positive/blue_1_frame2998.png 1 413 293 35 30
+./positive/blue_1_frame2999.png 1 403 297 35 31
+./positive/blue_1_frame3.png 1 566 285 65 51
+./positive/blue_1_frame30.png 1 499 278 70 55
+./positive/blue_1_frame300.png 1 323 293 97 75
+./positive/blue_1_frame3000.png 1 396 300 36 29
+./positive/blue_1_frame3001.png 1 396 301 31 31
+./positive/blue_1_frame3002.png 1 397 307 30 29
+./positive/blue_1_frame3003.png 1 399 307 32 32
+./positive/blue_1_frame3004.png 1 401 310 33 28
+./positive/blue_1_frame3005.png 1 407 301 33 27
+./positive/blue_1_frame3006.png 1 409 297 35 29
+./positive/blue_1_frame3007.png 1 413 297 35 29
+./positive/blue_1_frame3008.png 1 415 298 36 31
+./positive/blue_1_frame3009.png 1 419 301 35 31
+./positive/blue_1_frame301.png 1 327 294 89 76
+./positive/blue_1_frame3010.png 1 419 303 32 28
+./positive/blue_1_frame3011.png 1 415 309 34 25
+./positive/blue_1_frame3012.png 1 415 309 34 26
+./positive/blue_1_frame305.png 1 319 290 91 84
+./positive/blue_1_frame3050.png 1 430 301 36 25
+./positive/blue_1_frame3051.png 1 429 301 36 25
+./positive/blue_1_frame3052.png 1 429 299 35 29
+./positive/blue_1_frame3053.png 1 429 299 35 29
+./positive/blue_1_frame3054.png 1 429 299 35 29
+./positive/blue_1_frame3055.png 1 427 298 35 29
+./positive/blue_1_frame3056.png 1 427 298 35 29
+./positive/blue_1_frame3057.png 1 427 298 35 29
+./positive/blue_1_frame3058.png 1 429 299 35 29
+./positive/blue_1_frame3059.png 1 432 298 35 29
+./positive/blue_1_frame306.png 1 315 289 93 91
+./positive/blue_1_frame3060.png 1 433 298 35 29
+./positive/blue_1_frame3061.png 1 435 298 35 29
+./positive/blue_1_frame3062.png 1 436 298 35 29
+./positive/blue_1_frame3063.png 1 437 297 35 29
+./positive/blue_1_frame3064.png 1 440 296 37 31
+./positive/blue_1_frame3065.png 1 442 298 37 29
+./positive/blue_1_frame3066.png 1 443 298 37 30
+./positive/blue_1_frame3067.png 1 444 297 37 33
+./positive/blue_1_frame2438.png 1 569 256 70 70
+./positive/blue_1_frame2439.png 1 563 259 71 73
+./positive/blue_1_frame244.png 1 352 287 90 76
+./positive/blue_1_frame2440.png 1 559 261 71 76
+./positive/blue_1_frame2441.png 1 555 263 66 77
+./positive/blue_1_frame2442.png 1 554 263 65 74
+./positive/blue_1_frame2443.png 1 556 266 63 65
+./positive/blue_1_frame2444.png 0
+./positive/blue_1_frame2445.png 0
+./positive/blue_1_frame2446.png 0
+./positive/blue_1_frame2447.png 0
+./positive/blue_1_frame2448.png 0
+./positive/blue_1_frame2449.png 0
+./positive/blue_1_frame245.png 1 356 289 92 83
+./positive/blue_1_frame2450.png 0
+./positive/blue_1_frame2451.png 0
+./positive/blue_1_frame2452.png 0
+./positive/blue_1_frame2453.png 0
+./positive/blue_1_frame2454.png 0
+./positive/blue_1_frame2455.png 0
+./positive/blue_1_frame2492.png 2 462 286 26 43 591 295 48 52
+./positive/blue_1_frame2493.png 2 454 286 37 54 591 293 49 65
+./positive/blue_1_frame2494.png 2 453 287 37 53 576 292 59 76
+./positive/blue_1_frame2495.png 2 452 289 30 48 561 296 75 66
+./positive/blue_1_frame2496.png 2 445 285 37 51 552 297 76 73
+./positive/blue_1_frame2497.png 2 440 285 32 54 550 285 59 69
+./positive/blue_1_frame2498.png 2 440 289 25 46 545 299 67 62
+./positive/blue_1_frame2499.png 2 434 290 29 44 541 301 58 56
+./positive/blue_1_frame25.png 1 520 283 51 58
+./positive/blue_1_frame250.png 2 366 295 70 70 231 303 18 56
+./positive/blue_1_frame2500.png 2 424 293 23 40 518 303 62 51
+./positive/blue_1_frame2501.png 2 423 293 21 46 516 305 51 47
+./positive/blue_1_frame2502.png 2 418 294 25 48 515 306 49 45
+./positive/blue_1_frame2503.png 2 421 300 27 45 507 304 57 52
+./positive/blue_1_frame2504.png 2 423 296 21 47 516 308 50 50
+./positive/blue_1_frame2505.png 2 427 299 19 39 512 311 54 45
+./positive/blue_1_frame2506.png 2 420 295 21 42 505 307 54 47
+./positive/blue_1_frame2507.png 2 417 296 20 41 499 303 56 55
+./positive/blue_1_frame2508.png 2 414 300 17 32 494 311 50 38
+./positive/blue_1_frame2509.png 2 409 301 17 35 483 306 56 49
+./positive/blue_1_frame1862.png 1 381 305 44 40
+./positive/blue_1_frame1863.png 1 382 303 49 44
+./positive/blue_1_frame1864.png 1 383 303 49 42
+./positive/blue_1_frame1865.png 1 387 302 52 46
+./positive/blue_1_frame1866.png 1 393 308 54 39
+./positive/blue_1_frame1867.png 1 389 305 65 42
+./positive/blue_1_frame1868.png 1 392 302 65 43
+./positive/blue_1_frame1869.png 1 392 303 71 42
+./positive/blue_1_frame187.png 1 353 280 102 76
+./positive/blue_1_frame1870.png 1 397 301 67 48
+./positive/blue_1_frame1871.png 1 397 307 70 42
+./positive/blue_1_frame1872.png 1 408 315 60 40
+./positive/blue_1_frame1873.png 1 405 314 64 45
+./positive/blue_1_frame1874.png 1 404 313 61 45
+./positive/blue_1_frame1875.png 1 409 316 55 38
+./positive/blue_1_frame1876.png 1 407 320 56 39
+./positive/blue_1_frame1877.png 1 411 317 52 46
+./positive/blue_1_frame1878.png 1 322 325 52 36
+./positive/blue_1_frame1879.png 1 323 325 52 36
+./positive/blue_1_frame188.png 1 356 276 97 81
+./positive/blue_1_frame3031.png 1 440 298 50 37
+./positive/blue_1_frame3032.png 1 443 299 50 37
+./positive/blue_1_frame3033.png 1 440 300 50 37
+./positive/blue_1_frame3034.png 1 438 299 50 37
+./positive/blue_1_frame3035.png 1 440 299 45 32
+./positive/blue_1_frame3036.png 1 437 297 50 37
+./positive/blue_1_frame3037.png 1 435 298 50 37
+./positive/blue_1_frame3038.png 1 436 299 48 34
+./positive/blue_1_frame3039.png 1 433 301 50 37
+./positive/blue_1_frame304.png 1 322 294 91 77
+./positive/blue_1_frame3040.png 1 431 301 50 37
+./positive/blue_1_frame3041.png 1 430 301 50 37
+./positive/blue_1_frame3042.png 1 429 301 50 37
+./positive/blue_1_frame3043.png 1 426 298 50 37
+./positive/blue_1_frame3044.png 1 423 301 50 37
+./positive/blue_1_frame3045.png 1 425 299 50 37
+./positive/blue_1_frame3046.png 1 425 296 50 37
+./positive/blue_1_frame3047.png 1 424 301 50 37
+./positive/blue_1_frame3048.png 1 425 297 50 37
+./positive/blue_1_frame3049.png 1 427 299 50 37
+./positive/blue_1_frame3103.png 1 436 295 37 30
+./positive/blue_1_frame3104.png 1 437 295 37 30
+./positive/blue_1_frame3105.png 1 433 295 37 30
+./positive/blue_1_frame3106.png 1 433 295 37 30
+./positive/blue_1_frame3107.png 1 431 294 37 30
+./positive/blue_1_frame3108.png 1 432 294 35 30
+./positive/blue_1_frame3109.png 1 429 297 37 30
+./positive/blue_1_frame311.png 1 290 289 101 85
+./positive/blue_1_frame3110.png 1 426 296 37 30
+./positive/blue_1_frame3111.png 1 426 298 37 30
+./positive/blue_1_frame3112.png 1 424 298 37 30
+./positive/blue_1_frame3113.png 1 423 299 37 30
+./positive/blue_1_frame3114.png 1 424 298 37 30
+./positive/blue_1_frame3115.png 1 420 299 37 30
+./positive/blue_1_frame3116.png 1 418 298 37 30
+./positive/blue_1_frame3117.png 1 419 299 37 30
+./positive/blue_1_frame3118.png 1 418 298 37 30
+./positive/blue_1_frame3119.png 1 417 298 37 30
+./positive/blue_1_frame312.png 1 295 295 86 74
+./positive/blue_1_frame3120.png 1 416 299 37 30
+./positive/blue_1_frame3248.png 0
+./positive/blue_1_frame3249.png 0
+./positive/blue_1_frame325.png 0
+./positive/blue_1_frame3250.png 0
+./positive/blue_1_frame3251.png 0
+./positive/blue_1_frame3252.png 0
+./positive/blue_1_frame3253.png 0
+./positive/blue_1_frame3254.png 0
+./positive/blue_1_frame3255.png 0
+./positive/blue_1_frame3256.png 0
+./positive/blue_1_frame3257.png 0
+./positive/blue_1_frame3258.png 0
+./positive/blue_1_frame3259.png 0
+./positive/blue_1_frame326.png 0
+./positive/blue_1_frame3260.png 0
+./positive/blue_1_frame3261.png 0
+./positive/blue_1_frame3262.png 0
+./positive/blue_1_frame3263.png 0
+./positive/blue_1_frame3264.png 0
+./positive/blue_1_frame3265.png 0
+./positive/blue_1_frame314.png 1 283 292 87 88
+./positive/blue_1_frame3140.png 1 375 307 42 39
+./positive/blue_1_frame3141.png 1 374 309 44 33
+./positive/blue_1_frame3142.png 1 374 309 44 33
+./positive/blue_1_frame3143.png 1 374 309 44 33
+./positive/blue_1_frame3144.png 1 374 309 44 33
+./positive/blue_1_frame3145.png 1 385 307 39 33
+./positive/blue_1_frame3146.png 1 385 304 41 36
+./positive/blue_1_frame3147.png 1 388 301 39 33
+./positive/blue_1_frame3148.png 1 395 299 37 34
+./positive/blue_1_frame3149.png 1 398 297 39 33
+./positive/blue_1_frame315.png 1 283 293 75 81
+./positive/blue_1_frame3150.png 1 398 299 40 30
+./positive/blue_1_frame3151.png 1 400 297 40 30
+./positive/blue_1_frame3152.png 1 400 296 40 30
+./positive/blue_1_frame3153.png 1 399 296 40 30
+./positive/blue_1_frame3154.png 1 398 295 40 30
+./positive/blue_1_frame3155.png 1 397 295 40 30
+./positive/blue_1_frame3156.png 1 397 294 40 30
+./positive/blue_1_frame3157.png 1 396 294 40 30
+./positive/blue_1_frame2276.png 2 304 287 43 40 391 285 46 41
+./positive/blue_1_frame2277.png 2 300 288 44 38 388 285 43 39
+./positive/blue_1_frame2278.png 2 295 287 45 41 386 284 39 44
+./positive/blue_1_frame2279.png 2 291 290 43 35 378 285 40 40
+./positive/blue_1_frame228.png 1 355 292 89 78
+./positive/blue_1_frame2280.png 2 287 287 43 41 375 284 43 45
+./positive/blue_1_frame2281.png 2 287 287 39 39 373 285 40 41
+./positive/blue_1_frame2282.png 2 280 289 43 40 367 286 43 40
+./positive/blue_1_frame2283.png 2 276 289 43 41 361 286 50 49
+./positive/blue_1_frame2284.png 2 269 288 45 41 358 287 41 43
+./positive/blue_1_frame2285.png 2 263 291 44 39 351 285 44 47
+./positive/blue_1_frame2286.png 2 261 289 44 41 349 287 42 44
+./positive/blue_1_frame2287.png 2 259 290 43 39 346 288 41 44
+./positive/blue_1_frame2288.png 2 255 291 41 41 341 289 42 43
+./positive/blue_1_frame2289.png 2 254 291 43 42 341 291 41 41
+./positive/blue_1_frame229.png 1 354 291 89 83
+./positive/blue_1_frame2290.png 2 252 290 43 39 343 290 38 42
+./positive/blue_1_frame2291.png 2 254 290 45 42 343 288 41 43
+./positive/blue_1_frame2292.png 2 255 290 46 42 345 288 41 43
+./positive/blue_1_frame2293.png 2 259 292 45 41 348 289 40 41
+./positive/blue_1_frame2348.png 1 367 279 68 57
+./positive/blue_1_frame2349.png 1 368 283 73 43
+./positive/blue_1_frame235.png 1 351 297 96 67
+./positive/blue_1_frame2350.png 1 376 277 69 57
+./positive/blue_1_frame2351.png 1 377 279 73 52
+./positive/blue_1_frame2352.png 1 391 279 71 56
+./positive/blue_1_frame2353.png 1 392 281 72 51
+./positive/blue_1_frame2354.png 2 401 277 67 49 292 291 37 56
+./positive/blue_1_frame2355.png 2 407 280 65 49 291 293 48 56
+./positive/blue_1_frame2356.png 2 412 277 60 53 295 293 44 51
+./positive/blue_1_frame2357.png 2 299 289 53 57 419 272 63 61
+./positive/blue_1_frame2358.png 2 307 291 53 61 424 281 57 47
+./positive/blue_1_frame2359.png 2 317 292 59 52 432 277 47 52
+./positive/blue_1_frame236.png 1 355 288 95 85
+./positive/blue_1_frame2360.png 2 321 293 60 52 433 277 45 52
+./positive/blue_1_frame2361.png 2 329 293 68 56 437 277 37 49
+./positive/blue_1_frame2362.png 2 337 288 68 56 444 277 33 51
+./positive/blue_1_frame2363.png 1 351 293 81 53
+./positive/blue_1_frame2364.png 1 361 297 79 48
+./positive/blue_1_frame2365.png 1 371 299 81 49
+./positive/blue_1_frame3266.png 2 326 310 32 27 397 299 27 26
+./positive/blue_1_frame3267.png 2 326 310 33 27 396 297 29 31
+./positive/blue_1_frame3268.png 2 328 308 29 29 393 296 32 30
+./positive/blue_1_frame3269.png 2 330 309 25 29 395 297 30 29
+./positive/blue_1_frame327.png 1 339 301 120 89
+./positive/blue_1_frame3270.png 2 328 308 30 29 399 298 27 27
+./positive/blue_1_frame3271.png 2 329 308 25 27 398 297 27 31
+./positive/blue_1_frame3272.png 2 326 306 29 31 397 297 27 27
+./positive/blue_1_frame3273.png 2 323 306 31 28 395 297 30 25
+./positive/blue_1_frame3274.png 1 395 291 29 34
+./positive/blue_1_frame3275.png 1 395 295 29 28
+./positive/blue_1_frame3276.png 1 395 291 29 34
+./positive/blue_1_frame3277.png 1 395 291 29 34
+./positive/blue_1_frame3278.png 1 393 291 29 34
+./positive/blue_1_frame3279.png 1 392 291 29 34
+./positive/blue_1_frame328.png 1 307 308 116 85
+./positive/blue_1_frame3280.png 1 392 292 29 34
+./positive/blue_1_frame3281.png 1 392 299 29 28
+./positive/blue_1_frame3282.png 1 392 299 29 28
+./positive/blue_1_frame3283.png 1 392 299 29 28
+./positive/blue_1_frame3356.png 1 327 301 29 28
+./positive/blue_1_frame3357.png 1 327 301 29 28
+./positive/blue_1_frame3358.png 1 324 302 29 28
+./positive/blue_1_frame3359.png 1 324 302 29 28
+./positive/blue_1_frame336.png 1 414 284 75 69
+./positive/blue_1_frame3360.png 1 324 302 29 28
+./positive/blue_1_frame3361.png 1 324 302 29 28
+./positive/blue_1_frame3362.png 1 324 302 29 28
+./positive/blue_1_frame3363.png 1 324 302 29 28
+./positive/blue_1_frame3364.png 1 324 302 29 28
+./positive/blue_1_frame3365.png 1 324 302 29 28
+./positive/blue_1_frame3366.png 1 324 302 29 28
+./positive/blue_1_frame3367.png 1 324 302 29 28
+./positive/blue_1_frame3368.png 1 324 302 29 28
+./positive/blue_1_frame3369.png 1 324 302 29 28
+./positive/blue_1_frame337.png 1 405 277 85 82
+./positive/blue_1_frame3370.png 1 324 302 29 28
+./positive/blue_1_frame3371.png 1 324 302 29 28
+./positive/blue_1_frame3372.png 1 324 302 29 28
+./positive/blue_1_frame3373.png 1 324 302 29 28
+./positive/blue_1_frame3121.png 1 415 299 38 28
+./positive/blue_1_frame3122.png 1 414 297 37 31
+./positive/blue_1_frame3123.png 1 413 301 39 28
+./positive/blue_1_frame3124.png 1 413 300 35 27
+./positive/blue_1_frame3125.png 1 413 300 35 27
+./positive/blue_1_frame3126.png 1 411 301 37 28
+./positive/blue_1_frame3127.png 1 409 298 37 29
+./positive/blue_1_frame3128.png 1 411 302 36 24
+./positive/blue_1_frame3129.png 1 409 300 37 27
+./positive/blue_1_frame313.png 1 294 295 79 71
+./positive/blue_1_frame3130.png 1 408 303 37 25
+./positive/blue_1_frame3131.png 1 406 299 37 32
+./positive/blue_1_frame3132.png 1 406 298 37 32
+./positive/blue_1_frame3133.png 1 400 302 39 33
+./positive/blue_1_frame3134.png 1 397 305 38 31
+./positive/blue_1_frame3135.png 1 388 310 39 30
+./positive/blue_1_frame3136.png 1 383 309 39 34
+./positive/blue_1_frame3137.png 1 379 314 38 27
+./positive/blue_1_frame3138.png 1 377 312 37 32
+./positive/blue_1_frame3139.png 1 378 314 35 28
+./positive/blue_1_frame3338.png 1 347 296 41 36
+./positive/blue_1_frame3339.png 1 344 297 41 32
+./positive/blue_1_frame334.png 2 231 309 92 96 427 276 63 79
+./positive/blue_1_frame3340.png 1 341 300 45 32
+./positive/blue_1_frame3341.png 1 343 303 41 25
+./positive/blue_1_frame3342.png 1 337 299 41 32
+./positive/blue_1_frame3343.png 1 336 301 44 31
+./positive/blue_1_frame3344.png 1 336 299 41 32
+./positive/blue_1_frame3345.png 1 331 301 45 25
+./positive/blue_1_frame3346.png 1 335 299 41 32
+./positive/blue_1_frame3347.png 1 332 299 49 32
+./positive/blue_1_frame3348.png 1 331 299 41 31
+./positive/blue_1_frame3349.png 1 328 300 44 28
+./positive/blue_1_frame335.png 2 228 305 73 99 424 283 68 72
+./positive/blue_1_frame3350.png 1 327 295 44 41
+./positive/blue_1_frame3351.png 1 328 299 40 29
+./positive/blue_1_frame3352.png 1 323 299 47 28
+./positive/blue_1_frame3353.png 1 323 299 45 35
+./positive/blue_1_frame3354.png 1 324 295 39 37
+./positive/blue_1_frame3355.png 1 324 299 41 29
+./positive/blue_1_frame3284.png 1 388 295 36 31
+./positive/blue_1_frame3285.png 1 389 294 37 30
+./positive/blue_1_frame3286.png 1 388 294 36 28
+./positive/blue_1_frame3287.png 1 391 298 32 24
+./positive/blue_1_frame3288.png 1 391 298 32 24
+./positive/blue_1_frame3289.png 1 391 298 32 24
+./positive/blue_1_frame329.png 1 295 309 112 90
+./positive/blue_1_frame3290.png 1 391 298 32 24
+./positive/blue_1_frame3291.png 1 391 300 32 25
+./positive/blue_1_frame3292.png 1 389 300 34 28
+./positive/blue_1_frame3293.png 1 387 301 33 30
+./positive/blue_1_frame3294.png 1 388 303 33 28
+./positive/blue_1_frame3295.png 1 387 305 32 24
+./positive/blue_1_frame3296.png 1 386 303 33 28
+./positive/blue_1_frame3297.png 1 385 304 33 28
+./positive/blue_1_frame3298.png 1 386 303 35 26
+./positive/blue_1_frame3299.png 1 388 302 31 27
+./positive/blue_1_frame33.png 1 487 273 75 65
+./positive/blue_1_frame330.png 1 282 308 111 87
+./positive/blue_1_frame3300.png 1 383 301 33 27
+./positive/blue_1_frame3374.png 1 379 297 29 28
+./positive/blue_1_frame3375.png 1 379 297 29 28
+./positive/blue_1_frame3376.png 1 379 297 29 28
+./positive/blue_1_frame3377.png 1 379 297 29 28
+./positive/blue_1_frame3378.png 1 376 293 29 28
+./positive/blue_1_frame3379.png 1 376 293 29 28
+./positive/blue_1_frame338.png 1 397 280 89 75
+./positive/blue_1_frame3380.png 1 360 289 29 28
+./positive/blue_1_frame3381.png 1 360 289 29 28
+./positive/blue_1_frame3382.png 1 358 286 29 28
+./positive/blue_1_frame3383.png 1 357 287 29 28
+./positive/blue_1_frame3384.png 1 357 287 29 28
+./positive/blue_1_frame3385.png 1 354 288 34 28
+./positive/blue_1_frame3386.png 1 351 289 38 28
+./positive/blue_1_frame3387.png 1 347 291 38 28
+./positive/blue_1_frame3388.png 1 345 293 38 28
+./positive/blue_1_frame3389.png 1 344 292 38 28
+./positive/blue_1_frame339.png 1 387 281 95 73
+./positive/blue_1_frame3390.png 1 345 292 38 28
+./positive/blue_1_frame3391.png 1 343 292 38 28
+./positive/blue_1_frame3392.png 1 341 291 37 32
+./positive/blue_1_frame3393.png 1 340 292 37 32
+./positive/blue_1_frame3394.png 1 339 291 37 32
+./positive/blue_1_frame3395.png 1 339 291 37 32
+./positive/blue_1_frame3396.png 1 336 292 37 32
+./positive/blue_1_frame3397.png 1 336 292 37 32
+./positive/blue_1_frame3398.png 1 333 294 37 32
+./positive/blue_1_frame3399.png 1 332 295 37 32
+./positive/blue_1_frame34.png 1 486 272 73 66
+./positive/blue_1_frame340.png 1 370 276 100 89
+./positive/blue_1_frame3400.png 1 332 295 37 32
+./positive/blue_1_frame3401.png 1 330 296 38 30
+./positive/blue_1_frame3402.png 1 330 296 37 30
+./positive/blue_1_frame3403.png 1 325 296 41 34
+./positive/blue_1_frame3404.png 1 326 296 37 32
+./positive/blue_1_frame3405.png 1 326 296 36 32
+./positive/blue_1_frame3406.png 1 323 296 35 31
+./positive/blue_1_frame3407.png 1 324 294 32 35
+./positive/blue_1_frame3408.png 1 322 295 32 31
+./positive/blue_1_frame3409.png 1 321 293 34 34
+./positive/blue_1_frame3482.png 1 370 309 32 33
+./positive/blue_1_frame3483.png 1 369 310 33 31
+./positive/blue_1_frame3484.png 1 367 309 34 32
+./positive/blue_1_frame3485.png 1 367 306 31 34
+./positive/blue_1_frame3486.png 1 364 311 35 31
+./positive/blue_1_frame3487.png 1 363 312 35 31
+./positive/blue_1_frame3488.png 1 360 311 36 31
+./positive/blue_1_frame3489.png 1 357 313 37 30
+./positive/blue_1_frame349.png 1 289 282 85 75
+./positive/blue_1_frame3490.png 1 357 314 35 28
+./positive/blue_1_frame3491.png 1 354 314 37 30
+./positive/blue_1_frame3492.png 1 353 315 37 27
+./positive/blue_1_frame3493.png 1 350 310 37 33
+./positive/blue_1_frame3494.png 1 352 313 35 27
+./positive/blue_1_frame3495.png 1 347 313 38 30
+./positive/blue_1_frame3496.png 1 345 311 37 30
+./positive/blue_1_frame3497.png 1 345 313 37 29
+./positive/blue_1_frame3498.png 1 343 311 33 33
+./positive/blue_1_frame3499.png 1 341 315 35 29
+./positive/blue_1_frame35.png 1 479 274 68 63
+./positive/blue_1_frame355.png 1 393 267 97 85
+./positive/blue_1_frame356.png 1 382 273 96 80
+./positive/blue_1_frame357.png 1 367 275 103 79
+./positive/blue_1_frame358.png 1 336 277 110 79
+./positive/blue_1_frame359.png 1 329 275 105 84
+./positive/blue_1_frame36.png 1 475 276 67 59
+./positive/blue_1_frame360.png 1 316 275 102 80
+./positive/blue_1_frame361.png 1 299 282 111 81
+./positive/blue_1_frame362.png 1 292 279 100 77
+./positive/blue_1_frame363.png 1 281 281 96 78
+./positive/blue_1_frame364.png 1 262 280 89 76
+./positive/blue_1_frame365.png 1 259 279 75 74
+./positive/blue_1_frame366.png 1 251 277 77 73
+./positive/blue_1_frame367.png 1 249 279 70 80
+./positive/blue_1_frame368.png 1 395 271 78 82
+./positive/blue_1_frame369.png 1 389 270 79 81
+./positive/blue_1_frame37.png 1 469 267 72 73
+./positive/blue_1_frame370.png 1 384 271 81 81
+./positive/blue_1_frame371.png 1 367 272 90 81
+./positive/blue_1_frame372.png 1 359 274 95 80
+./positive/blue_1_frame350.png 1 282 281 80 76
+./positive/blue_1_frame3500.png 1 335 314 38 25
+./positive/blue_1_frame3501.png 1 333 313 40 26
+./positive/blue_1_frame3502.png 1 329 313 41 27
+./positive/blue_1_frame3503.png 1 329 313 37 27
+./positive/blue_1_frame3504.png 1 325 312 41 27
+./positive/blue_1_frame3505.png 1 324 313 41 27
+./positive/blue_1_frame3506.png 1 322 314 37 27
+./positive/blue_1_frame3507.png 1 320 313 36 27
+./positive/blue_1_frame3508.png 1 318 315 38 25
+./positive/blue_1_frame3509.png 1 317 313 37 27
+./positive/blue_1_frame351.png 1 279 290 72 60
+./positive/blue_1_frame3510.png 1 316 313 38 29
+./positive/blue_1_frame3511.png 1 313 314 39 25
+./positive/blue_1_frame3512.png 1 310 314 36 26
+./positive/blue_1_frame3513.png 1 310 313 35 26
+./positive/blue_1_frame3514.png 1 306 313 39 27
+./positive/blue_1_frame352.png 0
+./positive/blue_1_frame353.png 1 421 270 87 67
+./positive/blue_1_frame354.png 1 413 276 95 63
+./positive/blue_1_frame445.png 1 264 304 94 84
+./positive/blue_1_frame446.png 1 251 305 93 83
+./positive/blue_1_frame447.png 1 221 309 98 82
+./positive/blue_1_frame448.png 1 202 309 102 80
+./positive/blue_1_frame449.png 1 182 308 107 84
+./positive/blue_1_frame45.png 1 431 271 67 57
+./positive/blue_1_frame450.png 1 151 308 105 91
+./positive/blue_1_frame451.png 1 135 306 104 93
+./positive/blue_1_frame452.png 1 118 312 106 91
+./positive/blue_1_frame453.png 1 106 317 100 86
+./positive/blue_1_frame454.png 1 92 318 105 80
+./positive/blue_1_frame455.png 1 83 321 90 84
+./positive/blue_1_frame456.png 0
+./positive/blue_1_frame457.png 0
+./positive/blue_1_frame458.png 1 271 282 77 72
+./positive/blue_1_frame459.png 1 269 283 76 72
+./positive/blue_1_frame46.png 1 432 266 63 67
+./positive/blue_1_frame460.png 1 257 279 85 78
+./positive/blue_1_frame461.png 1 245 282 94 79
+./positive/blue_1_frame462.png 1 229 281 99 81
+./positive/blue_1_frame607.png 0
+./positive/blue_1_frame608.png 0
+./positive/blue_1_frame609.png 0
+./positive/blue_1_frame61.png 1 408 260 77 82
+./positive/blue_1_frame610.png 0
+./positive/blue_1_frame611.png 0
+./positive/blue_1_frame612.png 0
+./positive/blue_1_frame613.png 0
+./positive/blue_1_frame614.png 0
+./positive/blue_1_frame615.png 0
+./positive/blue_1_frame616.png 0
+./positive/blue_1_frame617.png 0
+./positive/blue_1_frame618.png 0
+./positive/blue_1_frame619.png 0
+./positive/blue_1_frame62.png 1 404 259 76 78
+./positive/blue_1_frame620.png 0
+./positive/blue_1_frame621.png 0
+./positive/blue_1_frame622.png 0
+./positive/blue_1_frame623.png 0
+./positive/blue_1_frame624.png 0
+./positive/blue_1_frame625.png 0
+./positive/blue_1_frame626.png 0
+./positive/blue_1_frame627.png 0
+./positive/blue_1_frame628.png 0
+./positive/blue_1_frame629.png 0
+./positive/blue_1_frame63.png 1 399 259 78 79
+./positive/blue_1_frame630.png 0
+./positive/blue_1_frame631.png 0
+./positive/blue_1_frame632.png 0
+./positive/blue_1_frame633.png 0
+./positive/blue_1_frame634.png 0
+./positive/blue_1_frame635.png 0
+./positive/blue_1_frame636.png 0
+./positive/blue_1_frame637.png 0
+./positive/blue_1_frame638.png 0
+./positive/blue_1_frame639.png 0
+./positive/blue_1_frame64.png 1 398 256 79 85
+./positive/blue_1_frame640.png 0
+./positive/blue_1_frame641.png 0
+./positive/blue_1_frame642.png 0
+./positive/blue_1_frame643.png 0
+./positive/blue_1_frame644.png 0
+./positive/blue_1_frame645.png 0
+./positive/blue_1_frame646.png 0
+./positive/blue_1_frame647.png 0
+./positive/blue_1_frame648.png 0
+./positive/blue_1_frame649.png 0
+./positive/blue_1_frame65.png 1 395 260 78 77
+./positive/blue_1_frame650.png 0
+./positive/blue_1_frame651.png 0
+./positive/blue_1_frame652.png 0
+./positive/blue_1_frame653.png 0
+./positive/blue_1_frame654.png 0
+./positive/blue_1_frame655.png 0
+./positive/blue_1_frame656.png 0
+./positive/blue_1_frame657.png 0
+./positive/blue_1_frame658.png 0
+./positive/blue_1_frame659.png 0
+./positive/blue_1_frame66.png 1 395 260 78 77
+./positive/blue_1_frame660.png 0
+./positive/blue_1_frame68.png 0
+./positive/blue_1_frame680.png 1 371 320 71 66
+./positive/blue_1_frame681.png 1 368 320 71 66
+./positive/blue_1_frame682.png 1 365 320 74 66
+./positive/blue_1_frame683.png 1 366 320 73 66
+./positive/blue_1_frame684.png 1 365 320 74 66
+./positive/blue_1_frame685.png 1 366 321 74 66
+./positive/blue_1_frame686.png 1 367 321 73 65
+./positive/blue_1_frame687.png 1 362 320 77 66
+./positive/blue_1_frame688.png 1 366 323 77 66
+./positive/blue_1_frame689.png 1 369 323 73 62
+./positive/blue_1_frame69.png 1 391 258 78 83
+./positive/blue_1_frame690.png 1 367 320 75 66
+./positive/blue_1_frame691.png 1 367 320 75 66
+./positive/blue_1_frame692.png 1 367 320 72 66
+./positive/blue_1_frame693.png 1 368 320 71 66
+./positive/blue_1_frame694.png 1 368 320 71 66
+./positive/blue_1_frame695.png 1 368 320 71 66
+./positive/blue_1_frame696.png 1 368 320 71 66
+./positive/blue_1_frame697.png 1 366 321 71 66
+./positive/blue_1_frame698.png 1 366 320 71 66
+./positive/blue_1_frame699.png 1 365 319 71 66
+./positive/blue_1_frame7.png 1 561 281 71 57
+./positive/blue_1_frame70.png 1 396 257 73 80
+./positive/blue_1_frame700.png 1 362 324 71 63
+./positive/blue_1_frame701.png 1 363 325 70 60
+./positive/blue_1_frame702.png 1 361 324 70 60
+./positive/blue_1_frame703.png 1 359 325 67 60
+./positive/blue_1_frame704.png 1 358 325 66 60
+./positive/blue_1_frame705.png 1 358 325 66 60
+./positive/blue_1_frame706.png 1 355 324 66 60
+./positive/blue_1_frame707.png 1 351 324 66 60
+./positive/blue_1_frame708.png 1 351 323 66 60
+./positive/blue_1_frame709.png 1 350 322 64 60
+./positive/blue_1_frame71.png 1 393 259 79 77
+./positive/blue_1_frame710.png 1 349 323 64 55
+./positive/blue_1_frame711.png 1 347 323 63 57
+./positive/blue_1_frame712.png 1 348 322 63 57
+./positive/blue_1_frame713.png 1 349 323 63 57
+./positive/blue_1_frame714.png 1 348 321 63 55
+./positive/blue_1_frame77.png 1 400 260 75 73
+./positive/blue_1_frame770.png 1 310 320 52 42
+./positive/blue_1_frame771.png 1 311 321 48 43
+./positive/blue_1_frame772.png 1 310 321 48 43
+./positive/blue_1_frame773.png 1 310 321 48 43
+./positive/blue_1_frame774.png 1 309 322 48 43
+./positive/blue_1_frame775.png 1 306 321 48 43
+./positive/blue_1_frame776.png 1 306 321 48 43
+./positive/blue_1_frame777.png 1 306 321 48 43
+./positive/blue_1_frame778.png 1 306 321 48 43
+./positive/blue_1_frame779.png 1 306 321 48 43
+./positive/blue_1_frame78.png 1 399 258 76 78
+./positive/blue_1_frame780.png 1 305 321 48 43
+./positive/blue_1_frame781.png 1 305 323 48 43
+./positive/blue_1_frame782.png 1 306 322 48 43
+./positive/blue_1_frame783.png 1 308 321 48 43
+./positive/blue_1_frame784.png 1 308 321 48 43
+./positive/blue_1_frame785.png 1 309 321 48 43
+./positive/blue_1_frame786.png 1 310 321 48 43
+./positive/blue_1_frame787.png 1 312 321 48 43
+./positive/blue_1_frame931.png 1 270 325 47 38
+./positive/blue_1_frame932.png 1 278 324 43 37
+./positive/blue_1_frame933.png 1 285 323 44 40
+./positive/blue_1_frame934.png 1 287 324 45 39
+./positive/blue_1_frame935.png 1 291 324 42 39
+./positive/blue_1_frame936.png 1 292 325 45 37
+./positive/blue_1_frame937.png 1 300 322 43 40
+./positive/blue_1_frame938.png 1 303 321 43 38
+./positive/blue_1_frame939.png 1 304 319 41 39
+./positive/blue_1_frame94.png 1 437 283 96 80
+./positive/blue_1_frame940.png 1 306 323 43 35
+./positive/blue_1_frame941.png 1 309 324 41 35
+./positive/blue_1_frame942.png 1 312 323 39 35
+./positive/blue_1_frame943.png 1 319 323 42 37
+./positive/blue_1_frame944.png 1 325 322 41 36
+./positive/blue_1_frame945.png 1 330 324 42 36
+./positive/blue_1_frame946.png 1 332 322 43 37
+./positive/blue_1_frame947.png 1 337 325 40 33
+./positive/blue_1_frame948.png 1 346 323 36 36
+./positive/blue_1_frame949.png 1 268 317 31 37
+./positive/blue_1_frame968.png 1 301 315 41 36
+./positive/blue_1_frame969.png 1 303 315 44 38
+./positive/blue_1_frame97.png 1 435 328 103 86
+./positive/blue_1_frame970.png 1 308 314 43 35
+./positive/blue_1_frame971.png 1 317 313 45 36
+./positive/blue_1_frame972.png 1 321 316 46 32
+./positive/blue_1_frame973.png 1 327 316 44 30
+./positive/blue_1_frame974.png 1 334 316 40 29
+./positive/blue_1_frame975.png 1 341 313 41 34
+./positive/blue_1_frame976.png 1 342 315 42 30
+./positive/blue_1_frame977.png 1 349 311 37 34
+./positive/blue_1_frame978.png 1 291 318 29 29
+./positive/blue_1_frame979.png 1 292 319 34 29
+./positive/blue_1_frame98.png 1 437 337 100 88
+./positive/blue_1_frame980.png 1 293 317 34 33
+./positive/blue_1_frame981.png 1 293 318 37 33
+./positive/blue_1_frame982.png 1 298 316 37 35
+./positive/blue_1_frame983.png 1 298 316 40 33
+./positive/blue_1_frame984.png 1 300 316 40 33
+./positive/blue_1_frame985.png 1 302 315 41 34
+./positive/blue_1_frame986.png 1 304 315 42 31
+./positive/blue_1_frame987.png 1 305 315 42 33
+./positive/blue_1_frame988.png 1 308 314 40 32
+./positive/blue_1_frame989.png 1 314 312 39 35
+./positive/blue_1_frame99.png 1 429 345 102 87
+./positive/blue_1_frame990.png 1 318 311 36 34
+./positive/blue_1_frame991.png 1 321 315 36 28
+./positive/blue_1_frame992.png 1 326 312 31 33
+./positive/blue_1_frame993.png 2 246 326 32 35 330 314 27 34
+./positive/blue_1_frame994.png 1 248 327 37 33
+./positive/blue_1_frame995.png 1 253 326 37 36
+./positive/blue_1_frame996.png 1 257 325 37 39
+./positive/blue_1_frame997.png 1 261 326 41 34
+./positive/blue_1_frame998.png 1 271 326 43 35
+./positive/blue_1_frame999.png 1 276 327 42 34
+./positive/blue_2_frame0.png 1 303 131 31 29
+./positive/blue_2_frame1.png 1 299 191 40 39
+./positive/blue_2_frame10.png 1 325 184 44 37
+./positive/blue_2_frame100.png 1 274 240 46 45
+./positive/blue_2_frame1000.png 1 364 187 44 41
+./positive/blue_2_frame1001.png 1 359 186 42 41
+./positive/blue_2_frame1002.png 1 353 186 46 40
+./positive/blue_2_frame1003.png 1 352 185 43 39
+./positive/blue_2_frame1004.png 1 349 186 44 36
+./positive/blue_2_frame1005.png 1 344 185 43 39
+./positive/blue_2_frame1006.png 1 342 183 43 40
+./positive/blue_2_frame1007.png 1 340 183 42 40
+./positive/blue_2_frame1008.png 1 335 182 44 40
+./positive/blue_2_frame1009.png 1 333 182 44 42
+./positive/blue_2_frame101.png 1 273 240 45 41
+./positive/blue_2_frame1010.png 1 330 180 44 41
+./positive/blue_2_frame1011.png 1 327 181 45 39
+./positive/blue_2_frame1012.png 1 324 179 43 40
+./positive/blue_2_frame1013.png 1 322 180 42 40
+./positive/blue_2_frame1014.png 1 320 180 39 39
+./positive/blue_2_frame1015.png 1 317 178 40 39
+./positive/blue_2_frame1016.png 1 316 179 39 38
+./positive/blue_2_frame1017.png 1 313 179 40 38
+./positive/blue_2_frame1018.png 1 311 178 41 39
+./positive/blue_2_frame1019.png 1 309 180 39 38
+./positive/blue_2_frame102.png 1 273 238 45 43
+./positive/blue_2_frame1020.png 1 305 177 41 38
+./positive/blue_2_frame1021.png 1 304 177 40 39
+./positive/blue_2_frame1022.png 1 304 176 39 38
+./positive/blue_2_frame1023.png 1 302 178 40 37
+./positive/blue_2_frame1024.png 1 300 179 40 35
+./positive/blue_2_frame1025.png 1 299 177 40 36
+./positive/blue_2_frame1026.png 1 296 177 39 36
+./positive/blue_2_frame1027.png 1 295 177 39 34
+./positive/blue_2_frame1028.png 1 293 176 40 35
+./positive/blue_2_frame1029.png 1 291 176 38 35
+./positive/blue_2_frame103.png 1 273 242 45 41
+./positive/blue_2_frame1030.png 1 289 175 38 34
+./positive/blue_2_frame1031.png 1 287 175 36 36
+./positive/blue_2_frame1032.png 1 287 174 37 37
+./positive/blue_2_frame1033.png 1 286 173 36 36
+./positive/blue_2_frame1034.png 1 284 173 37 38
+./positive/blue_2_frame1035.png 1 282 174 38 33
+./positive/blue_2_frame1036.png 1 282 175 37 33
+./positive/blue_2_frame1037.png 1 283 173 34 35
+./positive/blue_2_frame1056.png 1 261 169 34 33
+./positive/blue_2_frame1057.png 1 260 170 34 33
+./positive/blue_2_frame1058.png 1 260 170 34 33
+./positive/blue_2_frame1059.png 1 260 169 34 33
+./positive/blue_2_frame106.png 1 272 236 45 42
+./positive/blue_2_frame1060.png 1 260 170 34 33
+./positive/blue_2_frame1061.png 1 260 170 34 33
+./positive/blue_2_frame1062.png 1 260 170 34 33
+./positive/blue_2_frame1063.png 1 260 170 34 33
+./positive/blue_2_frame1064.png 1 260 170 34 33
+./positive/blue_2_frame1065.png 1 260 170 34 33
+./positive/blue_2_frame1066.png 1 260 170 34 33
+./positive/blue_2_frame1067.png 1 260 170 34 33
+./positive/blue_2_frame1068.png 1 259 169 34 33
+./positive/blue_2_frame1069.png 1 259 168 34 33
+./positive/blue_2_frame107.png 1 273 237 43 42
+./positive/blue_2_frame1070.png 1 261 166 32 34
+./positive/blue_2_frame1071.png 1 261 166 32 34
+./positive/blue_2_frame1072.png 1 261 166 32 34
+./positive/blue_2_frame1073.png 1 261 166 32 34
+./positive/blue_2_frame1182.png 1 176 152 37 36
+./positive/blue_2_frame1183.png 1 180 157 35 32
+./positive/blue_2_frame1184.png 1 183 154 39 33
+./positive/blue_2_frame1185.png 1 185 156 40 36
+./positive/blue_2_frame1186.png 1 192 157 36 31
+./positive/blue_2_frame1187.png 1 192 155 39 34
+./positive/blue_2_frame1188.png 1 193 155 40 33
+./positive/blue_2_frame1189.png 1 197 154 39 35
+./positive/blue_2_frame119.png 1 275 230 44 36
+./positive/blue_2_frame1190.png 1 197 153 40 37
+./positive/blue_2_frame1191.png 1 201 156 37 31
+./positive/blue_2_frame1192.png 1 200 157 40 35
+./positive/blue_2_frame1193.png 1 201 153 42 36
+./positive/blue_2_frame1194.png 1 206 156 36 33
+./positive/blue_2_frame1195.png 1 209 158 39 31
+./positive/blue_2_frame1196.png 1 210 154 36 36
+./positive/blue_2_frame1197.png 1 211 157 36 33
+./positive/blue_2_frame1198.png 1 215 157 37 32
+./positive/blue_2_frame1199.png 1 214 157 39 35
+./positive/blue_2_frame12.png 1 331 179 43 38
+./positive/blue_2_frame1128.png 1 207 167 33 29
+./positive/blue_2_frame1129.png 1 207 167 33 29
+./positive/blue_2_frame113.png 1 275 238 40 32
+./positive/blue_2_frame1130.png 1 204 167 33 29
+./positive/blue_2_frame1131.png 1 203 167 34 29
+./positive/blue_2_frame1132.png 1 203 167 33 29
+./positive/blue_2_frame1133.png 1 201 167 34 29
+./positive/blue_2_frame1134.png 1 200 167 33 29
+./positive/blue_2_frame1135.png 1 201 167 35 29
+./positive/blue_2_frame1136.png 1 201 167 35 29
+./positive/blue_2_frame1137.png 1 201 167 35 29
+./positive/blue_2_frame1138.png 1 201 167 37 29
+./positive/blue_2_frame1139.png 1 204 168 35 29
+./positive/blue_2_frame114.png 1 273 235 41 35
+./positive/blue_2_frame1140.png 1 206 168 35 29
+./positive/blue_2_frame1141.png 1 209 168 35 29
+./positive/blue_2_frame1142.png 1 211 169 33 29
+./positive/blue_2_frame1143.png 1 214 169 33 29
+./positive/blue_2_frame1144.png 1 216 168 33 29
+./positive/blue_2_frame1145.png 1 219 168 33 29
+./positive/blue_2_frame1308.png 1 381 171 44 32
+./positive/blue_2_frame1309.png 1 388 171 40 33
+./positive/blue_2_frame131.png 1 300 224 35 33
+./positive/blue_2_frame1310.png 1 384 173 46 29
+./positive/blue_2_frame1311.png 0
+./positive/blue_2_frame1312.png 1 392 169 42 34
+./positive/blue_2_frame1313.png 1 392 170 41 36
+./positive/blue_2_frame1314.png 1 393 171 40 36
+./positive/blue_2_frame1315.png 1 389 170 44 37
+./positive/blue_2_frame1316.png 1 390 171 42 31
+./positive/blue_2_frame1317.png 1 389 169 44 36
+./positive/blue_2_frame1318.png 1 387 170 46 35
+./positive/blue_2_frame1319.png 1 389 166 41 37
+./positive/blue_2_frame132.png 2 298 225 39 31 227 220 31 36
+./positive/blue_2_frame1320.png 1 387 167 44 37
+./positive/blue_2_frame1321.png 1 386 168 44 33
+./positive/blue_2_frame1322.png 1 382 164 45 36
+./positive/blue_2_frame1323.png 1 378 164 48 39
+./positive/blue_2_frame1324.png 1 377 164 48 38
+./positive/blue_2_frame1325.png 1 379 165 44 39
+./positive/blue_2_frame1146.png 2 151 155 33 32 224 171 30 30
+./positive/blue_2_frame1147.png 2 148 155 35 31 229 172 27 28
+./positive/blue_2_frame1148.png 2 152 155 32 31 227 168 30 31
+./positive/blue_2_frame1149.png 2 154 155 33 31 230 169 27 31
+./positive/blue_2_frame115.png 1 273 234 42 37
+./positive/blue_2_frame1150.png 1 152 153 38 34
+./positive/blue_2_frame1151.png 1 154 154 35 31
+./positive/blue_2_frame1152.png 1 155 151 36 37
+./positive/blue_2_frame1153.png 1 160 155 34 32
+./positive/blue_2_frame1154.png 1 161 155 34 33
+./positive/blue_2_frame1155.png 1 159 155 41 33
+./positive/blue_2_frame1156.png 1 163 154 39 34
+./positive/blue_2_frame1157.png 1 165 156 41 32
+./positive/blue_2_frame1158.png 1 167 157 41 31
+./positive/blue_2_frame1159.png 1 169 154 44 36
+./positive/blue_2_frame116.png 1 271 235 47 34
+./positive/blue_2_frame1160.png 1 170 158 43 29
+./positive/blue_2_frame1161.png 1 173 158 41 32
+./positive/blue_2_frame1162.png 1 175 160 38 27
+./positive/blue_2_frame1163.png 1 176 155 43 35
+./positive/blue_2_frame111.png 1 274 238 41 34
+./positive/blue_2_frame1110.png 1 258 172 35 25
+./positive/blue_2_frame1111.png 1 254 172 40 25
+./positive/blue_2_frame1112.png 1 256 168 32 28
+./positive/blue_2_frame1113.png 1 251 166 35 29
+./positive/blue_2_frame1114.png 1 244 168 43 34
+./positive/blue_2_frame1115.png 1 246 168 37 29
+./positive/blue_2_frame1116.png 1 244 170 38 29
+./positive/blue_2_frame1117.png 1 244 169 35 26
+./positive/blue_2_frame1118.png 1 238 171 40 28
+./positive/blue_2_frame1119.png 1 238 171 40 28
+./positive/blue_2_frame112.png 1 270 240 48 33
+./positive/blue_2_frame1120.png 1 231 169 39 32
+./positive/blue_2_frame1121.png 1 226 169 44 29
+./positive/blue_2_frame1122.png 1 226 167 38 36
+./positive/blue_2_frame1123.png 1 215 168 47 31
+./positive/blue_2_frame1124.png 1 212 166 46 32
+./positive/blue_2_frame1125.png 1 214 165 40 36
+./positive/blue_2_frame1126.png 1 212 169 40 28
+./positive/blue_2_frame1127.png 1 208 166 40 28
+./positive/blue_2_frame1236.png 1 239 164 40 29
+./positive/blue_2_frame1237.png 1 231 164 40 29
+./positive/blue_2_frame1238.png 1 228 164 40 29
+./positive/blue_2_frame1239.png 1 223 164 40 29
+./positive/blue_2_frame124.png 1 287 230 44 35
+./positive/blue_2_frame1240.png 1 210 158 47 34
+./positive/blue_2_frame1241.png 1 206 159 46 33
+./positive/blue_2_frame1242.png 1 202 156 47 36
+./positive/blue_2_frame1243.png 1 196 155 45 34
+./positive/blue_2_frame1244.png 1 191 154 49 38
+./positive/blue_2_frame1245.png 1 188 155 47 37
+./positive/blue_2_frame1246.png 1 187 157 46 35
+./positive/blue_2_frame1247.png 1 185 154 46 34
+./positive/blue_2_frame1248.png 1 184 154 46 37
+./positive/blue_2_frame1249.png 1 184 154 43 32
+./positive/blue_2_frame125.png 1 288 228 43 34
+./positive/blue_2_frame1250.png 1 181 154 47 36
+./positive/blue_2_frame1251.png 1 182 155 44 34
+./positive/blue_2_frame1252.png 1 182 156 44 30
+./positive/blue_2_frame1253.png 1 183 158 44 31
+./positive/blue_2_frame120.png 1 273 230 48 37
+./positive/blue_2_frame1200.png 1 217 158 35 30
+./positive/blue_2_frame1201.png 1 215 156 42 32
+./positive/blue_2_frame1202.png 1 216 157 42 32
+./positive/blue_2_frame1203.png 1 218 157 42 32
+./positive/blue_2_frame1204.png 1 222 158 42 32
+./positive/blue_2_frame1205.png 1 223 158 42 32
+./positive/blue_2_frame1206.png 1 225 157 42 32
+./positive/blue_2_frame1207.png 1 227 158 42 32
+./positive/blue_2_frame1208.png 1 229 159 42 32
+./positive/blue_2_frame1209.png 1 233 159 42 32
+./positive/blue_2_frame121.png 1 281 232 42 32
+./positive/blue_2_frame1210.png 1 236 159 42 32
+./positive/blue_2_frame1211.png 1 237 159 42 32
+./positive/blue_2_frame1212.png 1 242 159 42 32
+./positive/blue_2_frame1213.png 1 245 160 42 32
+./positive/blue_2_frame1214.png 1 245 160 42 32
+./positive/blue_2_frame1215.png 1 247 159 42 32
+./positive/blue_2_frame1216.png 1 249 160 42 32
+./positive/blue_2_frame1217.png 1 250 160 42 32
+./positive/blue_2_frame1416.png 2 357 165 36 35 283 158 35 42
+./positive/blue_2_frame1417.png 1 357 168 37 31
+./positive/blue_2_frame1418.png 1 354 163 37 41
+./positive/blue_2_frame1419.png 1 354 163 39 37
+./positive/blue_2_frame142.png 1 235 222 41 31
+./positive/blue_2_frame1420.png 1 351 163 41 38
+./positive/blue_2_frame1421.png 1 351 165 39 35
+./positive/blue_2_frame1422.png 1 352 166 38 36
+./positive/blue_2_frame1423.png 1 346 163 38 40
+./positive/blue_2_frame1424.png 1 346 164 36 33
+./positive/blue_2_frame1425.png 1 338 166 42 34
+./positive/blue_2_frame1426.png 1 337 161 41 38
+./positive/blue_2_frame1427.png 1 337 161 39 40
+./positive/blue_2_frame1428.png 1 338 164 35 34
+./positive/blue_2_frame1429.png 1 329 162 41 33
+./positive/blue_2_frame143.png 1 237 217 40 41
+./positive/blue_2_frame1430.png 1 325 160 46 41
+./positive/blue_2_frame1431.png 1 324 164 43 33
+./positive/blue_2_frame1432.png 1 323 162 38 38
+./positive/blue_2_frame1433.png 1 321 163 39 34
+./positive/blue_2_frame1164.png 1 181 155 37 35
+./positive/blue_2_frame1165.png 1 184 157 37 33
+./positive/blue_2_frame1166.png 1 185 154 37 35
+./positive/blue_2_frame1167.png 1 191 155 35 35
+./positive/blue_2_frame1168.png 1 194 157 33 30
+./positive/blue_2_frame1169.png 1 197 155 31 35
+./positive/blue_2_frame117.png 1 273 233 43 39
+./positive/blue_2_frame1170.png 1 199 159 32 30
+./positive/blue_2_frame1171.png 2 201 159 32 30 141 152 31 33
+./positive/blue_2_frame1172.png 2 206 159 28 30 143 152 31 34
+./positive/blue_2_frame1173.png 2 145 152 30 32 205 157 29 31
+./positive/blue_2_frame1174.png 1 146 152 30 32
+./positive/blue_2_frame1175.png 1 150 152 30 32
+./positive/blue_2_frame1176.png 1 153 154 33 32
+./positive/blue_2_frame1177.png 1 153 153 35 32
+./positive/blue_2_frame1178.png 1 156 155 35 32
+./positive/blue_2_frame1179.png 1 161 154 35 32
+./positive/blue_2_frame118.png 1 274 230 42 42
+./positive/blue_2_frame1180.png 1 168 154 33 32
+./positive/blue_2_frame1181.png 1 172 154 34 32
+./positive/blue_2_frame1434.png 1 317 163 43 34
+./positive/blue_2_frame1435.png 1 315 165 42 31
+./positive/blue_2_frame1436.png 1 308 161 46 37
+./positive/blue_2_frame1437.png 1 310 160 40 37
+./positive/blue_2_frame1438.png 1 306 163 42 34
+./positive/blue_2_frame1439.png 1 305 164 40 31
+./positive/blue_2_frame144.png 1 237 216 42 38
+./positive/blue_2_frame1440.png 1 299 162 45 34
+./positive/blue_2_frame1441.png 1 299 163 41 33
+./positive/blue_2_frame1442.png 1 297 164 40 32
+./positive/blue_2_frame1443.png 1 297 163 41 35
+./positive/blue_2_frame1444.png 1 293 159 42 34
+./positive/blue_2_frame1445.png 1 293 161 40 33
+./positive/blue_2_frame1446.png 1 294 162 38 32
+./positive/blue_2_frame1447.png 1 291 162 43 34
+./positive/blue_2_frame1448.png 1 294 162 35 31
+./positive/blue_2_frame1449.png 1 292 161 38 34
+./positive/blue_2_frame145.png 1 237 215 45 40
+./positive/blue_2_frame1450.png 1 291 160 40 35
+./positive/blue_2_frame1451.png 1 294 163 36 30
+./positive/blue_2_frame1380.png 1 245 149 51 46
+./positive/blue_2_frame1381.png 1 245 154 48 42
+./positive/blue_2_frame1382.png 1 248 156 46 36
+./positive/blue_2_frame1383.png 1 249 158 41 36
+./positive/blue_2_frame1384.png 1 250 157 44 38
+./positive/blue_2_frame1385.png 1 254 156 43 39
+./positive/blue_2_frame1386.png 1 252 152 47 45
+./positive/blue_2_frame1387.png 1 256 156 42 41
+./positive/blue_2_frame1388.png 1 257 156 42 36
+./positive/blue_2_frame1389.png 1 257 155 41 36
+./positive/blue_2_frame139.png 1 234 214 34 43
+./positive/blue_2_frame1390.png 1 260 158 39 33
+./positive/blue_2_frame1391.png 1 259 155 43 39
+./positive/blue_2_frame1392.png 1 258 157 45 35
+./positive/blue_2_frame1393.png 1 260 156 45 36
+./positive/blue_2_frame1394.png 1 262 159 43 35
+./positive/blue_2_frame1395.png 1 261 156 47 38
+./positive/blue_2_frame1396.png 1 264 157 47 37
+./positive/blue_2_frame1397.png 1 264 157 48 37
+./positive/blue_2_frame1398.png 1 265 157 51 37
+./positive/blue_2_frame1326.png 1 377 165 41 32
+./positive/blue_2_frame1327.png 1 376 166 39 32
+./positive/blue_2_frame1328.png 1 375 165 40 32
+./positive/blue_2_frame1329.png 1 373 166 39 32
+./positive/blue_2_frame133.png 2 300 222 33 34 229 221 30 33
+./positive/blue_2_frame1330.png 1 369 167 39 32
+./positive/blue_2_frame1331.png 1 366 165 40 33
+./positive/blue_2_frame1332.png 1 365 166 39 34
+./positive/blue_2_frame1333.png 1 362 166 42 35
+./positive/blue_2_frame1334.png 1 362 165 38 34
+./positive/blue_2_frame1335.png 1 358 166 41 31
+./positive/blue_2_frame1336.png 1 356 166 39 31
+./positive/blue_2_frame1337.png 1 354 166 39 34
+./positive/blue_2_frame1338.png 1 351 168 40 32
+./positive/blue_2_frame1339.png 1 349 165 39 35
+./positive/blue_2_frame134.png 2 302 224 31 34 227 223 34 32
+./positive/blue_2_frame1340.png 1 346 164 39 36
+./positive/blue_2_frame1341.png 1 343 166 40 33
+./positive/blue_2_frame1342.png 1 342 166 38 33
+./positive/blue_2_frame1343.png 1 336 165 38 31
+./positive/blue_2_frame1399.png 1 268 159 41 36
+./positive/blue_2_frame14.png 1 335 177 47 40
+./positive/blue_2_frame140.png 1 233 217 38 35
+./positive/blue_2_frame1400.png 1 269 158 43 35
+./positive/blue_2_frame1401.png 1 274 159 40 35
+./positive/blue_2_frame1402.png 1 274 157 43 35
+./positive/blue_2_frame1403.png 1 276 157 43 35
+./positive/blue_2_frame1404.png 1 278 159 41 35
+./positive/blue_2_frame1405.png 1 278 159 41 35
+./positive/blue_2_frame1406.png 1 281 159 41 35
+./positive/blue_2_frame1407.png 1 281 159 41 35
+./positive/blue_2_frame1408.png 1 281 159 41 35
+./positive/blue_2_frame1409.png 1 281 159 41 35
+./positive/blue_2_frame141.png 1 231 218 41 35
+./positive/blue_2_frame1410.png 1 285 160 38 35
+./positive/blue_2_frame1411.png 1 285 160 38 35
+./positive/blue_2_frame1412.png 1 285 160 38 35
+./positive/blue_2_frame1413.png 1 285 160 38 35
+./positive/blue_2_frame1414.png 1 285 160 34 35
+./positive/blue_2_frame1415.png 1 285 160 34 35
+./positive/blue_2_frame1687.png 1 149 167 41 29
+./positive/blue_2_frame1688.png 1 148 165 45 35
+./positive/blue_2_frame1689.png 1 151 163 39 34
+./positive/blue_2_frame169.png 1 292 210 39 32
+./positive/blue_2_frame1690.png 1 148 166 46 30
+./positive/blue_2_frame1691.png 1 154 162 42 35
+./positive/blue_2_frame1692.png 1 158 161 35 36
+./positive/blue_2_frame1693.png 1 156 162 44 34
+./positive/blue_2_frame1694.png 1 162 165 39 31
+./positive/blue_2_frame1695.png 1 164 162 39 33
+./positive/blue_2_frame1696.png 1 168 159 37 36
+./positive/blue_2_frame1697.png 1 172 164 36 26
+./positive/blue_2_frame1698.png 1 175 160 32 34
+./positive/blue_2_frame1699.png 1 173 164 42 33
+./positive/blue_2_frame17.png 1 344 181 49 42
+./positive/blue_2_frame170.png 1 294 211 45 32
+./positive/blue_2_frame1700.png 1 177 159 35 37
+./positive/blue_2_frame1701.png 1 181 161 38 33
+./positive/blue_2_frame1702.png 1 187 163 34 30
+./positive/blue_2_frame1703.png 1 185 162 36 30
+./positive/blue_2_frame1452.png 1 294 163 36 28
+./positive/blue_2_frame1453.png 1 293 163 35 26
+./positive/blue_2_frame1454.png 1 293 163 37 26
+./positive/blue_2_frame1455.png 1 294 163 35 26
+./positive/blue_2_frame1456.png 1 291 160 39 27
+./positive/blue_2_frame1457.png 1 294 162 32 28
+./positive/blue_2_frame1458.png 1 291 157 39 34
+./positive/blue_2_frame1459.png 1 292 162 34 25
+./positive/blue_2_frame146.png 1 240 216 43 36
+./positive/blue_2_frame1460.png 1 290 159 34 31
+./positive/blue_2_frame1461.png 1 294 162 29 29
+./positive/blue_2_frame1462.png 1 289 161 35 28
+./positive/blue_2_frame1463.png 1 285 159 40 29
+./positive/blue_2_frame1464.png 1 288 159 32 29
+./positive/blue_2_frame1465.png 1 288 161 32 29
+./positive/blue_2_frame1466.png 1 288 159 32 30
+./positive/blue_2_frame1467.png 1 283 159 35 28
+./positive/blue_2_frame1468.png 1 284 160 36 28
+./positive/blue_2_frame1469.png 1 282 161 37 30
+./positive/blue_2_frame147.png 1 244 219 44 32
+./positive/blue_2_frame1506.png 1 311 163 48 37
+./positive/blue_2_frame1507.png 1 315 162 48 37
+./positive/blue_2_frame1508.png 1 322 163 48 37
+./positive/blue_2_frame1509.png 1 332 164 48 37
+./positive/blue_2_frame151.png 1 246 213 48 37
+./positive/blue_2_frame1510.png 1 338 162 48 37
+./positive/blue_2_frame1511.png 1 344 162 48 37
+./positive/blue_2_frame1512.png 1 348 163 48 37
+./positive/blue_2_frame1513.png 1 354 163 48 37
+./positive/blue_2_frame1514.png 1 358 163 48 37
+./positive/blue_2_frame1515.png 1 366 164 48 37
+./positive/blue_2_frame1516.png 1 372 164 48 37
+./positive/blue_2_frame1517.png 1 376 165 48 37
+./positive/blue_2_frame1518.png 1 379 164 48 37
+./positive/blue_2_frame1519.png 1 389 165 48 37
+./positive/blue_2_frame152.png 1 248 214 48 37
+./positive/blue_2_frame1520.png 2 394 165 48 37 321 165 49 35
+./positive/blue_2_frame1521.png 1 325 163 49 35
+./positive/blue_2_frame1522.png 1 330 163 49 35
+./positive/blue_2_frame1523.png 1 330 163 49 35
+./positive/blue_2_frame1704.png 1 189 163 32 31
+./positive/blue_2_frame1705.png 1 193 163 32 31
+./positive/blue_2_frame1706.png 1 194 163 32 31
+./positive/blue_2_frame1707.png 1 197 163 32 31
+./positive/blue_2_frame1708.png 1 200 163 32 31
+./positive/blue_2_frame1709.png 1 203 163 32 31
+./positive/blue_2_frame171.png 1 295 206 37 38
+./positive/blue_2_frame1710.png 1 204 163 32 31
+./positive/blue_2_frame1711.png 1 206 163 32 31
+./positive/blue_2_frame1712.png 1 208 163 32 31
+./positive/blue_2_frame1713.png 1 210 163 32 31
+./positive/blue_2_frame1714.png 1 211 163 32 31
+./positive/blue_2_frame1715.png 1 214 163 32 31
+./positive/blue_2_frame1716.png 1 215 163 32 31
+./positive/blue_2_frame1717.png 1 218 163 32 31
+./positive/blue_2_frame1718.png 1 221 163 32 31
+./positive/blue_2_frame1719.png 1 223 163 32 31
+./positive/blue_2_frame172.png 1 295 203 40 42
+./positive/blue_2_frame1720.png 1 225 163 32 31
+./positive/blue_2_frame1721.png 1 226 163 32 31
+./positive/blue_2_frame1470.png 1 283 161 32 24
+./positive/blue_2_frame1471.png 1 282 159 34 27
+./positive/blue_2_frame1472.png 1 285 161 30 26
+./positive/blue_2_frame1473.png 1 283 161 35 26
+./positive/blue_2_frame1474.png 1 283 159 35 27
+./positive/blue_2_frame1475.png 1 282 159 36 28
+./positive/blue_2_frame1476.png 1 284 160 33 26
+./positive/blue_2_frame1477.png 1 283 160 35 28
+./positive/blue_2_frame1478.png 1 284 160 35 28
+./positive/blue_2_frame1479.png 1 283 160 37 27
+./positive/blue_2_frame148.png 1 243 216 45 35
+./positive/blue_2_frame1480.png 1 283 159 37 29
+./positive/blue_2_frame1481.png 1 286 158 35 30
+./positive/blue_2_frame1482.png 1 286 160 36 28
+./positive/blue_2_frame1483.png 1 287 160 39 27
+./positive/blue_2_frame1484.png 1 290 162 37 26
+./positive/blue_2_frame1485.png 1 290 163 38 28
+./positive/blue_2_frame1486.png 1 294 162 38 27
+./positive/blue_2_frame1487.png 1 295 162 41 27
+./positive/blue_2_frame1488.png 1 298 163 38 25
+./positive/blue_2_frame1740.png 1 277 196 35 30
+./positive/blue_2_frame1741.png 1 280 203 33 28
+./positive/blue_2_frame1742.png 1 279 207 36 32
+./positive/blue_2_frame1743.png 1 281 210 35 31
+./positive/blue_2_frame1744.png 1 283 218 33 29
+./positive/blue_2_frame1745.png 1 281 220 38 33
+./positive/blue_2_frame1746.png 1 284 227 39 30
+./positive/blue_2_frame1747.png 1 287 237 35 30
+./positive/blue_2_frame1748.png 1 284 242 36 30
+./positive/blue_2_frame1749.png 1 287 243 35 35
+./positive/blue_2_frame175.png 1 303 205 41 37
+./positive/blue_2_frame1750.png 1 291 252 35 28
+./positive/blue_2_frame1751.png 1 296 256 27 21
+./positive/blue_2_frame1752.png 1 298 251 30 30
+./positive/blue_2_frame1753.png 1 299 252 26 28
+./positive/blue_2_frame1754.png 1 298 255 26 21
+./positive/blue_2_frame1755.png 1 301 250 27 26
+./positive/blue_2_frame1756.png 2 245 236 34 31 304 250 28 24
+./positive/blue_2_frame1757.png 2 244 236 37 26 308 244 21 28
+./positive/blue_2_frame1758.png 2 243 234 36 25 300 238 28 27
+./positive/blue_2_frame1795.png 2 303 200 30 21 264 198 20 26
+./positive/blue_2_frame1796.png 2 263 196 27 29 308 201 26 23
+./positive/blue_2_frame1797.png 1 267 199 24 25
+./positive/blue_2_frame1798.png 1 267 199 25 25
+./positive/blue_2_frame1799.png 1 266 195 29 29
+./positive/blue_2_frame18.png 1 349 186 46 33
+./positive/blue_2_frame180.png 1 241 201 38 36
+./positive/blue_2_frame1800.png 1 274 197 22 26
+./positive/blue_2_frame1801.png 1 272 199 30 22
+./positive/blue_2_frame1802.png 1 275 196 31 24
+./positive/blue_2_frame1803.png 1 285 197 28 25
+./positive/blue_2_frame1804.png 1 284 198 29 23
+./positive/blue_2_frame1805.png 1 288 198 26 24
+./positive/blue_2_frame1806.png 1 288 198 32 22
+./positive/blue_2_frame1807.png 1 290 199 31 21
+./positive/blue_2_frame1808.png 1 292 200 33 23
+./positive/blue_2_frame1809.png 1 295 197 33 29
+./positive/blue_2_frame181.png 1 240 202 39 31
+./positive/blue_2_frame1810.png 1 301 200 30 27
+./positive/blue_2_frame1811.png 1 309 199 32 29
+./positive/blue_2_frame1812.png 1 307 203 35 24
+./positive/blue_2_frame1813.png 1 313 207 32 20
+./positive/blue_2_frame1814.png 1 315 206 33 20
+./positive/blue_2_frame1815.png 1 316 202 33 25
+./positive/blue_2_frame1816.png 1 320 202 30 24
+./positive/blue_2_frame1817.png 1 319 205 34 23
+./positive/blue_2_frame1818.png 1 324 206 30 24
+./positive/blue_2_frame1819.png 1 324 204 32 25
+./positive/blue_2_frame182.png 1 236 205 45 31
+./positive/blue_2_frame1820.png 1 325 207 32 23
+./positive/blue_2_frame1821.png 2 287 207 24 19 331 207 25 20
+./positive/blue_2_frame1822.png 2 287 209 27 19 335 211 25 19
+./positive/blue_2_frame1823.png 1 288 209 29 23
+./positive/blue_2_frame1824.png 1 289 209 28 21
+./positive/blue_2_frame1825.png 1 289 211 33 23
+./positive/blue_2_frame1826.png 1 293 211 29 22
+./positive/blue_2_frame1827.png 1 294 214 27 19
+./positive/blue_2_frame1828.png 1 293 211 31 22
+./positive/blue_2_frame1829.png 1 296 211 29 19
+./positive/blue_2_frame183.png 1 241 203 41 31
+./positive/blue_2_frame1777.png 1 263 205 35 19
+./positive/blue_2_frame1778.png 1 264 204 35 19
+./positive/blue_2_frame1779.png 1 269 200 32 19
+./positive/blue_2_frame178.png 1 308 204 37 32
+./positive/blue_2_frame1780.png 1 271 198 32 19
+./positive/blue_2_frame1781.png 1 275 196 29 19
+./positive/blue_2_frame1782.png 1 281 195 29 19
+./positive/blue_2_frame1783.png 1 283 196 29 19
+./positive/blue_2_frame1784.png 1 284 198 29 19
+./positive/blue_2_frame1785.png 1 286 199 29 19
+./positive/blue_2_frame1786.png 1 288 200 29 19
+./positive/blue_2_frame1787.png 1 290 199 29 19
+./positive/blue_2_frame1788.png 1 291 202 29 19
+./positive/blue_2_frame1789.png 1 296 203 26 19
+./positive/blue_2_frame179.png 2 313 204 35 33 237 204 39 32
+./positive/blue_2_frame1790.png 1 296 203 26 19
+./positive/blue_2_frame1791.png 1 300 204 26 19
+./positive/blue_2_frame1792.png 1 303 204 26 19
+./positive/blue_2_frame1793.png 1 304 203 25 19
+./positive/blue_2_frame1794.png 1 304 203 25 19
+./positive/blue_2_frame1597.png 1 308 169 49 40
+./positive/blue_2_frame1598.png 1 311 166 48 43
+./positive/blue_2_frame1599.png 1 311 165 52 44
+./positive/blue_2_frame16.png 1 342 184 47 35
+./positive/blue_2_frame160.png 1 269 215 46 31
+./positive/blue_2_frame1600.png 1 313 168 53 39
+./positive/blue_2_frame1601.png 1 317 167 52 43
+./positive/blue_2_frame1602.png 1 323 170 48 35
+./positive/blue_2_frame1603.png 1 324 169 48 38
+./positive/blue_2_frame1604.png 1 329 171 45 36
+./positive/blue_2_frame1605.png 1 328 169 49 38
+./positive/blue_2_frame1606.png 1 332 172 44 34
+./positive/blue_2_frame1607.png 1 330 170 49 35
+./positive/blue_2_frame1608.png 1 331 171 50 34
+./positive/blue_2_frame1609.png 1 336 171 44 34
+./positive/blue_2_frame161.png 1 270 213 47 35
+./positive/blue_2_frame1610.png 1 341 172 36 30
+./positive/blue_2_frame1611.png 2 339 170 38 34 246 174 37 34
+./positive/blue_2_frame1612.png 2 244 175 40 34 339 170 36 37
+./positive/blue_2_frame1613.png 1 247 174 42 37
+./positive/blue_2_frame1650.png 1 184 154 48 47
+./positive/blue_2_frame1651.png 1 187 153 41 46
+./positive/blue_2_frame1652.png 1 184 152 45 47
+./positive/blue_2_frame1653.png 1 182 152 47 48
+./positive/blue_2_frame1654.png 1 184 150 44 50
+./positive/blue_2_frame1655.png 1 180 152 44 45
+./positive/blue_2_frame1656.png 1 177 150 47 50
+./positive/blue_2_frame1657.png 1 176 151 44 50
+./positive/blue_2_frame1658.png 1 170 150 46 47
+./positive/blue_2_frame1659.png 1 171 145 41 53
+./positive/blue_2_frame166.png 1 283 206 44 41
+./positive/blue_2_frame1660.png 1 248 170 47 42
+./positive/blue_2_frame1661.png 1 245 170 43 42
+./positive/blue_2_frame1662.png 1 239 166 50 48
+./positive/blue_2_frame1663.png 1 229 168 53 45
+./positive/blue_2_frame1664.png 1 227 168 49 45
+./positive/blue_2_frame1665.png 1 223 168 51 45
+./positive/blue_2_frame1666.png 1 220 168 49 47
+./positive/blue_2_frame1667.png 1 215 163 53 52
+./positive/blue_2_frame1668.png 1 211 168 52 43
+./positive/blue_2_frame1849.png 1 314 210 28 25
+./positive/blue_2_frame185.png 1 247 200 37 37
+./positive/blue_2_frame1850.png 1 315 210 28 25
+./positive/blue_2_frame1851.png 1 316 210 28 25
+./positive/blue_2_frame1852.png 1 318 210 28 25
+./positive/blue_2_frame1853.png 1 322 210 28 25
+./positive/blue_2_frame1854.png 1 323 210 28 25
+./positive/blue_2_frame1855.png 1 324 210 28 25
+./positive/blue_2_frame1856.png 1 326 210 28 25
+./positive/blue_2_frame1857.png 1 328 210 28 25
+./positive/blue_2_frame1858.png 1 331 210 28 25
+./positive/blue_2_frame1859.png 1 333 210 28 25
+./positive/blue_2_frame186.png 1 246 199 40 39
+./positive/blue_2_frame1860.png 1 334 210 28 25
+./positive/blue_2_frame1861.png 1 335 210 28 25
+./positive/blue_2_frame1862.png 1 337 210 28 25
+./positive/blue_2_frame1863.png 1 337 210 28 25
+./positive/blue_2_frame1864.png 1 339 210 28 25
+./positive/blue_2_frame1865.png 1 342 210 28 25
+./positive/blue_2_frame1866.png 1 342 210 28 25
+./positive/blue_2_frame1993.png 1 386 210 38 23
+./positive/blue_2_frame1994.png 1 384 208 42 27
+./positive/blue_2_frame1995.png 1 384 209 43 25
+./positive/blue_2_frame1996.png 1 387 208 41 26
+./positive/blue_2_frame1997.png 1 387 210 38 23
+./positive/blue_2_frame1998.png 1 383 205 44 29
+./positive/blue_2_frame1999.png 1 382 207 44 29
+./positive/blue_2_frame2.png 1 295 185 50 50
+./positive/blue_2_frame20.png 1 345 179 54 52
+./positive/blue_2_frame200.png 1 273 193 53 42
+./positive/blue_2_frame2000.png 1 389 208 34 25
+./positive/blue_2_frame2001.png 1 386 206 37 29
+./positive/blue_2_frame2002.png 1 385 206 41 28
+./positive/blue_2_frame2003.png 1 384 207 41 29
+./positive/blue_2_frame2004.png 1 385 205 39 27
+./positive/blue_2_frame2005.png 1 386 209 37 23
+./positive/blue_2_frame2006.png 1 387 209 37 23
+./positive/blue_2_frame2007.png 1 384 208 42 25
+./positive/blue_2_frame2008.png 1 385 206 43 26
+./positive/blue_2_frame2009.png 1 384 208 38 24
+./positive/blue_2_frame1939.png 1 398 210 37 20
+./positive/blue_2_frame194.png 1 255 203 50 28
+./positive/blue_2_frame1940.png 1 400 211 33 19
+./positive/blue_2_frame1941.png 1 397 210 37 20
+./positive/blue_2_frame1942.png 1 399 209 33 19
+./positive/blue_2_frame1943.png 1 396 207 37 24
+./positive/blue_2_frame1944.png 1 399 208 34 23
+./positive/blue_2_frame1945.png 1 399 209 35 24
+./positive/blue_2_frame1946.png 1 396 211 39 21
+./positive/blue_2_frame1947.png 1 403 209 30 22
+./positive/blue_2_frame1948.png 1 400 210 33 20
+./positive/blue_2_frame1949.png 1 398 209 34 22
+./positive/blue_2_frame195.png 1 266 203 42 29
+./positive/blue_2_frame1950.png 1 395 211 35 23
+./positive/blue_2_frame1951.png 1 398 210 32 19
+./positive/blue_2_frame1952.png 1 398 210 31 21
+./positive/blue_2_frame1953.png 1 393 211 35 21
+./positive/blue_2_frame1954.png 1 395 214 32 17
+./positive/blue_2_frame1955.png 1 391 211 33 23
+./positive/blue_2_frame1956.png 1 392 215 33 17
+./positive/blue_2_frame1975.png 1 390 214 32 18
+./positive/blue_2_frame1976.png 1 390 214 32 18
+./positive/blue_2_frame1977.png 1 390 214 32 18
+./positive/blue_2_frame1978.png 1 392 214 32 18
+./positive/blue_2_frame1979.png 1 392 214 32 18
+./positive/blue_2_frame198.png 1 272 200 43 32
+./positive/blue_2_frame1980.png 1 391 213 32 18
+./positive/blue_2_frame1981.png 1 392 214 32 18
+./positive/blue_2_frame1982.png 1 392 214 32 18
+./positive/blue_2_frame1983.png 1 390 212 32 18
+./positive/blue_2_frame1984.png 1 391 212 32 18
+./positive/blue_2_frame1985.png 1 391 213 32 18
+./positive/blue_2_frame1986.png 1 391 213 32 18
+./positive/blue_2_frame1987.png 1 391 213 32 18
+./positive/blue_2_frame1988.png 1 391 213 32 18
+./positive/blue_2_frame1989.png 1 391 213 32 18
+./positive/blue_2_frame199.png 1 273 200 47 32
+./positive/blue_2_frame1990.png 1 390 213 32 18
+./positive/blue_2_frame1991.png 1 391 212 32 18
+./positive/blue_2_frame1992.png 1 392 214 32 18
+./positive/blue_2_frame2046.png 1 375 226 32 22
+./positive/blue_2_frame2047.png 1 375 226 32 22
+./positive/blue_2_frame2048.png 1 375 226 32 22
+./positive/blue_2_frame2049.png 1 374 226 32 22
+./positive/blue_2_frame205.png 1 289 194 48 39
+./positive/blue_2_frame2050.png 1 374 226 32 22
+./positive/blue_2_frame2051.png 1 373 226 32 22
+./positive/blue_2_frame2052.png 1 372 226 32 22
+./positive/blue_2_frame2053.png 1 367 229 32 22
+./positive/blue_2_frame2054.png 1 365 230 32 22
+./positive/blue_2_frame2055.png 1 363 232 32 22
+./positive/blue_2_frame2056.png 1 360 234 32 22
+./positive/blue_2_frame2057.png 1 360 234 32 22
+./positive/blue_2_frame2058.png 1 360 234 32 22
+./positive/blue_2_frame2059.png 1 360 234 32 22
+./positive/blue_2_frame206.png 1 296 196 45 32
+./positive/blue_2_frame2060.png 1 359 233 32 22
+./positive/blue_2_frame2061.png 1 359 232 32 22
+./positive/blue_2_frame2062.png 1 358 233 32 22
+./positive/blue_2_frame2063.png 1 358 233 32 22
+./positive/blue_2_frame2064.png 1 357 232 32 22
+./positive/blue_2_frame2065.png 1 357 232 32 22
+./positive/blue_2_frame2066.png 1 355 232 32 22
+./positive/blue_2_frame2067.png 1 352 232 32 22
+./positive/blue_2_frame2068.png 1 350 232 32 22
+./positive/blue_2_frame2069.png 1 348 232 32 22
+./positive/blue_2_frame207.png 1 297 193 45 34
+./positive/blue_2_frame2070.png 1 346 234 32 22
+./positive/blue_2_frame2071.png 1 343 234 32 22
+./positive/blue_2_frame2072.png 1 343 234 32 22
+./positive/blue_2_frame2073.png 1 340 233 32 22
+./positive/blue_2_frame2074.png 1 335 236 32 22
+./positive/blue_2_frame2075.png 1 332 237 32 22
+./positive/blue_2_frame2076.png 1 329 237 32 22
+./positive/blue_2_frame2077.png 1 329 239 32 22
+./positive/blue_2_frame2078.png 1 328 237 32 22
+./positive/blue_2_frame2079.png 1 327 237 32 22
+./positive/blue_2_frame208.png 1 299 195 48 31
+./positive/blue_2_frame2080.png 1 326 237 32 22
+./positive/blue_2_frame2081.png 1 325 237 32 22
+./positive/blue_2_frame210.png 1 306 192 44 34
+./positive/blue_2_frame2100.png 1 279 242 31 23
+./positive/blue_2_frame2101.png 1 275 243 31 23
+./positive/blue_2_frame2102.png 1 272 243 31 23
+./positive/blue_2_frame2103.png 1 269 243 31 23
+./positive/blue_2_frame2104.png 1 268 241 31 23
+./positive/blue_2_frame2105.png 1 266 239 31 23
+./positive/blue_2_frame2106.png 1 263 239 31 23
+./positive/blue_2_frame2107.png 1 260 239 31 23
+./positive/blue_2_frame2108.png 1 257 237 31 23
+./positive/blue_2_frame2109.png 1 255 230 31 26
+./positive/blue_2_frame211.png 1 308 191 44 33
+./positive/blue_2_frame2110.png 1 252 227 31 26
+./positive/blue_2_frame2111.png 1 247 222 31 30
+./positive/blue_2_frame2112.png 1 244 222 31 25
+./positive/blue_2_frame2113.png 1 244 222 31 25
+./positive/blue_2_frame2114.png 1 241 222 31 25
+./positive/blue_2_frame2115.png 1 236 218 31 25
+./positive/blue_2_frame2116.png 1 233 214 31 27
+./positive/blue_2_frame2117.png 1 229 213 31 27
+./positive/blue_2_frame2118.png 1 225 211 29 30
+./positive/blue_2_frame2119.png 1 223 211 31 30
+./positive/blue_2_frame212.png 1 312 190 39 36
+./positive/blue_2_frame2120.png 1 223 214 29 28
+./positive/blue_2_frame2121.png 1 223 214 29 28
+./positive/blue_2_frame2122.png 1 221 216 29 28
+./positive/blue_2_frame2123.png 1 219 218 29 28
+./positive/blue_2_frame2124.png 1 217 220 29 28
+./positive/blue_2_frame2125.png 1 217 225 29 26
+./positive/blue_2_frame2126.png 1 217 229 29 26
+./positive/blue_2_frame2127.png 1 217 231 29 26
+./positive/blue_2_frame2128.png 1 217 233 29 26
+./positive/blue_2_frame2129.png 1 215 235 29 26
+./positive/blue_2_frame213.png 1 313 190 41 35
+./positive/blue_2_frame2130.png 1 215 236 29 26
+./positive/blue_2_frame2131.png 1 214 238 29 26
+./positive/blue_2_frame2132.png 1 215 242 29 26
+./positive/blue_2_frame2133.png 1 214 242 29 26
+./positive/blue_2_frame2134.png 1 212 242 33 26
+./positive/blue_2_frame2135.png 1 213 243 31 26
+./positive/blue_2_frame2136.png 1 213 243 31 26
+./positive/blue_2_frame2137.png 1 212 245 31 26
+./positive/blue_2_frame2138.png 1 212 245 31 26
+./positive/blue_2_frame2139.png 1 212 245 31 26
+./positive/blue_2_frame214.png 1 318 190 38 37
+./positive/blue_2_frame2140.png 1 212 245 31 26
+./positive/blue_2_frame2141.png 1 212 242 33 30
+./positive/blue_2_frame2142.png 1 212 242 33 28
+./positive/blue_2_frame2143.png 1 215 240 32 30
+./positive/blue_2_frame2144.png 1 217 238 32 30
+./positive/blue_2_frame2145.png 1 225 235 32 30
+./positive/blue_2_frame2146.png 1 231 233 32 30
+./positive/blue_2_frame2147.png 1 239 230 32 30
+./positive/blue_2_frame2148.png 1 246 225 32 30
+./positive/blue_2_frame2149.png 1 253 218 32 30
+./positive/blue_2_frame215.png 1 320 192 40 34
+./positive/blue_2_frame2150.png 1 272 205 30 32
+./positive/blue_2_frame2151.png 1 283 199 30 32
+./positive/blue_2_frame2152.png 1 294 194 30 29
+./positive/blue_2_frame2153.png 1 301 194 30 29
+./positive/blue_2_frame2154.png 1 308 188 30 31
+./positive/blue_2_frame2155.png 1 312 185 30 28
+./positive/blue_2_frame2156.png 1 316 183 30 28
+./positive/blue_2_frame2157.png 1 320 183 30 28
+./positive/blue_2_frame2158.png 1 325 181 30 28
+./positive/blue_2_frame2159.png 1 334 182 30 28
+./positive/blue_2_frame216.png 1 321 189 40 37
+./positive/blue_2_frame2160.png 1 338 183 30 28
+./positive/blue_2_frame2161.png 1 341 183 30 28
+./positive/blue_2_frame2162.png 1 347 184 31 28
+./positive/blue_2_frame2163.png 1 349 186 31 28
+./positive/blue_2_frame2164.png 1 352 186 31 28
+./positive/blue_2_frame2165.png 1 354 186 31 28
+./positive/blue_2_frame2166.png 1 355 186 31 28
+./positive/blue_2_frame2167.png 1 357 189 31 28
+./positive/blue_2_frame2168.png 1 359 190 31 28
+./positive/blue_2_frame2169.png 1 361 192 31 28
+./positive/blue_2_frame217.png 1 324 190 40 36
+./positive/blue_2_frame2170.png 1 361 192 31 28
+./positive/blue_2_frame2171.png 1 361 192 31 29
+./positive/blue_2_frame2172.png 1 363 195 31 28
+./positive/blue_2_frame2173.png 1 364 197 33 28
+./positive/blue_2_frame2174.png 1 371 203 31 28
+./positive/blue_2_frame2175.png 1 373 204 31 28
+./positive/blue_2_frame2176.png 1 374 206 32 28
+./positive/blue_2_frame2177.png 1 380 210 33 28
+./positive/blue_2_frame2178.png 1 386 212 33 28
+./positive/blue_2_frame2179.png 1 389 216 33 28
+./positive/blue_2_frame218.png 1 328 190 40 36
+./positive/blue_2_frame2180.png 1 393 219 35 28
+./positive/blue_2_frame2181.png 1 398 221 33 28
+./positive/blue_2_frame2182.png 1 401 221 33 28
+./positive/blue_2_frame2183.png 1 408 223 33 28
+./positive/blue_2_frame2184.png 1 411 224 34 28
+./positive/blue_2_frame2185.png 1 413 225 35 28
+./positive/blue_2_frame2186.png 1 414 227 33 28
+./positive/blue_2_frame2187.png 1 414 227 33 28
+./positive/blue_2_frame2188.png 1 410 232 34 28
+./positive/blue_2_frame2189.png 1 408 232 34 28
+./positive/blue_2_frame219.png 1 329 188 42 37
+./positive/blue_2_frame2190.png 1 407 232 32 28
+./positive/blue_2_frame2191.png 1 402 234 32 28
+./positive/blue_2_frame2192.png 1 398 236 32 28
+./positive/blue_2_frame2193.png 1 396 238 32 28
+./positive/blue_2_frame2194.png 1 394 238 32 28
+./positive/blue_2_frame2195.png 1 390 237 32 28
+./positive/blue_2_frame2196.png 1 389 235 32 28
+./positive/blue_2_frame2197.png 2 389 235 32 28 329 237 28 29
+./positive/blue_2_frame2198.png 2 389 235 32 28 329 236 27 26
+./positive/blue_2_frame2199.png 1 328 234 27 28
+./positive/blue_2_frame22.png 1 349 186 44 38
+./positive/blue_2_frame220.png 1 332 188 41 39
+./positive/blue_2_frame2200.png 1 328 234 27 28
+./positive/blue_2_frame2201.png 1 328 234 31 28
+./positive/blue_2_frame2202.png 1 328 234 31 27
+./positive/blue_2_frame2203.png 1 328 231 31 27
+./positive/blue_2_frame2204.png 1 329 228 31 27
+./positive/blue_2_frame2205.png 1 332 228 31 27
+./positive/blue_2_frame2206.png 1 333 229 31 27
+./positive/blue_2_frame2207.png 1 334 230 31 27
+./positive/blue_2_frame2208.png 1 334 228 32 27
+./positive/blue_2_frame2209.png 1 334 228 32 27
+./positive/blue_2_frame221.png 1 335 190 41 37
+./positive/blue_2_frame2210.png 1 334 228 34 27
+./positive/blue_2_frame2211.png 1 337 228 32 27
+./positive/blue_2_frame2212.png 1 335 232 32 27
+./positive/blue_2_frame2213.png 1 328 242 32 27
+./positive/blue_2_frame2214.png 1 325 245 32 27
+./positive/blue_2_frame2215.png 1 326 248 32 27
+./positive/blue_2_frame2216.png 1 326 252 32 27
+./positive/blue_2_frame2217.png 1 326 254 32 27
+./positive/blue_2_frame2218.png 1 326 255 32 27
+./positive/blue_2_frame2219.png 1 326 255 32 27
+./positive/blue_2_frame222.png 1 337 188 40 38
+./positive/blue_2_frame2220.png 1 324 255 33 27
+./positive/blue_2_frame2221.png 1 324 255 33 25
+./positive/blue_2_frame2222.png 1 324 255 33 27
+./positive/blue_2_frame2223.png 1 328 252 33 27
+./positive/blue_2_frame2224.png 1 330 253 31 27
+./positive/blue_2_frame2225.png 1 330 253 31 27
+./positive/blue_2_frame2226.png 1 330 253 31 27
+./positive/blue_2_frame2227.png 1 330 253 31 27
+./positive/blue_2_frame2228.png 1 330 252 31 25
+./positive/blue_2_frame2229.png 1 330 252 31 25
+./positive/blue_2_frame223.png 1 341 187 40 39
+./positive/blue_2_frame2230.png 2 330 252 31 25 265 260 31 28
+./positive/blue_2_frame2231.png 2 330 252 31 25 265 260 31 28
+./positive/blue_2_frame2232.png 2 332 249 28 25 263 256 31 28
+./positive/blue_2_frame2233.png 1 265 253 31 28
+./positive/blue_2_frame2234.png 1 265 249 31 28
+./positive/blue_2_frame2235.png 1 265 243 31 28
+./positive/blue_2_frame2236.png 1 263 237 31 28
+./positive/blue_2_frame2237.png 1 264 229 31 28
+./positive/blue_2_frame2238.png 1 264 220 31 28
+./positive/blue_2_frame2239.png 1 265 213 31 32
+./positive/blue_2_frame224.png 1 340 189 42 37
+./positive/blue_2_frame2240.png 1 269 208 31 28
+./positive/blue_2_frame2241.png 1 273 204 31 28
+./positive/blue_2_frame2242.png 1 275 197 31 28
+./positive/blue_2_frame2243.png 1 274 189 31 28
+./positive/blue_2_frame2316.png 1 307 229 40 21
+./positive/blue_2_frame2317.png 1 312 235 40 21
+./positive/blue_2_frame2318.png 1 316 239 40 21
+./positive/blue_2_frame2319.png 1 317 241 42 22
+./positive/blue_2_frame232.png 1 358 193 47 31
+./positive/blue_2_frame2320.png 1 321 241 40 21
+./positive/blue_2_frame2321.png 1 324 241 40 21
+./positive/blue_2_frame2322.png 1 325 241 40 21
+./positive/blue_2_frame2323.png 1 330 241 40 21
+./positive/blue_2_frame2324.png 1 334 242 40 21
+./positive/blue_2_frame2325.png 1 338 243 38 21
+./positive/blue_2_frame2326.png 1 339 241 36 21
+./positive/blue_2_frame2327.png 1 343 241 36 21
+./positive/blue_2_frame2328.png 1 345 241 36 21
+./positive/blue_2_frame2329.png 1 349 242 36 21
+./positive/blue_2_frame233.png 1 359 194 50 33
+./positive/blue_2_frame2330.png 1 351 244 36 21
+./positive/blue_2_frame2331.png 1 357 243 36 21
+./positive/blue_2_frame2332.png 1 359 243 36 21
+./positive/blue_2_frame2333.png 1 368 244 28 21
+./positive/blue_2_frame2334.png 2 372 240 29 30 305 231 24 29
+./positive/blue_2_frame2335.png 2 375 240 29 30 306 231 24 29
+./positive/blue_2_frame2336.png 2 379 240 26 30 306 231 25 29
+./positive/blue_2_frame2337.png 1 307 231 27 29
+./positive/blue_2_frame2338.png 1 307 232 27 29
+./positive/blue_2_frame2339.png 1 308 234 29 29
+./positive/blue_2_frame234.png 1 364 189 42 42
+./positive/blue_2_frame2340.png 1 309 237 31 29
+./positive/blue_2_frame2341.png 1 310 238 31 29
+./positive/blue_2_frame2342.png 1 311 242 31 29
+./positive/blue_2_frame2343.png 1 309 251 34 29
+./positive/blue_2_frame2344.png 1 309 255 34 29
+./positive/blue_2_frame2345.png 1 308 258 34 29
+./positive/blue_2_frame2346.png 1 308 260 34 29
+./positive/blue_2_frame2347.png 1 308 263 34 29
+./positive/blue_2_frame2348.png 1 309 264 35 31
+./positive/blue_2_frame2349.png 1 314 266 35 31
+./positive/blue_2_frame235.png 1 367 191 43 38
+./positive/blue_2_frame2350.png 1 315 267 37 31
+./positive/blue_2_frame2351.png 1 319 266 37 31
+./positive/blue_2_frame2352.png 1 324 266 40 29
+./positive/blue_2_frame2353.png 1 326 266 40 29
+./positive/blue_2_frame2354.png 1 328 266 40 29
+./positive/blue_2_frame2355.png 1 332 267 40 29
+./positive/blue_2_frame2356.png 1 335 267 40 29
+./positive/blue_2_frame2357.png 1 336 267 40 29
+./positive/blue_2_frame2358.png 1 338 267 40 29
+./positive/blue_2_frame2359.png 1 343 267 34 29
+./positive/blue_2_frame236.png 1 369 192 46 34
+./positive/blue_2_frame2360.png 1 346 270 34 25
+./positive/blue_2_frame2361.png 1 348 269 34 25
+./positive/blue_2_frame2362.png 1 349 268 34 25
+./positive/blue_2_frame2363.png 2 351 266 34 25 292 264 29 25
+./positive/blue_2_frame2364.png 1 294 264 29 25
+./positive/blue_2_frame2365.png 1 297 264 29 25
+./positive/blue_2_frame2366.png 1 299 264 33 25
+./positive/blue_2_frame2367.png 1 302 264 33 25
+./positive/blue_2_frame2368.png 1 305 264 33 25
+./positive/blue_2_frame2369.png 1 306 264 33 25
+./positive/blue_2_frame237.png 1 369 198 41 29
+./positive/blue_2_frame2370.png 1 308 259 34 34
+./positive/blue_2_frame2371.png 1 310 259 34 34
+./positive/blue_2_frame2372.png 1 317 259 34 34
+./positive/blue_2_frame2373.png 1 319 257 34 34
+./positive/blue_2_frame2374.png 1 324 256 34 34
+./positive/blue_2_frame2375.png 1 327 256 34 34
+./positive/blue_2_frame2376.png 1 328 256 34 34
+./positive/blue_2_frame2377.png 1 330 256 34 34
+./positive/blue_2_frame2378.png 1 332 256 34 34
+./positive/blue_2_frame2379.png 1 334 256 34 34
+./positive/blue_2_frame238.png 1 367 190 44 45
+./positive/blue_2_frame2380.png 1 339 256 34 34
+./positive/blue_2_frame2381.png 1 339 256 34 34
+./positive/blue_2_frame2382.png 1 341 255 34 34
+./positive/blue_2_frame2383.png 1 343 253 34 34
+./positive/blue_2_frame2384.png 1 345 253 34 34
+./positive/blue_2_frame2385.png 1 347 253 34 34
+./positive/blue_2_frame2386.png 1 348 253 34 34
+./positive/blue_2_frame2387.png 1 350 252 34 34
+./positive/blue_2_frame2388.png 1 353 252 34 34
+./positive/blue_2_frame2389.png 1 356 253 33 28
+./positive/blue_2_frame239.png 1 361 200 44 31
+./positive/blue_2_frame2390.png 1 356 253 33 28
+./positive/blue_2_frame2391.png 1 358 253 33 28
+./positive/blue_2_frame2392.png 1 362 253 33 28
+./positive/blue_2_frame2393.png 1 363 254 33 28
+./positive/blue_2_frame2394.png 1 363 254 33 28
+./positive/blue_2_frame2395.png 1 366 252 33 28
+./positive/blue_2_frame2396.png 1 368 252 33 28
+./positive/blue_2_frame2397.png 1 368 251 33 28
+./positive/blue_2_frame2398.png 1 370 251 33 28
+./positive/blue_2_frame2399.png 1 373 251 33 28
+./positive/blue_2_frame24.png 1 344 185 42 33
+./positive/blue_2_frame240.png 1 357 203 44 33
+./positive/blue_2_frame2400.png 1 376 253 33 28
+./positive/blue_2_frame2401.png 1 379 252 33 28
+./positive/blue_2_frame2402.png 1 379 252 33 28
+./positive/blue_2_frame2403.png 1 379 252 33 28
+./positive/blue_2_frame2404.png 1 382 253 33 28
+./positive/blue_2_frame2405.png 1 382 253 33 28
+./positive/blue_2_frame2406.png 1 379 254 43 26
+./positive/blue_2_frame2407.png 1 381 253 43 26
+./positive/blue_2_frame2408.png 1 380 251 43 26
+./positive/blue_2_frame2409.png 1 382 250 43 26
+./positive/blue_2_frame241.png 1 351 205 48 35
+./positive/blue_2_frame2410.png 1 382 246 43 26
+./positive/blue_2_frame2411.png 1 383 245 43 26
+./positive/blue_2_frame2412.png 1 384 243 43 26
+./positive/blue_2_frame2413.png 1 382 233 43 26
+./positive/blue_2_frame2414.png 1 383 229 43 26
+./positive/blue_2_frame2415.png 1 383 226 43 26
+./positive/blue_2_frame2416.png 1 382 222 43 26
+./positive/blue_2_frame2417.png 1 382 216 43 26
+./positive/blue_2_frame2418.png 1 378 210 43 26
+./positive/blue_2_frame2419.png 1 375 206 43 26
+./positive/blue_2_frame242.png 1 345 207 47 35
+./positive/blue_2_frame2420.png 1 369 199 43 26
+./positive/blue_2_frame2421.png 1 366 198 43 26
+./positive/blue_2_frame2422.png 1 363 199 43 26
+./positive/blue_2_frame2423.png 1 360 199 43 26
+./positive/blue_2_frame2442.png 1 326 208 35 31
+./positive/blue_2_frame2443.png 1 319 208 35 31
+./positive/blue_2_frame2444.png 1 315 204 35 31
+./positive/blue_2_frame2445.png 1 309 202 37 31
+./positive/blue_2_frame2446.png 1 307 200 38 31
+./positive/blue_2_frame2447.png 1 307 200 38 31
+./positive/blue_2_frame2448.png 1 305 199 38 31
+./positive/blue_2_frame2449.png 1 303 199 41 31
+./positive/blue_2_frame245.png 1 341 211 41 36
+./positive/blue_2_frame2450.png 1 302 199 38 31
+./positive/blue_2_frame2451.png 1 297 200 38 31
+./positive/blue_2_frame2452.png 1 294 200 38 31
+./positive/blue_2_frame2453.png 1 292 201 38 31
+./positive/blue_2_frame2454.png 1 292 201 38 31
+./positive/blue_2_frame2455.png 1 289 202 38 31
+./positive/blue_2_frame2456.png 1 287 201 38 31
+./positive/blue_2_frame2457.png 1 286 201 38 31
+./positive/blue_2_frame2458.png 1 284 201 38 31
+./positive/blue_2_frame2459.png 1 282 201 38 31
+./positive/blue_2_frame246.png 1 339 212 43 34
+./positive/blue_2_frame2424.png 1 356 197 45 41
+./positive/blue_2_frame2425.png 1 351 197 45 41
+./positive/blue_2_frame2426.png 1 340 204 47 41
+./positive/blue_2_frame2427.png 1 335 206 45 41
+./positive/blue_2_frame2428.png 1 330 210 45 41
+./positive/blue_2_frame2429.png 1 324 210 45 41
+./positive/blue_2_frame243.png 1 341 205 45 43
+./positive/blue_2_frame2430.png 1 318 210 45 41
+./positive/blue_2_frame2431.png 1 304 208 45 41
+./positive/blue_2_frame2432.png 1 298 208 45 41
+./positive/blue_2_frame2433.png 1 288 207 45 41
+./positive/blue_2_frame2434.png 1 285 207 40 41
+./positive/blue_2_frame2435.png 1 280 206 40 41
+./positive/blue_2_frame2436.png 1 276 205 40 41
+./positive/blue_2_frame2437.png 2 272 204 40 41 345 209 35 43
+./positive/blue_2_frame2438.png 2 264 204 36 41 338 209 37 37
+./positive/blue_2_frame2439.png 2 264 204 31 41 336 209 35 37
+./positive/blue_2_frame244.png 1 339 211 46 39
+./positive/blue_2_frame2440.png 1 332 208 35 37
+./positive/blue_2_frame2441.png 1 329 208 35 37
+./positive/blue_2_frame2479.png 1 351 189 41 34
+./positive/blue_2_frame248.png 1 337 214 40 36
+./positive/blue_2_frame2480.png 1 351 189 41 34
+./positive/blue_2_frame2481.png 1 349 189 41 34
+./positive/blue_2_frame2482.png 1 347 190 41 34
+./positive/blue_2_frame2483.png 1 346 190 41 34
+./positive/blue_2_frame2484.png 1 341 193 41 34
+./positive/blue_2_frame2485.png 1 341 193 41 34
+./positive/blue_2_frame2486.png 1 341 193 38 34
+./positive/blue_2_frame2487.png 1 339 194 38 34
+./positive/blue_2_frame2488.png 1 339 194 38 34
+./positive/blue_2_frame2489.png 1 333 194 38 34
+./positive/blue_2_frame249.png 1 339 216 40 34
+./positive/blue_2_frame2490.png 1 333 194 38 34
+./positive/blue_2_frame2491.png 1 331 195 36 34
+./positive/blue_2_frame2492.png 1 329 195 36 34
+./positive/blue_2_frame2493.png 1 327 195 36 34
+./positive/blue_2_frame2494.png 1 324 195 36 34
+./positive/blue_2_frame2495.png 1 324 195 36 34
+./positive/blue_2_frame2496.png 1 324 199 34 30
+./positive/blue_2_frame2460.png 1 279 200 38 28
+./positive/blue_2_frame2461.png 1 281 200 38 28
+./positive/blue_2_frame2462.png 1 281 200 35 28
+./positive/blue_2_frame2463.png 1 286 197 34 28
+./positive/blue_2_frame2464.png 1 291 197 35 28
+./positive/blue_2_frame2465.png 1 374 200 42 31
+./positive/blue_2_frame2466.png 1 374 196 42 31
+./positive/blue_2_frame2467.png 1 374 195 42 31
+./positive/blue_2_frame2468.png 1 374 193 42 31
+./positive/blue_2_frame2469.png 1 374 190 42 31
+./positive/blue_2_frame247.png 1 337 216 44 33
+./positive/blue_2_frame2470.png 1 372 190 42 31
+./positive/blue_2_frame2471.png 1 368 190 42 31
+./positive/blue_2_frame2472.png 1 363 190 42 31
+./positive/blue_2_frame2473.png 1 362 192 42 31
+./positive/blue_2_frame2474.png 1 357 193 42 31
+./positive/blue_2_frame2475.png 1 356 192 42 31
+./positive/blue_2_frame2476.png 1 354 192 42 31
+./positive/blue_2_frame2477.png 1 352 191 42 31
+./positive/blue_2_frame2478.png 1 350 191 42 31
+./positive/blue_2_frame2514.png 1 255 234 29 23
+./positive/blue_2_frame2515.png 1 253 234 29 23
+./positive/blue_2_frame2516.png 1 251 234 29 23
+./positive/blue_2_frame2517.png 1 251 234 29 23
+./positive/blue_2_frame2518.png 1 248 234 29 23
+./positive/blue_2_frame2519.png 1 248 234 29 23
+./positive/blue_2_frame252.png 1 336 216 45 32
+./positive/blue_2_frame2520.png 1 248 231 29 23
+./positive/blue_2_frame2521.png 1 248 231 29 23
+./positive/blue_2_frame2522.png 1 248 231 29 23
+./positive/blue_2_frame2523.png 1 248 231 29 23
+./positive/blue_2_frame2524.png 1 248 231 29 23
+./positive/blue_2_frame2525.png 1 248 230 29 23
+./positive/blue_2_frame2526.png 1 248 230 29 23
+./positive/blue_2_frame2527.png 1 248 230 29 23
+./positive/blue_2_frame2528.png 1 250 230 28 23
+./positive/blue_2_frame2529.png 1 250 230 28 23
+./positive/blue_2_frame253.png 1 334 217 45 37
+./positive/blue_2_frame2530.png 1 253 231 28 23
+./positive/blue_2_frame2531.png 1 253 231 28 23
+./positive/blue_2_frame2569.png 1 271 223 27 23
+./positive/blue_2_frame257.png 1 335 218 47 36
+./positive/blue_2_frame2570.png 1 269 222 27 23
+./positive/blue_2_frame2571.png 1 269 222 27 23
+./positive/blue_2_frame2572.png 1 266 218 27 23
+./positive/blue_2_frame2573.png 1 266 218 27 23
+./positive/blue_2_frame2574.png 1 263 217 27 23
+./positive/blue_2_frame2575.png 1 260 218 27 23
+./positive/blue_2_frame258.png 0
+./positive/blue_2_frame259.png 0
+./positive/blue_2_frame26.png 0
+./positive/blue_2_frame260.png 0
+./positive/blue_2_frame261.png 0
+./positive/blue_2_frame262.png 0
+./positive/blue_2_frame263.png 0
+./positive/blue_2_frame264.png 0
+./positive/blue_2_frame265.png 0
+./positive/blue_2_frame266.png 0
+./positive/blue_2_frame267.png 0
+./positive/blue_2_frame268.png 0
+./positive/blue_2_frame287.png 1 323 216 50 40
+./positive/blue_2_frame288.png 1 323 216 50 40
+./positive/blue_2_frame289.png 1 319 217 50 40
+./positive/blue_2_frame29.png 1 330 194 42 35
+./positive/blue_2_frame290.png 1 318 216 50 40
+./positive/blue_2_frame291.png 1 318 216 50 40
+./positive/blue_2_frame292.png 1 312 215 50 40
+./positive/blue_2_frame293.png 1 312 215 50 40
+./positive/blue_2_frame294.png 1 307 215 48 40
+./positive/blue_2_frame295.png 1 307 215 46 40
+./positive/blue_2_frame296.png 1 303 214 46 40
+./positive/blue_2_frame297.png 1 303 214 46 40
+./positive/blue_2_frame298.png 1 301 214 46 40
+./positive/blue_2_frame299.png 1 295 214 46 40
+./positive/blue_2_frame3.png 1 302 192 43 35
+./positive/blue_2_frame30.png 1 329 195 43 33
+./positive/blue_2_frame300.png 2 295 214 46 40 388 218 45 42
+./positive/blue_2_frame301.png 1 388 218 45 42
+./positive/blue_2_frame302.png 1 383 217 45 42
+./positive/blue_2_frame303.png 1 378 217 45 42
+./positive/blue_2_frame304.png 1 374 217 45 42
+./positive/blue_2_frame305.png 1 370 217 45 42
+./positive/blue_2_frame306.png 1 359 217 49 42
+./positive/blue_2_frame307.png 1 356 217 49 42
+./positive/blue_2_frame308.png 1 350 216 49 42
+./positive/blue_2_frame309.png 1 346 216 49 42
+./positive/blue_2_frame31.png 1 327 194 44 35
+./positive/blue_2_frame310.png 1 335 215 49 42
+./positive/blue_2_frame311.png 1 328 215 53 42
+./positive/blue_2_frame312.png 1 325 215 53 42
+./positive/blue_2_frame313.png 1 320 215 53 42
+./positive/blue_2_frame314.png 1 314 212 53 42
+./positive/blue_2_frame315.png 1 302 212 53 42
+./positive/blue_2_frame316.png 1 298 213 53 42
+./positive/blue_2_frame317.png 1 286 211 55 44
+./positive/blue_2_frame318.png 1 283 211 55 44
+./positive/blue_2_frame319.png 1 278 211 55 44
+./positive/blue_2_frame32.png 1 329 194 42 39
+./positive/blue_2_frame320.png 1 273 210 55 44
+./positive/blue_2_frame321.png 1 264 209 55 44
+./positive/blue_2_frame322.png 1 260 208 55 44
+./positive/blue_2_frame323.png 1 255 208 55 44
+./positive/blue_2_frame324.png 1 248 206 55 44
+./positive/blue_2_frame325.png 1 246 205 55 44
+./positive/blue_2_frame326.png 1 243 204 52 44
+./positive/blue_2_frame327.png 1 243 204 52 44
+./positive/blue_2_frame328.png 1 239 202 52 44
+./positive/blue_2_frame329.png 1 236 200 49 44
+./positive/blue_2_frame33.png 1 329 192 45 38
+./positive/blue_2_frame330.png 1 233 200 49 44
+./positive/blue_2_frame331.png 1 230 200 49 44
+./positive/blue_2_frame332.png 1 230 200 49 44
+./positive/blue_2_frame333.png 1 230 200 49 44
+./positive/blue_2_frame334.png 1 226 198 47 44
+./positive/blue_2_frame335.png 1 226 198 47 44
+./positive/blue_2_frame336.png 2 226 198 47 44 316 203 45 42
+./positive/blue_2_frame337.png 1 316 203 45 42
+./positive/blue_2_frame338.png 1 316 203 45 42
+./positive/blue_2_frame339.png 1 316 203 45 42
+./positive/blue_2_frame34.png 1 329 191 45 35
+./positive/blue_2_frame340.png 1 316 203 45 42
+./positive/blue_2_frame341.png 1 316 203 45 42
+./positive/blue_2_frame342.png 1 316 203 45 42
+./positive/blue_2_frame343.png 1 316 203 45 42
+./positive/blue_2_frame344.png 1 316 203 45 42
+./positive/blue_2_frame345.png 1 316 203 45 42
+./positive/blue_2_frame346.png 1 319 201 45 42
+./positive/blue_2_frame347.png 1 319 201 45 42
+./positive/blue_2_frame348.png 1 319 201 45 42
+./positive/blue_2_frame349.png 1 319 201 45 42
+./positive/blue_2_frame35.png 1 329 182 45 38
+./positive/blue_2_frame350.png 1 319 201 45 42
+./positive/blue_2_frame351.png 1 319 201 45 42
+./positive/blue_2_frame352.png 1 319 201 45 42
+./positive/blue_2_frame353.png 1 319 201 45 42
+./positive/blue_2_frame354.png 1 320 197 45 42
+./positive/blue_2_frame355.png 1 318 194 47 42
+./positive/blue_2_frame356.png 1 318 194 47 42
+./positive/blue_2_frame357.png 1 318 194 47 42
+./positive/blue_2_frame358.png 1 320 196 45 42
+./positive/blue_2_frame359.png 1 318 194 47 42
+./positive/blue_2_frame36.png 1 331 178 45 31
+./positive/blue_2_frame360.png 1 318 194 47 42
+./positive/blue_2_frame361.png 1 318 194 47 42
+./positive/blue_2_frame362.png 1 318 194 47 42
+./positive/blue_2_frame363.png 1 318 194 47 42
+./positive/blue_2_frame364.png 1 318 194 47 42
+./positive/blue_2_frame365.png 1 318 194 47 42
+./positive/blue_2_frame366.png 1 318 194 47 42
+./positive/blue_2_frame367.png 1 318 194 47 42
+./positive/blue_2_frame368.png 1 318 194 47 42
+./positive/blue_2_frame369.png 1 318 194 47 42
+./positive/blue_2_frame37.png 1 332 175 47 32
+./positive/blue_2_frame370.png 1 318 194 43 38
+./positive/blue_2_frame371.png 1 318 194 43 38
+./positive/blue_2_frame372.png 2 318 194 43 38 421 214 44 42
+./positive/blue_2_frame373.png 1 421 214 44 42
+./positive/blue_2_frame374.png 1 421 214 44 42
+./positive/blue_2_frame375.png 1 421 214 44 42
+./positive/blue_2_frame376.png 1 415 214 44 42
+./positive/blue_2_frame377.png 1 413 214 47 42
+./positive/blue_2_frame378.png 1 408 214 47 42
+./positive/blue_2_frame379.png 1 408 214 47 42
+./positive/blue_2_frame38.png 1 333 164 47 40
+./positive/blue_2_frame380.png 1 403 214 47 42
+./positive/blue_2_frame381.png 1 399 214 49 42
+./positive/blue_2_frame382.png 1 394 214 49 42
+./positive/blue_2_frame383.png 1 391 214 49 42
+./positive/blue_2_frame384.png 1 384 214 54 42
+./positive/blue_2_frame385.png 1 384 214 54 42
+./positive/blue_2_frame386.png 1 379 214 54 42
+./positive/blue_2_frame387.png 1 371 215 54 42
+./positive/blue_2_frame388.png 1 365 215 58 42
+./positive/blue_2_frame389.png 1 361 215 58 42
+./positive/blue_2_frame39.png 1 336 164 43 40
+./positive/blue_2_frame390.png 1 358 214 58 42
+./positive/blue_2_frame391.png 1 349 214 58 42
+./positive/blue_2_frame392.png 1 345 213 58 42
+./positive/blue_2_frame393.png 1 336 212 58 42
+./positive/blue_2_frame394.png 1 332 212 58 42
+./positive/blue_2_frame412.png 1 369 196 56 45
+./positive/blue_2_frame413.png 1 369 196 56 45
+./positive/blue_2_frame414.png 1 363 196 56 45
+./positive/blue_2_frame415.png 1 358 196 56 45
+./positive/blue_2_frame416.png 1 354 196 56 45
+./positive/blue_2_frame417.png 1 348 196 58 45
+./positive/blue_2_frame418.png 1 340 196 58 45
+./positive/blue_2_frame419.png 1 340 196 58 45
+./positive/blue_2_frame42.png 1 332 161 47 39
+./positive/blue_2_frame420.png 1 334 196 58 45
+./positive/blue_2_frame421.png 1 330 196 58 45
+./positive/blue_2_frame422.png 1 320 196 58 45
+./positive/blue_2_frame423.png 1 315 196 58 45
+./positive/blue_2_frame424.png 1 309 195 58 45
+./positive/blue_2_frame425.png 1 304 195 58 45
+./positive/blue_2_frame426.png 1 301 194 58 45
+./positive/blue_2_frame427.png 1 301 194 58 45
+./positive/blue_2_frame428.png 1 288 193 58 45
+./positive/blue_2_frame429.png 1 288 193 58 45
+./positive/blue_2_frame43.png 1 332 162 49 38
+./positive/blue_2_frame430.png 1 282 193 55 45
+./positive/blue_2_frame431.png 1 275 193 52 45
+./positive/blue_2_frame432.png 1 275 193 52 45
+./positive/blue_2_frame433.png 1 266 190 52 45
+./positive/blue_2_frame434.png 1 266 190 52 45
+./positive/blue_2_frame435.png 1 266 190 52 45
+./positive/blue_2_frame436.png 1 352 193 47 45
+./positive/blue_2_frame437.png 1 352 193 47 45
+./positive/blue_2_frame438.png 1 343 193 47 45
+./positive/blue_2_frame439.png 1 335 193 47 45
+./positive/blue_2_frame44.png 1 333 166 47 39
+./positive/blue_2_frame440.png 1 331 191 47 45
+./positive/blue_2_frame441.png 1 327 192 47 45
+./positive/blue_2_frame442.png 1 319 193 47 45
+./positive/blue_2_frame443.png 1 316 192 47 45
+./positive/blue_2_frame444.png 1 312 192 47 45
+./positive/blue_2_frame445.png 1 308 192 47 45
+./positive/blue_2_frame446.png 1 305 190 49 45
+./positive/blue_2_frame447.png 1 303 190 49 45
+./positive/blue_2_frame448.png 1 296 190 49 45
+./positive/blue_2_frame449.png 1 288 189 55 41
+./positive/blue_2_frame45.png 1 333 168 49 40
+./positive/blue_2_frame450.png 1 288 189 50 41
+./positive/blue_2_frame451.png 1 288 189 50 41
+./positive/blue_2_frame452.png 1 281 189 50 41
+./positive/blue_2_frame453.png 1 281 189 50 41
+./positive/blue_2_frame454.png 1 275 189 50 41
+./positive/blue_2_frame455.png 1 275 189 50 41
+./positive/blue_2_frame456.png 1 269 188 50 41
+./positive/blue_2_frame457.png 1 269 188 50 41
+./positive/blue_2_frame458.png 1 265 188 50 41
+./positive/blue_2_frame459.png 1 259 187 52 41
+./positive/blue_2_frame46.png 1 334 168 48 41
+./positive/blue_2_frame460.png 1 259 187 52 41
+./positive/blue_2_frame461.png 1 253 187 52 41
+./positive/blue_2_frame462.png 1 253 187 52 41
+./positive/blue_2_frame463.png 1 249 185 52 41
+./positive/blue_2_frame464.png 1 249 185 52 41
+./positive/blue_2_frame465.png 1 249 185 52 41
+./positive/blue_2_frame466.png 1 249 185 52 41
+./positive/blue_2_frame467.png 1 245 185 49 41
+./positive/blue_2_frame468.png 1 245 185 49 41
+./positive/blue_2_frame469.png 1 242 183 49 41
+./positive/blue_2_frame47.png 1 334 169 47 39
+./positive/blue_2_frame470.png 1 242 183 49 41
+./positive/blue_2_frame471.png 1 242 183 49 41
+./positive/blue_2_frame472.png 1 242 183 49 41
+./positive/blue_2_frame473.png 1 242 183 49 41
+./positive/blue_2_frame474.png 1 242 183 49 41
+./positive/blue_2_frame475.png 1 242 183 49 41
+./positive/blue_2_frame476.png 1 242 183 49 41
+./positive/blue_2_frame477.png 1 242 183 49 41
+./positive/blue_2_frame478.png 1 242 183 49 41
+./positive/blue_2_frame479.png 1 242 183 49 41
+./positive/blue_2_frame48.png 1 334 167 48 43
+./positive/blue_2_frame480.png 1 248 183 47 41
+./positive/blue_2_frame481.png 1 248 183 47 41
+./positive/blue_2_frame482.png 2 248 183 47 41 248 183 47 41
+./positive/blue_2_frame483.png 1 253 181 46 41
+./positive/blue_2_frame484.png 1 255 182 45 41
+./positive/blue_2_frame485.png 1 257 183 42 37
+./positive/blue_2_frame486.png 1 257 183 42 37
+./positive/blue_2_frame487.png 1 257 183 42 37
+./positive/blue_2_frame488.png 1 260 182 42 37
+./positive/blue_2_frame489.png 1 260 182 42 37
+./positive/blue_2_frame49.png 1 336 170 49 37
+./positive/blue_2_frame490.png 1 264 182 42 37
+./positive/blue_2_frame491.png 1 264 182 42 37
+./positive/blue_2_frame492.png 1 264 182 42 37
+./positive/blue_2_frame493.png 1 270 182 42 37
+./positive/blue_2_frame494.png 1 270 182 42 37
+./positive/blue_2_frame495.png 1 270 182 42 37
+./positive/blue_2_frame496.png 1 273 182 41 37
+./positive/blue_2_frame497.png 1 275 182 42 37
+./positive/blue_2_frame498.png 1 276 182 42 37
+./positive/blue_2_frame499.png 1 278 183 42 37
+./positive/blue_2_frame5.png 1 311 188 42 37
+./positive/blue_2_frame50.png 1 335 168 51 40
+./positive/blue_2_frame500.png 1 281 183 42 37
+./positive/blue_2_frame501.png 1 282 183 42 37
+./positive/blue_2_frame502.png 1 284 184 42 33
+./positive/blue_2_frame503.png 1 287 184 42 33
+./positive/blue_2_frame504.png 1 287 184 42 33
+./positive/blue_2_frame505.png 1 287 184 42 33
+./positive/blue_2_frame506.png 1 292 185 42 33
+./positive/blue_2_frame507.png 1 292 185 42 33
+./positive/blue_2_frame508.png 1 292 185 42 33
+./positive/blue_2_frame509.png 1 296 185 42 33
+./positive/blue_2_frame51.png 1 334 167 51 43
+./positive/blue_2_frame510.png 1 296 185 42 33
+./positive/blue_2_frame511.png 1 296 185 42 33
+./positive/blue_2_frame512.png 1 301 185 42 33
+./positive/blue_2_frame513.png 1 303 185 42 33
+./positive/blue_2_frame514.png 1 303 185 42 33
+./positive/blue_2_frame515.png 1 303 185 42 33
+./positive/blue_2_frame516.png 1 303 185 42 33
+./positive/blue_2_frame517.png 1 308 185 42 33
+./positive/blue_2_frame518.png 1 308 185 42 33
+./positive/blue_2_frame519.png 1 308 185 42 33
+./positive/blue_2_frame52.png 1 334 169 51 41
+./positive/blue_2_frame520.png 1 314 185 36 31
+./positive/blue_2_frame521.png 1 314 185 36 31
+./positive/blue_2_frame522.png 1 314 185 36 31
+./positive/blue_2_frame523.png 1 314 185 36 31
+./positive/blue_2_frame524.png 1 314 185 36 31
+./positive/blue_2_frame525.png 1 314 185 36 31
+./positive/blue_2_frame526.png 1 317 185 36 31
+./positive/blue_2_frame527.png 1 318 185 36 31
+./positive/blue_2_frame528.png 1 318 185 36 31
+./positive/blue_2_frame529.png 1 318 185 36 31
+./positive/blue_2_frame53.png 1 333 165 53 43
+./positive/blue_2_frame530.png 1 318 185 36 31
+./positive/blue_2_frame531.png 1 318 185 36 31
+./positive/blue_2_frame532.png 1 318 185 36 31
+./positive/blue_2_frame533.png 1 318 185 36 31
+./positive/blue_2_frame534.png 1 318 185 36 31
+./positive/blue_2_frame535.png 1 318 185 32 31
+./positive/blue_2_frame536.png 1 318 185 32 28
+./positive/blue_2_frame537.png 1 318 185 32 28
+./positive/blue_2_frame538.png 1 318 185 32 28
+./positive/blue_2_frame539.png 1 318 185 32 28
+./positive/blue_2_frame54.png 1 333 168 50 41
+./positive/blue_2_frame540.png 1 318 185 32 28
+./positive/blue_2_frame541.png 1 318 185 32 28
+./positive/blue_2_frame542.png 2 318 185 32 28 261 183 29 28
+./positive/blue_2_frame543.png 1 261 183 29 28
+./positive/blue_2_frame544.png 1 261 183 29 28
+./positive/blue_2_frame545.png 1 261 183 29 28
+./positive/blue_2_frame546.png 1 261 183 29 28
+./positive/blue_2_frame547.png 1 261 183 29 28
+./positive/blue_2_frame548.png 1 261 183 29 28
+./positive/blue_2_frame549.png 1 261 183 29 28
+./positive/blue_2_frame55.png 1 332 166 52 42
+./positive/blue_2_frame550.png 1 261 183 29 28
+./positive/blue_2_frame551.png 1 261 183 29 28
+./positive/blue_2_frame552.png 1 261 183 29 28
+./positive/blue_2_frame553.png 1 263 183 29 28
+./positive/blue_2_frame554.png 1 265 184 30 28
+./positive/blue_2_frame555.png 1 265 184 30 28
+./positive/blue_2_frame556.png 1 267 183 32 28
+./positive/blue_2_frame557.png 1 267 183 32 28
+./positive/blue_2_frame558.png 1 272 183 32 28
+./positive/blue_2_frame559.png 1 272 183 32 28
+./positive/blue_2_frame56.png 1 333 165 50 43
+./positive/blue_2_frame560.png 1 275 184 32 28
+./positive/blue_2_frame561.png 1 276 183 32 28
+./positive/blue_2_frame562.png 1 279 182 32 28
+./positive/blue_2_frame563.png 1 279 182 32 28
+./positive/blue_2_frame564.png 1 283 183 32 28
+./positive/blue_2_frame565.png 1 283 183 32 28
+./positive/blue_2_frame566.png 1 289 182 32 28
+./positive/blue_2_frame567.png 1 294 183 32 28
+./positive/blue_2_frame568.png 1 294 183 32 28
+./positive/blue_2_frame569.png 1 298 183 32 28
+./positive/blue_2_frame57.png 1 335 166 52 45
+./positive/blue_2_frame570.png 1 301 183 32 28
+./positive/blue_2_frame571.png 1 301 183 32 28
+./positive/blue_2_frame572.png 1 308 183 32 28
+./positive/blue_2_frame573.png 1 313 183 32 28
+./positive/blue_2_frame574.png 1 317 184 32 28

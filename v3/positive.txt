@@ -1,0 +1,320 @@
+./positive/1_frame_100.png 1 167 131 158 70
+./positive/1_frame_1000.png 2 168 96 108 47 728 113 92 64
+./positive/1_frame_1001.png 1 229 102 100 40
+./positive/1_frame_1002.png 1 285 99 91 43
+./positive/1_frame_1003.png 1 326 97 91 43
+./positive/1_frame_1004.png 1 368 98 85 43
+./positive/1_frame_1005.png 1 391 101 73 43
+./positive/1_frame_1006.png 1 377 99 74 44
+./positive/1_frame_1007.png 1 358 97 78 41
+./positive/1_frame_1008.png 1 327 97 84 41
+./positive/1_frame_1009.png 1 294 97 84 41
+./positive/1_frame_101.png 1 186 125 159 80
+./positive/1_frame_1010.png 1 237 95 99 40
+./positive/1_frame_1011.png 2 175 94 101 40 661 126 90 43
+./positive/1_frame_1012.png 2 116 95 105 44 596 124 82 41
+./positive/1_frame_1013.png 2 55 93 106 45 543 124 71 42
+./positive/1_frame_1014.png 2 499 121 61 47 0 95 113 49
+./positive/1_frame_1015.png 2 559 145 67 38 456 126 53 38
+./positive/1_frame_1016.png 2 402 123 53 38 505 143 67 39
+./positive/1_frame_1017.png 1 444 144 73 39
+./positive/1_frame_1018.png 1 385 150 74 34
+./positive/1_frame_1019.png 1 326 152 79 37
+./positive/1_frame_102.png 1 204 132 162 72
+./positive/1_frame_1020.png 1 265 153 92 40
+./positive/1_frame_1021.png 1 203 156 105 39
+./positive/1_frame_1022.png 1 182 151 86 58
+./positive/1_frame_1023.png 1 181 155 70 51
+./positive/1_frame_1024.png 1 180 153 70 55
+./positive/1_frame_1025.png 1 169 151 75 57
+./positive/1_frame_1026.png 1 148 153 88 57
+./positive/1_frame_1027.png 1 142 155 77 61
+./positive/1_frame_1028.png 1 150 157 81 56
+./positive/1_frame_1029.png 1 164 152 78 52
+./positive/1_frame_103.png 1 223 130 158 69
+./positive/1_frame_1030.png 1 170 151 81 56
+./positive/1_frame_1031.png 1 176 152 91 59
+./positive/1_frame_1032.png 1 201 155 109 52
+./positive/1_frame_1033.png 1 243 152 113 50
+./positive/1_frame_1034.png 1 284 151 104 48
+./positive/1_frame_1035.png 1 321 148 104 48
+./positive/1_frame_1054.png 2 288 96 86 39 500 149 85 57
+./positive/1_frame_1055.png 2 480 150 85 57 271 96 83 34
+./positive/1_frame_1056.png 2 462 152 85 57 247 98 92 34
+./positive/1_frame_1057.png 2 442 155 85 57 231 97 88 33
+./positive/1_frame_1058.png 2 202 95 94 37 421 152 85 57
+./positive/1_frame_1059.png 2 180 92 98 45 399 153 85 57
+./positive/1_frame_106.png 1 275 128 151 75
+./positive/1_frame_1060.png 2 372 156 85 57 151 97 97 35
+./positive/1_frame_1061.png 2 347 156 85 64 121 98 105 33
+./positive/1_frame_1062.png 2 315 159 92 60 94 99 107 35
+./positive/1_frame_1063.png 2 286 160 93 63 73 99 101 35
+./positive/1_frame_1064.png 2 266 164 88 60 55 99 102 36
+./positive/1_frame_1065.png 2 244 164 89 67 51 98 85 38
+./positive/1_frame_1066.png 2 240 165 86 68 51 99 95 40
+./positive/1_frame_1067.png 2 231 165 95 74 63 99 88 38
+./positive/1_frame_1068.png 2 68 98 97 41 226 166 89 77
+./positive/1_frame_1069.png 2 215 171 93 73 84 99 86 38
+./positive/1_frame_107.png 1 292 125 149 74
+./positive/1_frame_1070.png 1 215 171 100 81
+./positive/1_frame_1071.png 1 221 174 114 82
+./positive/1_frame_1127.png 2 276 212 67 53 558 175 77 39
+./positive/1_frame_1128.png 2 268 200 67 53 558 168 77 39
+./positive/1_frame_1129.png 2 259 191 67 53 554 157 77 29
+./positive/1_frame_113.png 1 387 129 118 66
+./positive/1_frame_1130.png 2 251 171 67 53 552 141 77 34
+./positive/1_frame_1131.png 2 246 150 67 53 549 116 77 34
+./positive/1_frame_1132.png 2 236 129 67 53 548 96 72 34
+./positive/1_frame_1133.png 2 229 131 67 53 548 96 72 34
+./positive/1_frame_1134.png 2 224 144 67 53 537 108 72 34
+./positive/1_frame_1135.png 2 218 137 67 53 537 105 72 34
+./positive/1_frame_1136.png 2 214 129 67 53 533 96 72 34
+./positive/1_frame_1137.png 2 214 134 67 53 531 96 72 34
+./positive/1_frame_1138.png 2 219 142 67 53 534 105 72 34
+./positive/1_frame_1139.png 2 228 145 67 53 541 109 72 34
+./positive/1_frame_114.png 1 364 130 135 61
+./positive/1_frame_1140.png 2 238 152 67 53 555 117 72 34
+./positive/1_frame_1141.png 2 252 182 67 53 568 142 72 34
+./positive/1_frame_1142.png 2 264 202 67 53 578 164 72 34
+./positive/1_frame_1143.png 2 271 214 67 53 588 175 72 34
+./positive/1_frame_1144.png 2 274 226 67 53 593 184 72 34
+./positive/1_frame_1145.png 2 272 235 67 53 595 196 72 34
+./positive/1_frame_1146.png 2 262 239 67 53 590 198 72 34
+./positive/1_frame_1147.png 2 253 240 67 53 583 202 72 34
+./positive/1_frame_1148.png 2 244 247 67 53 579 208 72 34
+./positive/1_frame_1149.png 2 242 253 67 53 578 213 72 34
+./positive/1_frame_115.png 1 352 126 125 67
+./positive/1_frame_1150.png 2 237 254 67 53 580 214 72 34
+./positive/1_frame_1151.png 2 234 254 67 53 582 213 72 34
+./positive/1_frame_1152.png 2 233 259 67 53 586 216 72 34
+./positive/1_frame_1153.png 2 225 259 67 53 584 216 72 34
+./positive/1_frame_1154.png 2 219 257 67 53 584 212 72 34
+./positive/1_frame_1155.png 2 212 249 67 53 582 206 72 34
+./positive/1_frame_1156.png 2 204 227 67 53 582 187 72 34
+./positive/1_frame_1157.png 2 189 204 73 53 576 162 72 34
+./positive/1_frame_1158.png 2 174 191 75 53 568 147 72 34
+./positive/1_frame_1159.png 2 159 175 75 58 560 130 72 34
+./positive/1_frame_116.png 1 335 124 138 66
+./positive/1_frame_1160.png 2 147 159 75 58 556 114 72 34
+./positive/1_frame_1161.png 2 136 148 75 58 554 100 72 34
+./positive/1_frame_1162.png 2 130 155 75 58 551 106 72 34
+./positive/1_frame_1163.png 2 127 157 75 58 554 114 72 34
+./positive/1_frame_1164.png 2 131 152 81 58 564 107 81 34
+./positive/1_frame_1165.png 2 156 148 75 58 591 101 72 34
+./positive/1_frame_1166.png 2 180 151 80 63 617 106 91 34
+./positive/1_frame_1167.png 2 213 153 80 63 653 107 91 34
+./positive/1_frame_1168.png 2 247 146 80 63 697 106 91 34
+./positive/1_frame_1169.png 2 286 144 80 63 751 104 91 35
+./positive/1_frame_117.png 1 334 125 121 62
+./positive/1_frame_1170.png 1 329 149 80 63
+./positive/1_frame_1171.png 1 371 147 91 65
+./positive/1_frame_1172.png 1 414 147 91 65
+./positive/1_frame_1173.png 1 458 146 91 65
+./positive/1_frame_1174.png 1 502 149 91 65
+./positive/1_frame_1175.png 1 550 152 91 65
+./positive/1_frame_1176.png 1 596 153 91 65
+./positive/1_frame_1177.png 1 636 157 91 65
+./positive/1_frame_1178.png 1 677 154 98 71
+./positive/1_frame_1179.png 1 729 159 97 73
+./positive/1_frame_118.png 1 333 123 121 64
+./positive/1_frame_1180.png 1 762 153 84 87
+./positive/1_frame_1181.png 0
+./positive/1_frame_1182.png 0
+./positive/1_frame_1183.png 0
+./positive/1_frame_1184.png 0
+./positive/1_frame_1185.png 0
+./positive/1_frame_1186.png 0
+./positive/1_frame_1187.png 0
+./positive/1_frame_1188.png 0
+./positive/1_frame_1189.png 0
+./positive/1_frame_119.png 0
+./positive/1_frame_1190.png 0
+./positive/1_frame_1191.png 0
+./positive/1_frame_1192.png 0
+./positive/1_frame_1193.png 0
+./positive/1_frame_1194.png 0
+./positive/1_frame_1195.png 0
+./positive/1_frame_1196.png 0
+./positive/1_frame_1197.png 0
+./positive/1_frame_1198.png 0
+./positive/1_frame_1199.png 0
+./positive/1_frame_1218.png 1 467 245 77 60
+./positive/1_frame_1219.png 1 467 245 77 60
+./positive/1_frame_122.png 2 293 119 128 66 702 113 77 67
+./positive/1_frame_1220.png 1 473 240 74 68
+./positive/1_frame_1221.png 1 475 245 74 68
+./positive/1_frame_1222.png 1 481 245 74 68
+./positive/1_frame_1223.png 1 481 247 74 68
+./positive/1_frame_1224.png 1 485 242 74 68
+./positive/1_frame_1225.png 1 488 237 74 68
+./positive/1_frame_1226.png 1 489 230 74 68
+./positive/1_frame_1227.png 1 492 220 74 68
+./positive/1_frame_1228.png 1 494 212 74 68
+./positive/1_frame_1229.png 1 496 210 74 68
+./positive/1_frame_123.png 2 286 114 121 72 673 113 82 63
+./positive/1_frame_1230.png 1 498 214 79 68
+./positive/1_frame_1231.png 1 498 214 79 68
+./positive/1_frame_1232.png 1 502 214 79 68
+./positive/1_frame_1233.png 1 503 214 79 68
+./positive/1_frame_1234.png 1 504 214 79 68
+./positive/1_frame_1235.png 1 498 214 87 68
+./positive/1_frame_1236.png 1 474 214 100 68
+./positive/1_frame_1237.png 1 448 214 100 68
+./positive/1_frame_1238.png 1 420 214 100 68
+./positive/1_frame_1239.png 1 388 213 100 68
+./positive/1_frame_124.png 2 279 117 118 59 670 117 64 48
+./positive/1_frame_1240.png 1 350 205 112 71
+./positive/1_frame_1241.png 1 319 208 113 70
+./positive/1_frame_1242.png 1 289 208 113 70
+./positive/1_frame_1243.png 1 256 210 113 70
+./positive/1_frame_1244.png 1 225 207 113 70
+./positive/1_frame_1245.png 1 194 208 113 70
+./positive/1_frame_1246.png 1 165 214 113 70
+./positive/1_frame_1247.png 1 139 211 113 70
+./positive/1_frame_1248.png 1 112 212 113 70
+./positive/1_frame_1249.png 1 85 216 113 70
+./positive/1_frame_125.png 2 279 121 119 58 654 114 68 48
+./positive/1_frame_1250.png 2 54 211 121 79 477 145 68 34
+./positive/1_frame_1251.png 2 30 216 121 79 449 143 68 34
+./positive/1_frame_1252.png 3 5 215 121 79 419 143 68 34 117 337 5 4
+./positive/1_frame_1253.png 2 390 140 76 36 0 220 101 74
+./positive/1_frame_1254.png 1 362 140 78 40
+./positive/1_frame_1255.png 1 336 143 78 40
+./positive/1_frame_1256.png 1 317 141 78 40
+./positive/1_frame_1257.png 1 293 143 78 40
+./positive/1_frame_1258.png 1 275 143 78 40
+./positive/1_frame_1259.png 1 261 146 75 34
+./positive/1_frame_126.png 2 278 116 114 64 645 114 64 55
+./positive/1_frame_1260.png 1 261 146 75 34
+./positive/1_frame_1261.png 1 261 146 75 34
+./positive/1_frame_1262.png 1 270 148 75 34
+./positive/1_frame_1263.png 1 281 148 62 34
+./positive/1_frame_1264.png 1 276 148 62 34
+./positive/1_frame_1265.png 1 271 148 62 34
+./positive/1_frame_1266.png 1 263 149 62 34
+./positive/1_frame_1267.png 1 261 145 62 34
+./positive/1_frame_1268.png 1 264 148 69 34
+./positive/1_frame_1269.png 2 275 145 71 34 -1 218 114 82
+./positive/1_frame_127.png 2 275 113 107 65 630 114 62 50
+./positive/1_frame_1270.png 2 281 146 72 36 14 219 118 78
+./positive/1_frame_1271.png 2 284 143 62 34 33 218 114 82
+./positive/1_frame_1272.png 2 43 217 106 82 284 141 63 34
+./positive/1_frame_1273.png 2 62 218 106 82 284 141 63 34
+./positive/1_frame_1274.png 2 106 218 106 82 304 143 63 34
+./positive/1_frame_1275.png 2 148 215 122 82 321 142 83 34
+./positive/1_frame_1276.png 2 224 213 106 82 380 140 63 34
+./positive/1_frame_1277.png 2 279 212 106 82 413 142 63 34
+./positive/1_frame_1278.png 2 337 216 106 82 447 142 63 34
+./positive/1_frame_1279.png 2 395 216 101 76 487 140 63 34
+./positive/1_frame_128.png 2 267 109 104 64 614 106 63 55
+./positive/1_frame_1280.png 2 443 216 106 82 514 139 75 34
+./positive/1_frame_1281.png 2 498 227 97 74 544 139 75 33
+./positive/1_frame_1282.png 1 568 139 75 34
+./positive/1_frame_1283.png 1 594 141 75 34
+./positive/1_frame_1284.png 1 609 141 75 34
+./positive/1_frame_1285.png 2 610 142 75 34 424 264 101 109
+./positive/1_frame_1286.png 1 424 264 101 109
+./positive/1_frame_1287.png 1 424 264 101 109
+./positive/1_frame_1288.png 1 411 272 108 109
+./positive/1_frame_1289.png 1 410 276 108 109
+./positive/1_frame_129.png 2 262 106 104 73 607 103 56 57
+./positive/1_frame_1290.png 1 399 274 124 127
+./positive/1_frame_1291.png 1 391 283 132 118
+./positive/1_frame_1292.png 1 394 291 132 118
+./positive/1_frame_1293.png 1 396 298 132 118
+./positive/1_frame_1294.png 1 396 298 150 128
+./positive/1_frame_1295.png 1 415 310 150 128
+./positive/1_frame_1296.png 1 430 310 150 128
+./positive/1_frame_1297.png 1 449 310 150 128
+./positive/1_frame_1298.png 1 467 311 150 128
+./positive/1_frame_1299.png 1 479 303 150 128
+./positive/1_frame_130.png 2 253 103 106 76 598 107 53 49
+./positive/1_frame_1300.png 2 497 298 150 128 174 151 89 35
+./positive/1_frame_1301.png 2 515 291 146 123 151 150 89 35
+./positive/1_frame_1302.png 2 526 294 155 113 127 152 89 35
+./positive/1_frame_1303.png 2 539 288 138 107 105 153 89 35
+./positive/1_frame_1304.png 2 554 283 129 104 78 156 89 35
+./positive/1_frame_1305.png 2 557 278 118 105 52 154 89 35
+./positive/1_frame_1306.png 2 567 269 100 109 28 154 89 35
+./positive/1_frame_1307.png 2 570 270 96 99 3 160 89 35
+./positive/1_frame_1308.png 1 357 218 74 90
+./positive/1_frame_1309.png 1 355 222 71 83
+./positive/1_frame_131.png 2 249 110 101 61 583 105 57 51
+./positive/1_frame_1310.png 1 355 222 71 83
+./positive/1_frame_1311.png 1 355 222 71 83
+./positive/1_frame_1312.png 1 362 220 71 83
+./positive/1_frame_1313.png 1 370 214 71 83
+./positive/1_frame_1314.png 1 374 214 77 86
+./positive/1_frame_1315.png 1 379 213 78 88
+./positive/1_frame_1316.png 1 386 208 76 87
+./positive/1_frame_1317.png 1 392 207 76 93
+./positive/1_frame_1318.png 1 403 207 87 84
+./positive/1_frame_1319.png 1 423 206 87 85
+./positive/1_frame_132.png 2 246 111 92 57 574 103 52 50
+./positive/1_frame_1320.png 1 434 204 92 85
+./positive/1_frame_1321.png 1 449 202 89 86
+./positive/1_frame_1322.png 1 460 202 83 83
+./positive/1_frame_1323.png 1 458 199 83 83
+./positive/1_frame_1324.png 1 455 195 83 83
+./positive/1_frame_1325.png 1 452 197 80 80
+./positive/1_frame_1326.png 1 454 198 78 79
+./positive/1_frame_1327.png 1 461 199 76 74
+./positive/1_frame_1328.png 1 466 195 76 74
+./positive/1_frame_1329.png 1 470 198 76 74
+./positive/1_frame_133.png 2 246 113 85 52 571 107 50 41
+./positive/1_frame_1330.png 1 475 198 76 74
+./positive/1_frame_1331.png 1 480 195 76 74
+./positive/1_frame_1332.png 1 481 190 76 74
+./positive/1_frame_1333.png 1 480 195 76 74
+./positive/1_frame_1334.png 1 476 199 76 74
+./positive/1_frame_1335.png 1 475 204 76 74
+./positive/1_frame_1336.png 1 460 211 76 68
+./positive/1_frame_1337.png 1 439 206 76 74
+./positive/1_frame_1338.png 1 411 209 76 74
+./positive/1_frame_1339.png 1 377 207 76 74
+./positive/1_frame_134.png 2 246 111 89 58 569 108 51 42
+./positive/1_frame_1340.png 1 347 206 76 74
+./positive/1_frame_1341.png 1 325 212 76 74
+./positive/1_frame_1342.png 1 307 210 76 74
+./positive/1_frame_1343.png 1 297 212 76 74
+./positive/1_frame_1344.png 1 277 210 76 74
+./positive/1_frame_1345.png 1 251 213 76 74
+./positive/1_frame_1346.png 1 218 214 87 74
+./positive/1_frame_1347.png 1 201 218 87 74
+./positive/1_frame_1348.png 1 190 215 87 74
+./positive/1_frame_1349.png 1 184 215 87 74
+./positive/1_frame_135.png 3 255 109 80 62 574 107 49 40 438 336 6 5
+./positive/1_frame_1350.png 1 182 213 87 74
+./positive/1_frame_1351.png 1 177 215 87 74
+./positive/1_frame_1352.png 1 173 219 87 74
+./positive/1_frame_1353.png 1 164 215 87 74
+./positive/1_frame_1354.png 1 149 219 87 74
+./positive/1_frame_1355.png 1 133 220 95 74
+./positive/1_frame_1356.png 1 132 221 87 74
+./positive/1_frame_1357.png 1 137 221 87 74
+./positive/1_frame_1358.png 1 139 223 93 74
+./positive/1_frame_1359.png 1 144 224 93 74
+./positive/1_frame_136.png 1 581 106 50 42
+./positive/1_frame_1360.png 1 139 223 93 74
+./positive/1_frame_1361.png 1 136 216 93 74
+./positive/1_frame_1362.png 1 137 209 97 74
+./positive/1_frame_140.png 1 616 99 54 50
+./positive/1_frame_1400.png 1 538 171 85 69
+./positive/1_frame_1401.png 1 536 168 85 69
+./positive/1_frame_1402.png 1 527 169 85 69
+./positive/1_frame_1403.png 1 528 170 85 69
+./positive/1_frame_1404.png 1 526 172 85 63
+./positive/1_frame_1405.png 1 520 170 85 69
+./positive/1_frame_1406.png 1 517 172 85 69
+./positive/1_frame_1407.png 1 515 169 85 69
+./positive/1_frame_1408.png 1 513 167 85 69
+./positive/1_frame_1409.png 1 512 167 85 69
+./positive/1_frame_141.png 1 634 101 70 48
+./positive/1_frame_1410.png 1 513 170 85 69
+./positive/1_frame_1411.png 1 511 169 85 69
+./positive/1_frame_1412.png 1 508 173 82 68
+./positive/1_frame_1413.png 1 508 173 82 68
+./positive/1_frame_1414.png 1 503 173 82 68
+./positive/1_frame_1415.png 1 498 172 82 68
+./positive/1_frame_1416.png 1 495 172 82 68
+./positive/1_frame_1417.png 1 491 169 80 69
